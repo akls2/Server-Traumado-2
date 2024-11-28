@@ -1564,3 +1564,80 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 23:29:01.824] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
 [28Nov2024 23:33:29.646] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [28Nov2024 23:33:29.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[28Nov2024 23:37:25.766] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[28Nov2024 23:37:25.899] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[28Nov2024 23:37:28.381] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shermy731[/127.113.99.108:57683] logged in with entity id 396 at (71.5, 84.0, -5.5)
+[28Nov2024 23:37:28.385] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[28Nov2024 23:37:28.394] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/entity/boss/KnightPhantom$Formation
+[28Nov2024 23:37:28.396] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ancient_Remnant_Entity$AttackMode
+[28Nov2024 23:37:28.406] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/The_Leviathan/The_Leviathan_Entity$AttackMode
+[28Nov2024 23:37:28.407] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/SpellcasterIllager$IllagerSpell
+[28Nov2024 23:37:28.409] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/VillagerLike$PlayerModel
+[28Nov2024 23:37:28.424] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/Pet/Modern_Remnant_Entity$AttackMode
+[28Nov2024 23:37:28.426] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Nameless_Sorcerer_Entity$SpellType
+[28Nov2024 23:37:28.431] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/Pet/The_Baby_Leviathan_Entity$AttackMode
+[28Nov2024 23:37:28.453] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/network/server/SPChangeGamerule$SynchronizedGameRules
+[28Nov2024 23:37:28.474] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Face
+[28Nov2024 23:37:28.475] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$TerrainType
+[28Nov2024 23:37:28.476] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Biome
+[28Nov2024 23:37:28.476] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Feature
+[28Nov2024 23:37:28.495] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/utils/MiscUtils$Festivity
+[28Nov2024 23:37:28.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shermy731 joined the game
+[28Nov2024 23:37:28.866] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[28Nov2024 23:37:28.992] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/network/Kind
+[28Nov2024 23:37:29.081] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[28Nov2024 23:37:29.090] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[28Nov2024 23:37:29.132] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[28Nov2024 23:37:29.142] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[28Nov2024 23:37:29.220] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/EquipmentSet
+[28Nov2024 23:37:29.400] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[28Nov2024 23:37:29.428] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Action
+[28Nov2024 23:37:29.478] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/trains/signal/EdgeGroupColor
+[28Nov2024 23:37:29.791] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/network/ClientRequestSettingsPacket$Event
+[28Nov2024 23:37:29.872] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/Entity$MovementEmission
+[28Nov2024 23:37:29.909] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[28Nov2024 23:37:29.938] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aetherteam/nitrogen/capability/INBTSynchable$Direction
+[28Nov2024 23:37:29.965] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/network/server/SPChangeSkill$State
+[28Nov2024 23:37:29.987] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[28Nov2024 23:37:29.990] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/corosus/watut/PlayerStatus$PlayerGuiState
+[28Nov2024 23:37:30.004] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/alrex/parcool/common/action/StaminaConsumeTiming
+[28Nov2024 23:37:30.021] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/network/ConfirmedSetting$Event
+[28Nov2024 23:37:30.025] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of shermy731 (18)
+[28Nov2024 23:37:30.035] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to shermy731
+[28Nov2024 23:37:30.036] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting journeymap/common/network/data/Side
+[28Nov2024 23:37:30.121] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 23977449-6652-3b82-a07d-de51b78117a8 was loaded
+[28Nov2024 23:37:30.138] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/village/poi/PoiManager$Occupancy
+[28Nov2024 23:37:30.433] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/zeta/event/bus/ZResult
+[28Nov2024 23:37:30.762] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/profiling/metrics/MetricCategory
+[28Nov2024 23:37:30.860] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Block
+[28Nov2024 23:37:30.863] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/phys/HitResult$Type
+[28Nov2024 23:37:31.652] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KitsuneVariant
+[28Nov2024 23:37:36.511] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/corosus/watut/PlayerStatus$PlayerChatState
+[28Nov2024 23:37:37.288] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipState
+[28Nov2024 23:37:38.145] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[28Nov2024 23:37:38.565] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[28Nov2024 23:37:50.680] [Worker-Main-16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[28Nov2024 23:37:59.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=71, y=85, z=-6}
+[28Nov2024 23:37:59.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=71, y=85, z=-6}
+[28Nov2024 23:38:00.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=71, y=85, z=-6}
+[28Nov2024 23:38:06.665] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/alrex/parcool/common/network/SyncActionStateMessage$DataType
+[28Nov2024 23:38:12.742] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
+[28Nov2024 23:38:14.882] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/world/entity/eventlistener/ComboCounterHandleEvent$Causal
+[28Nov2024 23:38:19.039] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[28Nov2024 23:38:19.791] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[28Nov2024 23:39:27.387] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[28Nov2024 23:40:32.074] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
+[28Nov2024 23:41:02.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=60, y=91, z=-9} BlockPos{x=68, y=92, z=-16}
+[28Nov2024 23:43:31.120] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[28Nov2024 23:43:31.123] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[28Nov2024 23:44:32.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=56, y=86, z=12} BlockPos{x=64, y=91, z=-11}
+[28Nov2024 23:44:36.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: akls[/127.248.228.106:50351] logged in with entity id 1090 at (359.6421316025486, 80.0, 33.90479907150057)
+[28Nov2024 23:44:36.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls joined the game
+[28Nov2024 23:44:38.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=90, z=-11} BlockPos{x=65, y=90, z=-10}
+[28Nov2024 23:44:38.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=90, z=-11} BlockPos{x=65, y=90, z=-11}
+[28Nov2024 23:44:38.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=90, z=-11} BlockPos{x=66, y=90, z=-11}
+[28Nov2024 23:44:38.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=90, z=-11} BlockPos{x=65, y=90, z=-10}
+[28Nov2024 23:44:39.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=90, z=-11} BlockPos{x=65, y=90, z=-11}
+[28Nov2024 23:44:39.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=90, z=-11} BlockPos{x=65, y=90, z=-10}
+[28Nov2024 23:44:40.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=90, z=-11} BlockPos{x=66, y=90, z=-10}
+[28Nov2024 23:44:40.320] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was loaded
