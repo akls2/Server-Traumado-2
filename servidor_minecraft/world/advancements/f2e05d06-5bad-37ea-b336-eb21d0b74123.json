@@ -1,0 +1,193 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-02 03:06:14 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2024-12-02 03:06:14 +0000"
+    },
+    "done": true
+  },
+  "weaponmaster:parts/root": {
+    "criteria": {
+      "crafting_table": "2024-12-02 03:06:14 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2024-12-02 03:06:14 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2024-12-02 03:06:14 +0000",
+      "wild_strawberry": "2024-12-02 03:06:14 +0000",
+      "corn": "2024-12-02 03:06:14 +0000",
+      "onion": "2024-12-02 03:06:14 +0000",
+      "wild_corn": "2024-12-02 03:06:14 +0000",
+      "wild_ribwort": "2024-12-02 03:06:14 +0000",
+      "strawberry": "2024-12-02 03:06:14 +0000",
+      "wild_nettle": "2024-12-02 03:06:14 +0000",
+      "barley": "2024-12-02 03:06:14 +0000",
+      "tomato": "2024-12-02 03:06:14 +0000",
+      "lettuce": "2024-12-02 03:06:14 +0000",
+      "wild_lettuce": "2024-12-02 03:06:14 +0000",
+      "wild_tomatoes": "2024-12-02 03:06:14 +0000",
+      "oat_seeds": "2024-12-02 03:06:14 +0000",
+      "tomato_seeds": "2024-12-02 03:06:14 +0000",
+      "barley_seeds": "2024-12-02 03:06:14 +0000",
+      "strawberry_seeds": "2024-12-02 03:06:14 +0000",
+      "lettuce_seeds": "2024-12-02 03:06:14 +0000",
+      "kernels": "2024-12-02 03:06:14 +0000",
+      "wild_barley": "2024-12-02 03:06:14 +0000",
+      "wild_onion": "2024-12-02 03:06:14 +0000",
+      "wild_oat": "2024-12-02 03:06:14 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2024-12-02 03:06:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-02 03:06:14 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2024-12-02 03:06:14 +0000"
+    },
+    "done": true
+  },
+  "butcher:firstjoinadvancement": {
+    "criteria": {
+      "firstjoinadvancement_0": "2024-12-02 03:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-02 03:06:15 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-12-02 03:06:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-02 03:06:15 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-12-02 03:06:15 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-02 03:06:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "redwood_forest": "2024-12-02 03:06:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 03:06:16 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "redwood_forest": "2024-12-02 03:06:16 +0000"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2024-12-02 03:06:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 03:06:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 03:06:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 03:06:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_dark": "2024-12-02 03:15:15 +0000",
+      "minecraft:plains": "2024-12-02 03:06:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-02 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-02 03:15:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2024-12-02 03:14:04 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_duck": {
+    "criteria": {
+      "has_duck": "2024-12-02 03:14:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2024-12-02 03:15:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-02 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

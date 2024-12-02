@@ -124,6 +124,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-02 03:03:48 +0000",
       "woodland": "2024-12-01 03:42:42 +0000",
       "scrubland": "2024-12-01 03:37:04 +0000",
       "mystic_grove": "2024-12-02 02:33:18 +0000",
@@ -139,6 +140,7 @@
       "fir_clearing": "2024-12-02 02:36:33 +0000",
       "pumpkin_patch": "2024-12-02 02:36:31 +0000",
       "prairie": "2024-12-01 03:30:57 +0000",
+      "snowy_fir_clearing": "2024-12-02 03:03:34 +0000",
       "ominous_woods": "2024-12-02 02:36:05 +0000"
     },
     "done": false
@@ -186,11 +188,14 @@
       "minecraft:river": "2024-12-01 03:26:07 +0000",
       "minecraft:stony_shore": "2024-12-01 03:27:17 +0000",
       "minecraft:snowy_plains": "2024-12-02 03:02:04 +0000",
+      "minecraft:snowy_taiga": "2024-12-02 03:04:41 +0000",
+      "minecraft:grove": "2024-12-02 03:05:10 +0000",
       "minecraft:cold_ocean": "2024-12-01 03:28:41 +0000",
       "minecraft:forest": "2024-12-02 02:28:42 +0000",
       "minecraft:ice_spikes": "2024-12-02 03:02:06 +0000",
       "minecraft:frozen_ocean": "2024-12-02 03:00:44 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-02 03:01:01 +0000",
+      "minecraft:snowy_beach": "2024-12-02 03:02:48 +0000",
       "minecraft:deep_dark": "2024-12-01 03:14:12 +0000",
       "minecraft:meadow": "2024-12-02 02:37:12 +0000",
       "minecraft:savanna": "2024-12-01 03:37:03 +0000",
@@ -4291,6 +4296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-02 03:16:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-02 02:42:43 +0000"
@@ -4324,6 +4335,12 @@
   "aether:recipes/decorations/skyroot_barrel": {
     "criteria": {
       "has_slabs": "2024-12-02 02:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-02 03:16:13 +0000"
     },
     "done": true
   },
@@ -4450,6 +4467,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_orange_dye": {
     "criteria": {
       "has_candle_holder": "2024-12-02 02:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-02 03:16:13 +0000"
     },
     "done": true
   },
@@ -5005,6 +5028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-02 03:16:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-02 02:45:37 +0000"
@@ -5026,6 +5055,12 @@
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-12-02 02:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-02 03:16:13 +0000"
     },
     "done": true
   },
@@ -5056,6 +5091,12 @@
   "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
     "criteria": {
       "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-02 03:16:13 +0000"
     },
     "done": true
   },
@@ -5152,6 +5193,12 @@
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-02 02:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-02 03:16:13 +0000"
     },
     "done": true
   },
