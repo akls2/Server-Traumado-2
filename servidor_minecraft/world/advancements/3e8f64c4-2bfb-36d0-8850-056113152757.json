@@ -5089,6 +5089,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_bowl": "2024-12-02 03:37:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-02 02:42:43 +0000"
@@ -5164,6 +5170,12 @@
   "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-02 02:42:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2024-12-02 03:32:56 +0000"
     },
     "done": true
   },
@@ -5268,6 +5280,12 @@
       "has_gunpowder": "2024-12-02 02:32:46 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "warden": "2024-12-02 03:32:56 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
     "criteria": {

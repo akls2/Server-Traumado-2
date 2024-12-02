@@ -1908,3 +1908,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 03:26:59.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ani_Shizen left the game
 [02Dec2024 03:26:59.803] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f2e05d06-5bad-37ea-b336-eb21d0b74123 was unloaded
 [02Dec2024 03:26:59.804] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ani_Shizen
+[02Dec2024 03:27:47.055] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7fdf1b9e[id=<null>,name=Ani_Shizen,properties={},legacy=false] (/127.123.125.6:32929) lost connection: Disconnected
+[02Dec2024 03:29:36.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ani_Shizen[/127.123.125.6:41953] logged in with entity id 31716 at (584.4796923567645, 68.0, 662.8051764094066)
+[02Dec2024 03:29:36.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ani_Shizen joined the game
+[02Dec2024 03:29:38.333] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ani_Shizen (18)
+[02Dec2024 03:29:38.334] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ani_Shizen
+[02Dec2024 03:29:38.410] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f2e05d06-5bad-37ea-b336-eb21d0b74123 was loaded
+[02Dec2024 03:31:05.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ani_Shizen lost connection: Disconnected
+[02Dec2024 03:31:05.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ani_Shizen left the game
+[02Dec2024 03:31:05.507] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f2e05d06-5bad-37ea-b336-eb21d0b74123 was unloaded
+[02Dec2024 03:31:05.508] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ani_Shizen
+[02Dec2024 03:31:12.939] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[02Dec2024 03:32:56.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx has completed the challenge [Phantom Thief]
+[02Dec2024 03:35:04.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Survival Mode]
+[02Dec2024 03:35:35.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: akls[/127.248.228.106:49285] logged in with entity id 32153 at (573.2961966229348, 69.0, 658.0011280886565)
+[02Dec2024 03:35:35.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls joined the game
+[02Dec2024 03:35:37.163] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of akls (18)
+[02Dec2024 03:35:37.164] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to akls
+[02Dec2024 03:35:37.166] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was loaded
+[02Dec2024 03:35:44.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1acc4442-96a9-3f81-88e0-481ccae5e760
+[02Dec2024 03:35:45.652] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1acc4442-96a9-3f81-88e0-481ccae5e760
+[02Dec2024 03:35:45.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) successfully connected to voice chat
+[02Dec2024 03:36:57.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by fayruzzx
+[02Dec2024 03:36:57.910] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for akls with unique ID travelersbackpack.standard_02.12.2024-03.36.57.dat
+[02Dec2024 03:36:57.911] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 574 Y: 69 Z: 656
+[02Dec2024 03:37:17.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by fayruzzx
