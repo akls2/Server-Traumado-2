@@ -1,0 +1,1065 @@
+{
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 03:46:05 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2024-12-01 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-12-01 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "butcher:firstjoinadvancement": {
+    "criteria": {
+      "firstjoinadvancement_0": "2024-12-01 03:35:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-01 03:35:50 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-01 03:46:12 +0000",
+      "log_spam_fixer": "2024-12-01 03:46:05 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-01 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-01 03:37:03 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2024-12-01 03:35:50 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-01 03:42:17 +0000",
+      "minecraft:spider": "2024-12-01 03:42:39 +0000",
+      "minecraft:zombie": "2024-12-01 03:45:25 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-01 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2024-12-01 03:36:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2024-12-01 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-01 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-01 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-01 03:36:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/sitting_skeleton": {
+    "criteria": {
+      "has_planks": "2024-12-01 03:43:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-01 03:36:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-12-01 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 03:46:05 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kirkhammer": {
+    "criteria": {
+      "has_item": "2024-12-01 03:36:47 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-01 03:37:26 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-01 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2024-12-01 03:36:47 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/potato_bag": {
+    "criteria": {
+      "has_potato": "2024-12-01 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2024-12-01 03:42:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-01 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "weaponmaster:parts/root": {
+    "criteria": {
+      "crafting_table": "2024-12-01 03:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-01 03:37:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-01 03:37:26 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 03:46:05 +0000"
+    },
+    "done": false
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-01 03:37:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_string": "2024-12-01 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "redwood_forest": "2024-12-01 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2024-12-01 03:35:50 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-01 03:37:47 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-01 03:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-01 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2024-12-01 03:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-12-01 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 03:46:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 03:46:05 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-12-01 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 03:35:51 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/bamboo_brigg": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-12-01 03:37:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-12-01 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2024-12-01 03:35:50 +0000",
+      "wild_strawberry": "2024-12-01 03:35:50 +0000",
+      "corn": "2024-12-01 03:35:50 +0000",
+      "onion": "2024-12-01 03:35:50 +0000",
+      "wild_corn": "2024-12-01 03:35:50 +0000",
+      "wild_ribwort": "2024-12-01 03:35:50 +0000",
+      "strawberry": "2024-12-01 03:35:50 +0000",
+      "wild_nettle": "2024-12-01 03:35:50 +0000",
+      "barley": "2024-12-01 03:35:50 +0000",
+      "tomato": "2024-12-01 03:35:50 +0000",
+      "lettuce": "2024-12-01 03:35:50 +0000",
+      "wild_lettuce": "2024-12-01 03:35:50 +0000",
+      "wild_tomatoes": "2024-12-01 03:35:50 +0000",
+      "oat_seeds": "2024-12-01 03:35:50 +0000",
+      "tomato_seeds": "2024-12-01 03:35:50 +0000",
+      "barley_seeds": "2024-12-01 03:35:50 +0000",
+      "strawberry_seeds": "2024-12-01 03:35:50 +0000",
+      "lettuce_seeds": "2024-12-01 03:35:50 +0000",
+      "kernels": "2024-12-01 03:35:50 +0000",
+      "wild_barley": "2024-12-01 03:35:50 +0000",
+      "wild_onion": "2024-12-01 03:35:50 +0000",
+      "wild_oat": "2024-12-01 03:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-01 03:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-01 03:44:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-01 03:36:59 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_cog": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "beachparty:bikini": {
+    "criteria": {
+      "has_string": "2024-12-01 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-01 03:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-01 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 03:46:05 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2024-12-01 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2024-12-01 03:36:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-01 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2024-12-01 03:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-01 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 03:46:05 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-01 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-01 03:37:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "maple_woods": "2024-12-01 03:36:24 +0000",
+      "redwood_forest": "2024-12-01 03:35:51 +0000",
+      "pumpkin_patch": "2024-12-01 03:38:56 +0000",
+      "gravel_beach": "2024-12-01 03:43:05 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-01 03:37:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-01 03:43:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2024-12-01 03:37:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2024-12-01 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 03:46:05 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2024-12-01 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "has_emerald": "2024-12-01 03:37:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2024-12-01 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-01 03:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 03:46:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-01 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 03:46:05 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2024-12-01 03:35:50 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 03:35:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-01 03:37:47 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 03:46:05 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 03:35:51 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-01 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-01 03:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-01 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-01 03:43:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2024-12-01 03:43:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-01 03:37:03 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_galley": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2024-12-01 03:35:50 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/oat_ball": {
+    "criteria": {
+      "has_oat": "2024-12-01 03:42:24 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-01 03:37:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 03:35:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-01 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_brigg": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-01 03:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-01 03:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-01 03:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2024-12-01 03:38:41 +0000",
+      "minecraft:cold_ocean": "2024-12-01 03:45:35 +0000",
+      "minecraft:ocean": "2024-12-01 03:39:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-12-01 03:37:35 +0000",
+      "bread": "2024-12-01 03:37:10 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_apple": {
+    "criteria": {
+      "apple": "2024-12-01 03:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-01 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_cog": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 03:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-01 03:37:26 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
