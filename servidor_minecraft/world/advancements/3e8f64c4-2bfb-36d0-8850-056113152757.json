@@ -181,11 +181,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2024-12-02 03:02:02 +0000",
       "minecraft:sunflower_plains": "2024-12-02 02:23:39 +0000",
       "minecraft:river": "2024-12-01 03:26:07 +0000",
       "minecraft:stony_shore": "2024-12-01 03:27:17 +0000",
+      "minecraft:snowy_plains": "2024-12-02 03:02:04 +0000",
       "minecraft:cold_ocean": "2024-12-01 03:28:41 +0000",
       "minecraft:forest": "2024-12-02 02:28:42 +0000",
+      "minecraft:ice_spikes": "2024-12-02 03:02:06 +0000",
+      "minecraft:frozen_ocean": "2024-12-02 03:00:44 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-02 03:01:01 +0000",
       "minecraft:deep_dark": "2024-12-01 03:14:12 +0000",
       "minecraft:meadow": "2024-12-02 02:37:12 +0000",
       "minecraft:savanna": "2024-12-01 03:37:03 +0000",
@@ -4304,6 +4309,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
       "has_gunpowder": "2024-12-02 02:32:46 +0000"
@@ -4382,9 +4393,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/laying_hay_bale": {
+    "criteria": {
+      "has_planks": "2024-12-02 02:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-02 02:52:30 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/hay_wheelbarrow": {
+    "criteria": {
+      "has_planks": "2024-12-02 02:53:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-02 02:28:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
     },
     "done": true
   },
@@ -4409,6 +4456,18 @@
   "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
     "criteria": {
       "has_candle_holder": "2024-12-02 02:25:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
     },
     "done": true
   },
@@ -4466,6 +4525,36 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/standing_hay_bale": {
+    "criteria": {
+      "has_planks": "2024-12-02 02:53:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2024-12-02 02:53:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-02 02:55:55 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-02 02:25:52 +0000"
@@ -4481,6 +4570,12 @@
   "farm_and_charm:recipes/potato_bag": {
     "criteria": {
       "has_potato": "2024-12-02 02:27:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
     },
     "done": true
   },
@@ -4550,6 +4645,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_cyan_dye": {
     "criteria": {
       "has_candle_holder": "2024-12-02 02:25:57 +0000"
@@ -4592,6 +4699,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-02 02:24:38 +0000"
@@ -4604,6 +4717,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/book_of_lore": {
     "criteria": {
       "has_book": "2024-12-02 02:28:51 +0000"
@@ -4613,6 +4732,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-02 02:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-02 02:58:31 +0000"
     },
     "done": true
   },
@@ -4649,6 +4774,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-02 02:27:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_dark_oak_sign": "2024-12-02 02:54:04 +0000"
     },
     "done": true
   },
@@ -4700,6 +4831,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-02 02:45:37 +0000"
@@ -4718,9 +4855,21 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-02 03:01:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-02 02:27:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
     },
     "done": true
   },
@@ -4766,6 +4915,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-12-02 02:28:51 +0000"
@@ -4802,9 +4957,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_pink_dye": {
     "criteria": {
       "has_candle_holder": "2024-12-02 02:25:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
     },
     "done": true
   },
@@ -4862,6 +5029,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-02 02:42:43 +0000"
@@ -4877,6 +5050,12 @@
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-02 02:27:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
     },
     "done": true
   },
@@ -4988,9 +5167,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/flint_and_steel_repairing": {
     "criteria": {
       "has_flint_and_steel": "2024-12-02 02:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-02 02:53:42 +0000"
     },
     "done": true
   },
@@ -5018,6 +5209,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
+    },
+    "done": true
+  },
   "bakery:main/get_all_caked_goods": {
     "criteria": {
       "minecraft:cake": "2024-12-02 02:49:25 +0000"
@@ -5039,6 +5236,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
     "criteria": {
       "has_candle_holder": "2024-12-02 02:25:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-02 02:54:04 +0000"
     },
     "done": true
   },
