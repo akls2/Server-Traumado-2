@@ -185,6 +185,7 @@
     "criteria": {
       "minecraft:frozen_river": "2024-12-02 03:02:02 +0000",
       "minecraft:sunflower_plains": "2024-12-02 02:23:39 +0000",
+      "minecraft:beach": "2024-12-02 03:20:33 +0000",
       "minecraft:river": "2024-12-01 03:26:07 +0000",
       "minecraft:stony_shore": "2024-12-01 03:27:17 +0000",
       "minecraft:snowy_plains": "2024-12-02 03:02:04 +0000",
@@ -4728,6 +4729,12 @@
     },
     "done": true
   },
+  "soulsweapons:cannon": {
+    "criteria": {
+      "weapon": "2024-12-02 03:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-02 02:24:38 +0000"
@@ -4737,6 +4744,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_lime_dye": {
     "criteria": {
       "has_candle_holder": "2024-12-02 02:25:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:gatling_gun": {
+    "criteria": {
+      "weapon": "2024-12-02 03:24:28 +0000"
     },
     "done": true
   },

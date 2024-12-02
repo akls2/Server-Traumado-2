@@ -1871,3 +1871,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 03:15:41.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls has reached the goal [A Metropolis of Restless Souls]
 [02Dec2024 03:16:32.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ani_Shizen has made the advancement [Sneak 100]
 [02Dec2024 03:17:00.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported Ani_Shizen to akls]
+[02Dec2024 03:17:48.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported Ani_Shizen to akls]
+[02Dec2024 03:18:48.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ani_Shizen lost connection: Timed out
+[02Dec2024 03:18:48.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ani_Shizen left the game
+[02Dec2024 03:18:48.965] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f2e05d06-5bad-37ea-b336-eb21d0b74123 was unloaded
+[02Dec2024 03:18:48.965] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ani_Shizen
+[02Dec2024 03:20:11.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported fayruzzx to akls]
+[02Dec2024 03:20:41.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Creative Mode]
+[02Dec2024 03:21:05.159] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from akls#1acc4442 to PIOLACRAFT#3cfa8825
+[02Dec2024 03:21:05.159] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 1acc4442-96a9-3f81-88e0-481ccae5e760 (akls#1acc4442) to 3cfa8825-8d88-4908-ab19-34424c453028 (PIOLACRAFT#3cfa8825)
+[02Dec2024 03:21:05.159] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 1acc4442-96a9-3f81-88e0-481ccae5e760 (akls#1acc4442) due to claim limits
+[02Dec2024 03:21:05.159] [Server thread/INFO] [FTB Chunks/]: Team PIOLACRAFT#3cfa8825 had 0 claimed chunks, now has 0
+[02Dec2024 03:21:33.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx has reached the goal [Maybe a little over the top?]
+[02Dec2024 03:22:06.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Survival Mode]
+[02Dec2024 03:22:40.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Creative Mode]
+[02Dec2024 03:22:53.723] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from fayruzzx#3e8f64c4 to PIOLACRAFT#3cfa8825
+[02Dec2024 03:22:53.723] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 3e8f64c4-2bfb-36d0-8850-056113152757 (fayruzzx#3e8f64c4) to 3cfa8825-8d88-4908-ab19-34424c453028 (PIOLACRAFT#3cfa8825)
+[02Dec2024 03:22:53.723] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 3e8f64c4-2bfb-36d0-8850-056113152757 (fayruzzx#3e8f64c4) due to claim limits
+[02Dec2024 03:22:53.723] [Server thread/INFO] [FTB Chunks/]: Team PIOLACRAFT#3cfa8825 had 0 claimed chunks, now has 0
+[02Dec2024 03:23:03.754] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12832a73[id=<null>,name=Ani_Shizen,properties={},legacy=false] (/127.123.125.6:59397) lost connection: Disconnected
+[02Dec2024 03:23:14.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls lost connection: Disconnected
+[02Dec2024 03:23:14.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls left the game
+[02Dec2024 03:23:14.855] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was unloaded
+[02Dec2024 03:23:14.856] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client akls
+[02Dec2024 03:23:32.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Survival Mode]
+[02Dec2024 03:23:43.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Creative Mode]
+[02Dec2024 03:24:05.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Survival Mode]
+[02Dec2024 03:24:14.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Creative Mode]
+[02Dec2024 03:24:28.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx has reached the goal [Bullets for Dinner]
+[02Dec2024 03:25:03.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ani_Shizen[/127.123.125.6:50839] logged in with entity id 31486 at (584.4796923567645, 68.0, 662.8051764094066)
+[02Dec2024 03:25:03.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ani_Shizen joined the game
+[02Dec2024 03:25:05.503] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ani_Shizen (18)
+[02Dec2024 03:25:05.503] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ani_Shizen
+[02Dec2024 03:25:05.528] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f2e05d06-5bad-37ea-b336-eb21d0b74123 was loaded
+[02Dec2024 03:26:59.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ani_Shizen lost connection: Disconnected
+[02Dec2024 03:26:59.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ani_Shizen left the game
+[02Dec2024 03:26:59.803] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f2e05d06-5bad-37ea-b336-eb21d0b74123 was unloaded
+[02Dec2024 03:26:59.804] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ani_Shizen

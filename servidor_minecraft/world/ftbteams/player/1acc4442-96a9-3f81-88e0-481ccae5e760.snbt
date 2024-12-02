@@ -2,9 +2,7 @@
 	id: "1acc4442-96a9-3f81-88e0-481ccae5e760"
 	type: "player"
 	player_name: "akls"
-	ranks: {
-		1acc4442-96a9-3f81-88e0-481ccae5e760: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "akls"
 		"ftbteams:description": ""

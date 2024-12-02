@@ -2,9 +2,7 @@
 	id: "3e8f64c4-2bfb-36d0-8850-056113152757"
 	type: "player"
 	player_name: "fayruzzx"
-	ranks: {
-		3e8f64c4-2bfb-36d0-8850-056113152757: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "fayruzzx"
 		"ftbteams:description": ""
