@@ -1677,3 +1677,55 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 02:15:18.527] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [02Dec2024 02:15:18.527] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [02Dec2024 02:15:18.527] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Dec2024 02:16:57.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to fayruzzx]
+[02Dec2024 02:17:20.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[02Dec2024 02:18:34.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fayruzzx moved wrongly!
+[02Dec2024 02:18:38.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported fayruzzx to akls]
+[02Dec2024 02:19:04.603] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[02Dec2024 02:22:53.919] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/skill/guard/GuardSkill$BlockType
+[02Dec2024 02:23:40.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=479, y=64, z=651} BlockPos{x=479, y=62, z=651}
+[02Dec2024 02:23:40.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=479, y=64, z=651} BlockPos{x=479, y=62, z=651}
+[02Dec2024 02:23:40.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Made fayruzzx a server operator]
+[02Dec2024 02:23:53.354] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[02Dec2024 02:24:09.833] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[02Dec2024 02:24:39.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=676, y=72, z=881} BlockPos{x=676, y=70, z=881}
+[02Dec2024 02:24:39.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=676, y=72, z=881} BlockPos{x=676, y=70, z=881}
+[02Dec2024 02:24:40.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=71, z=885} BlockPos{x=678, y=69, z=885}
+[02Dec2024 02:24:40.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=71, z=885} BlockPos{x=678, y=69, z=885}
+[02Dec2024 02:24:40.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=71, z=886} BlockPos{x=678, y=69, z=886}
+[02Dec2024 02:24:40.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=71, z=886} BlockPos{x=678, y=69, z=886}
+[02Dec2024 02:24:40.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=71, z=886} BlockPos{x=678, y=69, z=886}
+[02Dec2024 02:24:40.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=70, z=888} BlockPos{x=678, y=69, z=886}
+[02Dec2024 02:24:40.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=70, z=888} BlockPos{x=678, y=69, z=886}
+[02Dec2024 02:24:41.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=69, z=889} BlockPos{x=679, y=68, z=890}
+[02Dec2024 02:24:41.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=69, z=889} BlockPos{x=679, y=68, z=890}
+[02Dec2024 02:24:41.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls has made the advancement [Wild Grapes]
+[02Dec2024 02:24:41.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=70, z=890} BlockPos{x=677, y=68, z=890}
+[02Dec2024 02:24:41.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=677, y=70, z=890} BlockPos{x=677, y=68, z=890}
+[02Dec2024 02:25:09.780] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[02Dec2024 02:25:30.993] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=117, y=67, z=437}
+[02Dec2024 02:25:31.005] [pool-9-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[02Dec2024 02:25:42.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls has made the advancement [Best Friends Forever]
+[02Dec2024 02:25:52.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx has made the advancement [This Must be a Sign!]
+[02Dec2024 02:26:36.852] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KitsuneVariant
+[02Dec2024 02:26:51.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx has made the advancement [Minecraft Comes Alive]
+[02Dec2024 02:26:54.069] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[02Dec2024 02:26:54.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[02Dec2024 02:27:31.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of fayruzzx) moved wrongly! 1.080827265625004
+[02Dec2024 02:27:31.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of fayruzzx) moved wrongly! 1.080827265625004
+[02Dec2024 02:27:31.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of fayruzzx) moved wrongly! 1.08732782855472
+[02Dec2024 02:30:32.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Arkadiy'/129, l='ServerLevel[world]', x=121.65, y=70.00, z=14.16] died, message: 'Arkadiy was slain by fayruzzx'
+[02Dec2024 02:30:32.863] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Arkadiy'/129, l='ServerLevel[world]', x=121.65, y=70.00, z=14.16] died: Arkadiy was slain by fayruzzx
+[02Dec2024 02:30:32.865] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[02Dec2024 02:30:32.871] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[02Dec2024 02:30:37.262] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[02Dec2024 02:31:05.358] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[02Dec2024 02:33:48.783] [Worker-Main-13/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KomainuVariant
+[02Dec2024 02:34:53.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of fayruzzx) moved wrongly! 0.3026395224529068
+[02Dec2024 02:34:53.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of fayruzzx) moved wrongly! 0.7778997462332882
+[02Dec2024 02:34:53.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of fayruzzx) moved wrongly! 1.2232393838209248
+[02Dec2024 02:34:53.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of fayruzzx) moved wrongly! 1.650163360414546
+[02Dec2024 02:34:53.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of fayruzzx) moved wrongly! 2.0754941731714514
+[02Dec2024 02:35:44.100] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'ashes1ashes:laberinto_2' in chunk [31, -55], discarding
+[02Dec2024 02:35:45.968] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'ashes1ashes:laberinto_2' in chunk [32, -55], discarding
+[02Dec2024 02:35:46.526] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'ashes1ashes:laberinto_2' in chunk [33, -55], discarding
