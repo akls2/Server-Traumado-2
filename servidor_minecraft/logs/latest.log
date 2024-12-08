@@ -1959,3 +1959,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 18:59:16.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Stone Age]
 [08Dec2024 18:59:29.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Getting an Upgrade]
 [08Dec2024 19:01:57.381] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[08Dec2024 19:09:09.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Not Today, Thank You]
+[08Dec2024 19:11:33.673] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[08Dec2024 19:11:33.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola volvi
+[08Dec2024 19:11:41.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] soy ale
+[08Dec2024 19:11:44.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> entra
+[08Dec2024 19:11:47.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> entro al vc
+[08Dec2024 19:11:58.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] esta sergio?
+[08Dec2024 19:12:02.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> nou
+[08Dec2024 19:12:56.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> entra a general
+[08Dec2024 19:13:30.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Acquire Hardware]
+[08Dec2024 19:13:41.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: akls[/127.248.228.106:46457] logged in with entity id 34518 at (1157.4785653537958, 68.0, 1847.9102423644933)
+[08Dec2024 19:13:41.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls joined the game
+[08Dec2024 19:13:43.172] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of akls (18)
+[08Dec2024 19:13:43.173] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to akls
+[08Dec2024 19:13:43.187] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was loaded
+[08Dec2024 19:13:52.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1acc4442-96a9-3f81-88e0-481ccae5e760
+[08Dec2024 19:13:53.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1acc4442-96a9-3f81-88e0-481ccae5e760
+[08Dec2024 19:13:53.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) successfully connected to voice chat
+[08Dec2024 19:14:01.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Isn't It Iron Pick]
+[08Dec2024 19:14:11.663] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34766, l='ServerLevel[world]', x=1190.50, y=74.00, z=1797.50]
