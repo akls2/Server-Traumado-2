@@ -16535,3 +16535,45 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 18:31:26.071] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [08Dec2024 18:31:43.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Survival Mode]
 [08Dec2024 18:31:52.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported Loi_boy to akls]
+[08Dec2024 18:33:16.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx has made the advancement [A Seedy Place]
+[08Dec2024 18:33:47.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Creative Mode]
+[08Dec2024 18:34:03.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Survival Mode]
+[08Dec2024 18:34:38.816] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[08Dec2024 18:35:15.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 18:35:15.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 18:37:11.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Crawling in my Bark]
+[08Dec2024 18:37:12.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[08Dec2024 18:37:28.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Creative Mode]
+[08Dec2024 18:37:43.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Survival Mode]
+[08Dec2024 18:38:13.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx has made the advancement [Crafting a New Look]
+[08Dec2024 18:38:51.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Creative Mode]
+[08Dec2024 18:39:05.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Survival Mode]
+[08Dec2024 18:39:14.616] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16328, l='ServerLevel[world]', x=793.50, y=77.00, z=893.50]
+[08Dec2024 18:39:23.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[08Dec2024 18:39:39.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[08Dec2024 18:39:39.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[08Dec2024 18:39:39.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[08Dec2024 18:39:39.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[08Dec2024 18:39:41.216] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16562, l='ServerLevel[world]', x=871.50, y=71.00, z=908.50]
+[08Dec2024 18:39:47.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[08Dec2024 18:39:47.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_3_resistance
+[08Dec2024 18:39:53.866] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16695, l='ServerLevel[world]', x=858.50, y=78.00, z=928.50]
+[08Dec2024 18:39:54.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16696, l='ServerLevel[world]', x=845.50, y=76.00, z=928.50]
+[08Dec2024 18:39:56.263] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16699, l='ServerLevel[world]', x=845.50, y=76.00, z=929.50]
+[08Dec2024 18:39:56.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by fayruzzx
+[08Dec2024 18:40:07.613] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16790, l='ServerLevel[world]', x=866.50, y=73.00, z=880.50]
+[08Dec2024 18:40:13.164] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16861, l='ServerLevel[world]', x=847.50, y=76.00, z=928.50]
+[08Dec2024 18:40:15.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 18:40:15.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 18:40:31.909] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[08Dec2024 18:40:46.932] [pool-9-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=955, y=70, z=1269}
+[08Dec2024 18:40:47.998] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:rito_village_goddess_statue
+[08Dec2024 18:40:48.030] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:savanna_village_horned_statue
+[08Dec2024 18:40:48.032] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[08Dec2024 18:40:49.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[08Dec2024 18:41:15.826] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[08Dec2024 18:41:16.944] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:cathedral_of_resurrection
+[08Dec2024 18:41:17.006] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:champions_graves_main
+[08Dec2024 18:41:59.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Teleported fayruzzx to Loi_boy]
+[08Dec2024 18:42:26.354] [Server thread/DEBUG] [twilightforest/]: Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) respawned and received items held in storage
+[08Dec2024 18:43:05.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to fayruzzx]

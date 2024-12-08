@@ -5,9 +5,21 @@
     },
     "done": true
   },
+  "beachparty:palm_pressure_plate": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-12-08 18:38:26 +0000"
     },
     "done": true
   },
@@ -35,9 +47,21 @@
     },
     "done": true
   },
+  "beachparty:chair": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
   "butcher:firstjoinadvancement": {
     "criteria": {
       "firstjoinadvancement_0": "2024-12-08 18:25:26 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_beam": {
+    "criteria": {
+      "has_palm_log": "2024-12-08 18:38:15 +0000"
     },
     "done": true
   },
@@ -59,9 +83,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
+  "quark:crawl_in_hollow_log": {
+    "criteria": {
+      "crawl_in_hollow_log": "2024-12-08 18:37:11 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-12-08 18:38:26 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/laying_hay_bale": {
+    "criteria": {
+      "has_planks": "2024-12-08 18:31:31 +0000"
     },
     "done": true
   },
@@ -71,15 +119,51 @@
     },
     "done": true
   },
+  "beachparty:palm_planks": {
+    "criteria": {
+      "has_palm_log": "2024-12-08 18:38:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2024-12-08 18:38:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-08 18:25:26 +0000"
     },
     "done": true
   },
+  "mcwholidays:recipes/hay_wheelbarrow": {
+    "criteria": {
+      "has_planks": "2024-12-08 18:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-08 18:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/cage": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-08 18:28:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-08 18:34:53 +0000"
     },
     "done": true
   },
@@ -125,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-08 18:34:53 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
@@ -137,9 +227,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-08 18:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-08 18:31:31 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/standing_hay_bale": {
+    "criteria": {
+      "has_planks": "2024-12-08 18:31:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2024-12-08 18:31:31 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:root": {
+    "criteria": {
+      "crafting_table": "2024-12-08 18:38:26 +0000"
     },
     "done": true
   },
@@ -173,6 +293,12 @@
     },
     "done": true
   },
+  "beachparty:palm_sign": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
@@ -197,15 +323,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-08 18:38:15 +0000"
+    },
+    "done": true
+  },
+  "beachparty:hammock": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "redwood_forest": "2024-12-08 18:25:27 +0000"
     },
     "done": true
   },
+  "beachparty:table": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
   "bakery:main/root": {
     "criteria": {
       "seeds": "2024-12-08 18:25:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2024-12-08 18:38:23 +0000"
     },
     "done": true
   },
@@ -221,6 +371,12 @@
     },
     "done": true
   },
+  "beachparty:palm_boat": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
@@ -233,6 +389,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2024-12-08 18:31:01 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beach_chair": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-08 18:28:48 +0000"
@@ -242,6 +416,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_wood_slab": "2024-12-08 18:28:48 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_trapdoor": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
     },
     "done": true
   },
@@ -263,6 +443,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-08 18:34:53 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2024-12-08 18:25:27 +0000"
@@ -272,6 +458,18 @@
   "smallships:recipes/transportation/bamboo_brigg": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-12-08 18:38:15 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-12-08 18:38:26 +0000"
     },
     "done": true
   },
@@ -314,9 +512,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2024-12-08 18:34:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 18:32:59 +0000"
     },
     "done": true
   },
@@ -344,9 +554,33 @@
     },
     "done": true
   },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2024-12-08 18:34:53 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mushroom_mines": {
     "criteria": {
       "location0": "2024-12-08 18:25:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-08 18:34:53 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_door": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_wheat": "2024-12-08 18:34:53 +0000"
     },
     "done": true
   },
@@ -356,15 +590,45 @@
     },
     "done": true
   },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2024-12-08 18:34:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-08 18:28:48 +0000"
     },
     "done": true
   },
+  "beachparty:cabinet": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_floorboard": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_stairs": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
     },
     "done": true
   },
@@ -388,10 +652,19 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2024-12-08 18:39:30 +0000",
+      "scrubland": "2024-12-08 18:36:19 +0000",
       "redwood_forest": "2024-12-08 18:25:27 +0000",
-      "grassland": "2024-12-08 18:29:36 +0000"
+      "grassland": "2024-12-08 18:29:36 +0000",
+      "prairie": "2024-12-08 18:30:35 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-08 18:34:53 +0000"
+    },
+    "done": true
   },
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
@@ -417,6 +690,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bellows": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-08 18:28:48 +0000"
@@ -432,6 +711,18 @@
   "smallships:recipes/transportation/acacia_brigg": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_button": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-08 18:34:32 +0000"
     },
     "done": true
   },
@@ -462,6 +753,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-08 18:25:26 +0000"
+    },
+    "done": true
+  },
+  "beachparty:lounge_chair": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
     },
     "done": true
   },
@@ -501,9 +798,21 @@
     },
     "done": false
   },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_drakkar": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_bowl": "2024-12-08 18:39:34 +0000"
     },
     "done": true
   },
@@ -528,6 +837,12 @@
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2024-12-08 18:34:53 +0000"
     },
     "done": true
   },
@@ -591,6 +906,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-08 18:37:24 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
@@ -606,6 +927,12 @@
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
+    },
+    "done": true
+  },
+  "beachparty:tiki_chair": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
     },
     "done": true
   },
@@ -627,9 +954,25 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-08 18:32:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/beachparty/sign_post_palm": {
+    "criteria": {
+      "has_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2024-12-08 18:28:13 +0000"
+      "minecraft:beach": "2024-12-08 18:28:13 +0000",
+      "minecraft:river": "2024-12-08 18:30:25 +0000",
+      "minecraft:forest": "2024-12-08 18:30:59 +0000",
+      "minecraft:savanna": "2024-12-08 18:34:41 +0000",
+      "minecraft:plains": "2024-12-08 18:30:56 +0000"
     },
     "done": false
   },
@@ -639,15 +982,69 @@
     },
     "done": true
   },
+  "beachparty:palm_slab": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-08 18:28:48 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-08 18:31:31 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_fence_gate": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2024-12-08 18:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-08 18:34:32 +0000"
+    },
+    "done": false
+  },
+  "beachparty:palm_fence": {
+    "criteria": {
+      "has_palm_planks": "2024-12-08 18:38:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2024-12-08 18:34:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2024-12-08 18:34:53 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_wood": {
+    "criteria": {
+      "has_palm_wood": "2024-12-08 18:38:15 +0000"
     },
     "done": true
   },
@@ -660,6 +1057,18 @@
   "smallships:recipes/transportation/mangrove_cog": {
     "criteria": {
       "in_water": "2024-12-08 18:28:13 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2024-12-08 18:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-08 18:38:26 +0000"
     },
     "done": true
   },
