@@ -127,6 +127,7 @@
       "muskeg": "2024-12-02 03:03:48 +0000",
       "woodland": "2024-12-01 03:42:42 +0000",
       "scrubland": "2024-12-01 03:37:04 +0000",
+      "erupting_inferno": "2024-12-08 18:16:01 +0000",
       "mystic_grove": "2024-12-02 02:33:18 +0000",
       "old_growth_woodland": "2024-12-01 03:37:54 +0000",
       "field": "2024-12-02 02:35:42 +0000",
@@ -143,6 +144,7 @@
       "pumpkin_patch": "2024-12-02 02:36:31 +0000",
       "prairie": "2024-12-01 03:30:57 +0000",
       "snowy_fir_clearing": "2024-12-02 03:03:34 +0000",
+      "undergrowth": "2024-12-08 18:12:31 +0000",
       "ominous_woods": "2024-12-02 02:36:05 +0000"
     },
     "done": false
@@ -1969,6 +1971,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-08 18:17:07 +0000",
       "minecraft:skeleton": "2024-12-02 02:15:41 +0000",
       "minecraft:spider": "2024-12-01 04:04:40 +0000",
       "minecraft:creeper": "2024-12-02 02:29:55 +0000",
@@ -5343,6 +5346,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-08 18:12:14 +0000",
       "minecraft:nether_wastes": "2024-12-08 18:05:39 +0000"
     },
     "done": false
@@ -5362,6 +5366,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-08 18:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-08 18:17:42 +0000"
     },
     "done": true
   },
@@ -5401,6 +5411,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2024-12-08 18:17:41 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2024-12-08 18:06:56 +0000"
@@ -5419,6 +5435,12 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:inverted_forest": "2024-12-08 18:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-08 18:06:56 +0000"
@@ -5431,11 +5453,23 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2024-12-08 18:17:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-08 18:06:56 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:inverted_forest": "2024-12-08 18:11:44 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
@@ -5446,6 +5480,12 @@
   "aether:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2024-12-08 18:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-08 18:16:50 +0000"
     },
     "done": true
   },
@@ -5533,6 +5573,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-08 18:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-08 18:17:42 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/rope": {
     "criteria": {
       "has_wheat": "2024-12-08 18:00:19 +0000"
@@ -5560,6 +5612,12 @@
   "brewery:recipes/gingerbread": {
     "criteria": {
       "has_wheat": "2024-12-08 18:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-08 18:17:42 +0000"
     },
     "done": true
   },

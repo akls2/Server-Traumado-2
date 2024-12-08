@@ -16187,3 +16187,44 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 18:11:44.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx has made the advancement [Strange Biomes]
 [08Dec2024 18:12:01.486] [Server thread/DEBUG] [mixin/]: Mixing features.breeding_cap.tasks.AnimalMakeLoveMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.AnimalMakeLove
 [08Dec2024 18:12:01.494] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:features.breeding_cap.tasks.AnimalMakeLoveMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[08Dec2024 18:15:01.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Creative Mode]
+[08Dec2024 18:15:13.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 18:15:13.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 18:15:32.822] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[08Dec2024 18:15:32.835] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[08Dec2024 18:15:32.845] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[08Dec2024 18:15:32.912] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[08Dec2024 18:15:33.005] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[08Dec2024 18:15:33.106] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[08Dec2024 18:16:11.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Survival Mode]
+[08Dec2024 18:16:50.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx has made the advancement [A Terrible Fortress]
+[08Dec2024 18:17:42.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx has made the advancement [Into Fire]
+[08Dec2024 18:20:12.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 18:20:13.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 18:20:17.614] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 42 messages to dispatch.
+[08Dec2024 18:20:17.625] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[08Dec2024 18:20:17.677] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[08Dec2024 18:20:17.724] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[08Dec2024 18:20:17.786] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:moa_type' to 'fml:handshake' sequence 3
+[08Dec2024 18:20:17.829] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@572b3d2f[id=<null>,name=Loi_boy,properties={},legacy=false] (/127.165.30.87:46305) lost connection: Disconnected
+[08Dec2024 18:20:58.692] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 42 messages to dispatch.
+[08Dec2024 18:20:58.727] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[08Dec2024 18:20:58.776] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[08Dec2024 18:20:58.852] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[08Dec2024 18:20:58.875] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:moa_type' to 'fml:handshake' sequence 3
+[08Dec2024 18:20:58.936] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ee1064e[id=<null>,name=Loi_boy,properties={},legacy=false] (/127.165.30.87:60483) lost connection: Disconnected
+[08Dec2024 18:21:07.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=575, y=60, z=-93} BlockPos{x=576, y=59, z=-93}
+[08Dec2024 18:21:07.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=575, y=60, z=-94} BlockPos{x=576, y=59, z=-93}
+[08Dec2024 18:21:08.047] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=575, y=60, z=-96} BlockPos{x=576, y=59, z=-95}
+[08Dec2024 18:22:33.786] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 42 messages to dispatch.
+[08Dec2024 18:22:33.821] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[08Dec2024 18:22:33.871] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[08Dec2024 18:22:33.927] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[08Dec2024 18:22:33.975] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:moa_type' to 'fml:handshake' sequence 3
+[08Dec2024 18:22:34.030] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7576525e[id=<null>,name=Loi_boy,properties={},legacy=false] (/127.165.30.87:38589) lost connection: Disconnected
+[08Dec2024 18:22:35.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=546, y=53, z=-132} BlockPos{x=545, y=52, z=-132}
+[08Dec2024 18:22:35.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=546, y=53, z=-131} BlockPos{x=545, y=52, z=-132}
+[08Dec2024 18:22:36.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=545, y=53, z=-129} BlockPos{x=546, y=52, z=-130}
+[08Dec2024 18:22:36.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=546, y=53, z=-128} BlockPos{x=546, y=52, z=-129}
+[08Dec2024 18:22:38.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=540, y=53, z=-131} BlockPos{x=541, y=52, z=-131}
+[08Dec2024 18:22:39.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=540, y=53, z=-132} BlockPos{x=541, y=52, z=-131}
