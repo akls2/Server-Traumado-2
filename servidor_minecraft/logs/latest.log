@@ -1929,3 +1929,33 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 18:53:07.064] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
 [08Dec2024 18:53:10.412] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25496, l='ServerLevel[world]', x=1363.50, y=80.00, z=1347.50]
 [08Dec2024 18:53:30.118] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25964, l='ServerLevel[world]', x=1367.50, y=79.00, z=1359.50]
+[08Dec2024 18:53:53.378] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26566, l='ServerLevel[world]', x=1329.50, y=78.00, z=1397.50]
+[08Dec2024 18:54:07.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Creative Mode]
+[08Dec2024 18:54:08.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Ice Bucket Challenge]
+[08Dec2024 18:54:19.762] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26729, l='ServerLevel[world]', x=1330.50, y=78.00, z=1397.50]
+[08Dec2024 18:54:36.462] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26797, l='ServerLevel[world]', x=1357.50, y=81.00, z=1369.50]
+[08Dec2024 18:55:12.562] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26825, l='ServerLevel[world]', x=1328.50, y=78.00, z=1397.50]
+[08Dec2024 18:55:39.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -5.5403652049651555,0.0,8.801380010943376
+[08Dec2024 18:55:39.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -5.753456219668351,0.0,9.139894605595373
+[08Dec2024 18:55:39.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -5.966547235362668,0.0,9.478409199784437
+[08Dec2024 18:55:39.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -6.1796382519492,0.0,9.816923793556725
+[08Dec2024 18:55:39.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -6.392729269338588,0.0,10.155438386953847
+[08Dec2024 18:55:39.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -6.60582028745057,0.0,10.493952980013546
+[08Dec2024 18:55:39.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -6.81891130621284,0.0,10.832467572769247
+[08Dec2024 18:55:39.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -7.0320023255605975,0.0,11.170982165251644
+[08Dec2024 18:55:39.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -7.24509334543518,0.0,11.509496757488023
+[08Dec2024 18:55:39.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -7.458184365783836,0.0,11.848011349502713
+[08Dec2024 18:55:39.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -7.671275386559046,0.0,12.186525941318223
+[08Dec2024 18:55:52.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Survival Mode]
+[08Dec2024 18:56:45.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx has completed the challenge [Hunted]
+[08Dec2024 18:57:20.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls lost connection: Disconnected
+[08Dec2024 18:57:20.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls left the game
+[08Dec2024 18:57:20.141] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was unloaded
+[08Dec2024 18:57:20.142] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client akls
+[08Dec2024 18:58:14.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fayruzzx lost connection: Disconnected
+[08Dec2024 18:58:14.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx left the game
+[08Dec2024 18:58:14.349] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3e8f64c4-2bfb-36d0-8850-056113152757 was unloaded
+[08Dec2024 18:58:14.349] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client fayruzzx
+[08Dec2024 18:59:16.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Stone Age]
+[08Dec2024 18:59:29.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Getting an Upgrade]
+[08Dec2024 19:01:57.381] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType

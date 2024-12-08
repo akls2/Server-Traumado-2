@@ -131,6 +131,7 @@
       "overgrown_greens": "2024-12-08 18:05:05 +0000",
       "mediterranean_forest": "2024-12-01 04:33:17 +0000",
       "spider_nest": "2024-12-01 03:49:36 +0000",
+      "dryland": "2024-12-08 18:56:15 +0000",
       "redwood_forest": "2024-11-30 04:06:33 +0000",
       "prairie": "2024-11-30 04:09:57 +0000",
       "grassland": "2024-12-08 18:05:11 +0000",
@@ -184,6 +185,7 @@
       "minecraft:jungle": "2024-12-01 04:35:51 +0000",
       "minecraft:ocean": "2024-12-01 05:32:45 +0000",
       "minecraft:snowy_beach": "2024-12-02 03:02:01 +0000",
+      "minecraft:warm_ocean": "2024-12-08 18:56:16 +0000",
       "minecraft:deep_dark": "2024-12-02 03:15:41 +0000",
       "minecraft:savanna": "2024-12-01 03:36:44 +0000",
       "minecraft:plains": "2024-12-01 03:35:22 +0000"
@@ -4787,6 +4789,108 @@
   "farm_and_charm:recipes/barley_ball": {
     "criteria": {
       "has_barley": "2024-12-08 18:47:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 18:57:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 18:57:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 18:57:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 18:57:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 18:57:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 18:57:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 18:57:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 18:57:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 18:57:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 18:57:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 18:57:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 18:57:17 +0000"
+    },
+    "done": false
+  },
+  "bakery:recipes/strawberry_chocolate": {
+    "criteria": {
+      "has_strawberry": "2024-12-08 18:50:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-08 18:56:48 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/strawberry_bag": {
+    "criteria": {
+      "has_strawberry": "2024-12-08 18:50:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-08 18:57:00 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/strawberry": {
+    "criteria": {
+      "has_strawberry_seeds": "2024-12-08 18:50:40 +0000"
     },
     "done": true
   },

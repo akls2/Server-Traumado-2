@@ -17810,3 +17810,96 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 18:53:07.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_terminator
 [08Dec2024 18:53:10.412] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25496, l='ServerLevel[world]', x=1363.50, y=80.00, z=1347.50]
 [08Dec2024 18:53:30.118] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25964, l='ServerLevel[world]', x=1367.50, y=79.00, z=1359.50]
+[08Dec2024 18:53:53.378] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26566, l='ServerLevel[world]', x=1329.50, y=78.00, z=1397.50]
+[08Dec2024 18:54:07.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Creative Mode]
+[08Dec2024 18:54:08.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Ice Bucket Challenge]
+[08Dec2024 18:54:19.762] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26729, l='ServerLevel[world]', x=1330.50, y=78.00, z=1397.50]
+[08Dec2024 18:54:36.462] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26797, l='ServerLevel[world]', x=1357.50, y=81.00, z=1369.50]
+[08Dec2024 18:55:12.562] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26825, l='ServerLevel[world]', x=1328.50, y=78.00, z=1397.50]
+[08Dec2024 18:55:17.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 18:55:17.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 18:55:34.114] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[08Dec2024 18:55:34.145] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_2
+[08Dec2024 18:55:34.249] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[08Dec2024 18:55:34.270] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[08Dec2024 18:55:37.930] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[08Dec2024 18:55:39.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -5.5403652049651555,0.0,8.801380010943376
+[08Dec2024 18:55:39.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -5.753456219668351,0.0,9.139894605595373
+[08Dec2024 18:55:39.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -5.966547235362668,0.0,9.478409199784437
+[08Dec2024 18:55:39.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -6.1796382519492,0.0,9.816923793556725
+[08Dec2024 18:55:39.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -6.392729269338588,0.0,10.155438386953847
+[08Dec2024 18:55:39.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -6.60582028745057,0.0,10.493952980013546
+[08Dec2024 18:55:39.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -6.81891130621284,0.0,10.832467572769247
+[08Dec2024 18:55:39.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -7.0320023255605975,0.0,11.170982165251644
+[08Dec2024 18:55:39.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -7.24509334543518,0.0,11.509496757488023
+[08Dec2024 18:55:39.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -7.458184365783836,0.0,11.848011349502713
+[08Dec2024 18:55:39.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loi_boy) moved too quickly! -7.671275386559046,0.0,12.186525941318223
+[08Dec2024 18:55:39.970] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[08Dec2024 18:55:39.980] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[08Dec2024 18:55:39.985] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[08Dec2024 18:55:40.172] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[08Dec2024 18:55:40.194] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[08Dec2024 18:55:40.208] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[08Dec2024 18:55:40.577] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[08Dec2024 18:55:40.628] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[08Dec2024 18:55:40.733] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[08Dec2024 18:55:40.891] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[08Dec2024 18:55:41.012] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[08Dec2024 18:55:41.081] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_2
+[08Dec2024 18:55:41.131] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[08Dec2024 18:55:41.251] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[08Dec2024 18:55:41.272] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[08Dec2024 18:55:41.299] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_2
+[08Dec2024 18:55:41.315] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[08Dec2024 18:55:41.357] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_2
+[08Dec2024 18:55:41.404] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[08Dec2024 18:55:41.641] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[08Dec2024 18:55:41.670] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[08Dec2024 18:55:41.759] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[08Dec2024 18:55:41.775] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[08Dec2024 18:55:41.988] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[08Dec2024 18:55:42.123] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[08Dec2024 18:55:42.453] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[08Dec2024 18:55:42.556] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[08Dec2024 18:55:42.577] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[08Dec2024 18:55:42.595] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[08Dec2024 18:55:52.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Survival Mode]
+[08Dec2024 18:55:54.693] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[08Dec2024 18:55:59.900] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[08Dec2024 18:56:08.047] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[08Dec2024 18:56:16.556] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:champions_graves_main
+[08Dec2024 18:56:16.784] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:cathedral_of_resurrection
+[08Dec2024 18:56:19.576] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[08Dec2024 18:56:32.942] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[08Dec2024 18:56:45.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx has completed the challenge [Hunted]
+[08Dec2024 18:57:16.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:desert_village_horned_statue
+[08Dec2024 18:57:20.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls lost connection: Disconnected
+[08Dec2024 18:57:20.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls left the game
+[08Dec2024 18:57:20.141] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was unloaded
+[08Dec2024 18:57:20.142] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of akls
+[08Dec2024 18:57:20.142] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client akls
+[08Dec2024 18:57:26.087] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[08Dec2024 18:57:26.104] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[08Dec2024 18:57:26.124] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[08Dec2024 18:57:26.159] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[08Dec2024 18:57:26.184] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[08Dec2024 18:57:26.198] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[08Dec2024 18:57:30.702] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[08Dec2024 18:57:41.844] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[08Dec2024 18:57:41.855] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[08Dec2024 18:57:41.876] [Worker-Main-75/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[08Dec2024 18:58:14.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fayruzzx lost connection: Disconnected
+[08Dec2024 18:58:14.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx left the game
+[08Dec2024 18:58:14.349] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3e8f64c4-2bfb-36d0-8850-056113152757 was unloaded
+[08Dec2024 18:58:14.349] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of fayruzzx
+[08Dec2024 18:58:14.349] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client fayruzzx
+[08Dec2024 18:59:16.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Stone Age]
+[08Dec2024 18:59:29.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Getting an Upgrade]
+[08Dec2024 19:00:17.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:00:17.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:01:57.381] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[08Dec2024 19:02:24.651] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:gerudo_village_goddess_statue
+[08Dec2024 19:02:24.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[08Dec2024 19:02:24.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[08Dec2024 19:02:24.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[08Dec2024 19:02:41.389] [Worker-Main-10/DEBUG] [ModernFix/]: Structure ecologics:desert_ruin/wall2 is being run through DFU (hash 134e6104663054a9c0035a4265768982e81981c66fcf3446d8d7818e3070d120), this will cause launch time delays
