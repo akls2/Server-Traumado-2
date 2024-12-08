@@ -1559,3 +1559,125 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 17:44:32.426] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/chunk/LevelChunk$EntityCreationType
 [08Dec2024 17:44:32.690] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbchunks/data/ClaimExpirationManager
 [08Dec2024 17:44:32.692] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbchunks/LongRangePlayerTracker
+[08Dec2024 17:52:11.409] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/ConnectionProtocol
+[08Dec2024 17:52:11.445] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundCustomChatCompletionsPacket$Action
+[08Dec2024 17:52:11.489] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundRecipePacket$State
+[08Dec2024 17:52:11.511] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundClientCommandPacket$Action
+[08Dec2024 17:52:11.514] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickType
+[08Dec2024 17:52:11.517] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundInteractPacket$ActionType
+[08Dec2024 17:52:11.523] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerActionPacket$Action
+[08Dec2024 17:52:11.524] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerCommandPacket$Action
+[08Dec2024 17:52:11.527] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundResourcePackPacket$Action
+[08Dec2024 17:52:11.528] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundSeenAdvancementsPacket$Action
+[08Dec2024 17:52:11.531] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/CommandBlockEntity$Mode
+[08Dec2024 17:52:11.535] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
+[08Dec2024 17:52:17.360] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[08Dec2024 17:52:17.475] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[08Dec2024 17:52:20.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JM_a[/127.81.7.81:48259] logged in with entity id 305 at (10.5, 147.0, 52.5)
+[08Dec2024 17:52:20.451] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[08Dec2024 17:52:20.465] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/The_Leviathan/The_Leviathan_Entity$AttackMode
+[08Dec2024 17:52:20.478] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/SpellcasterIllager$IllagerSpell
+[08Dec2024 17:52:20.479] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/Pet/Modern_Remnant_Entity$AttackMode
+[08Dec2024 17:52:20.485] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/Pet/The_Baby_Leviathan_Entity$AttackMode
+[08Dec2024 17:52:20.488] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/entity/boss/KnightPhantom$Formation
+[08Dec2024 17:52:20.492] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ancient_Remnant_Entity$AttackMode
+[08Dec2024 17:52:20.495] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Nameless_Sorcerer_Entity$SpellType
+[08Dec2024 17:52:20.504] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/network/server/SPChangeGamerule$SynchronizedGameRules
+[08Dec2024 17:52:20.541] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Face
+[08Dec2024 17:52:20.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$TerrainType
+[08Dec2024 17:52:20.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Biome
+[08Dec2024 17:52:20.546] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Feature
+[08Dec2024 17:52:20.550] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/utils/MiscUtils$Festivity
+[08Dec2024 17:52:20.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JM_a joined the game
+[08Dec2024 17:52:21.077] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[08Dec2024 17:52:21.200] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/network/Kind
+[08Dec2024 17:52:21.249] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Action
+[08Dec2024 17:52:21.283] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/trains/signal/EdgeGroupColor
+[08Dec2024 17:52:21.425] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/network/ClientRequestSettingsPacket$Event
+[08Dec2024 17:52:21.442] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[08Dec2024 17:52:21.484] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/network/ConfirmedSetting$Event
+[08Dec2024 17:52:21.496] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JM_a (18)
+[08Dec2024 17:52:21.498] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JM_a
+[08Dec2024 17:52:21.503] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting journeymap/common/network/data/Side
+[08Dec2024 17:52:21.523] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5bec9369-e061-32ac-bea0-35076a868634 was loaded
+[08Dec2024 17:52:21.631] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[08Dec2024 17:52:21.676] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aetherteam/nitrogen/capability/INBTSynchable$Direction
+[08Dec2024 17:52:21.743] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/network/server/SPChangeSkill$State
+[08Dec2024 17:52:21.759] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/Entity$MovementEmission
+[08Dec2024 17:52:21.775] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/corosus/watut/PlayerStatus$PlayerGuiState
+[08Dec2024 17:52:21.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/alrex/parcool/common/action/StaminaConsumeTiming
+[08Dec2024 17:52:22.009] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/corosus/watut/PlayerStatus$PlayerChatState
+[08Dec2024 17:52:22.039] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/zeta/event/bus/ZResult
+[08Dec2024 17:52:27.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5bec9369-e061-32ac-bea0-35076a868634
+[08Dec2024 17:52:28.071] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5bec9369-e061-32ac-bea0-35076a868634
+[08Dec2024 17:52:28.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JM_a (5bec9369-e061-32ac-bea0-35076a868634) successfully connected to voice chat
+[08Dec2024 17:52:32.010] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[08Dec2024 17:54:45.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: akls[/127.248.228.106:46937] logged in with entity id 508 at (539.006529920226, 71.0, 653.0765529355897)
+[08Dec2024 17:54:45.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls joined the game
+[08Dec2024 17:54:46.705] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Block
+[08Dec2024 17:54:46.707] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/phys/HitResult$Type
+[08Dec2024 17:54:46.749] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/profiling/metrics/MetricCategory
+[08Dec2024 17:54:49.309] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of akls (18)
+[08Dec2024 17:54:49.313] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to akls
+[08Dec2024 17:54:49.319] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was loaded
+[08Dec2024 17:55:02.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1acc4442-96a9-3f81-88e0-481ccae5e760
+[08Dec2024 17:55:03.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1acc4442-96a9-3f81-88e0-481ccae5e760
+[08Dec2024 17:55:03.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) successfully connected to voice chat
+[08Dec2024 17:55:05.765] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[08Dec2024 17:55:30.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fayruzzx[/127.27.133.7:59437] logged in with entity id 971 at (566.8255084162425, 70.0, 655.5569510069236)
+[08Dec2024 17:55:30.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx joined the game
+[08Dec2024 17:55:31.922] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of fayruzzx (18)
+[08Dec2024 17:55:31.923] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to fayruzzx
+[08Dec2024 17:55:31.929] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3e8f64c4-2bfb-36d0-8850-056113152757 was loaded
+[08Dec2024 17:55:40.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3e8f64c4-2bfb-36d0-8850-056113152757
+[08Dec2024 17:55:41.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3e8f64c4-2bfb-36d0-8850-056113152757
+[08Dec2024 17:55:41.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fayruzzx (3e8f64c4-2bfb-36d0-8850-056113152757) successfully connected to voice chat
+[08Dec2024 17:55:45.738] [pool-3-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[08Dec2024 17:55:45.930] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[08Dec2024 17:55:54.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9058ms or 181 ticks behind
+[08Dec2024 17:55:59.105] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/alrex/parcool/common/network/SyncActionStateMessage$DataType
+[08Dec2024 17:56:03.230] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
+[08Dec2024 17:56:12.600] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
+[08Dec2024 17:56:13.763] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[08Dec2024 17:56:20.937] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
+[08Dec2024 17:56:36.807] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-555, y=67, z=-277}
+[08Dec2024 17:56:40.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3391ms or 67 ticks behind
+[08Dec2024 17:56:52.735] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/world/entity/eventlistener/ComboCounterHandleEvent$Causal
+[08Dec2024 17:57:06.160] [Worker-Main-24/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KomainuVariant
+[08Dec2024 17:57:09.130] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[08Dec2024 17:57:22.526] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/skill/guard/GuardSkill$BlockType
+[08Dec2024 17:57:23.868] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-795, y=67, z=-485}
+[08Dec2024 17:57:26.964] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-796, y=67, z=-485} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[08Dec2024 17:57:26.964] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-796, y=67, z=-485}
+[08Dec2024 17:57:26.966] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-795, y=67, z=-485} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[08Dec2024 17:57:26.967] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-795, y=67, z=-485}
+[08Dec2024 17:57:26.968] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-796, y=66, z=-485} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[08Dec2024 17:57:26.968] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-796, y=66, z=-485}
+[08Dec2024 17:58:00.491] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[08Dec2024 17:59:17.814] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1580, l='ServerLevel[world]', x=-564.50, y=71.00, z=-360.50]
+[08Dec2024 17:59:28.318] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[08Dec2024 17:59:37.422] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[08Dec2024 17:59:49.833] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[08Dec2024 17:59:56.215] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1648, l='ServerLevel[world]', x=-555.50, y=73.00, z=-356.50]
+[08Dec2024 18:00:02.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1653, l='ServerLevel[world]', x=-583.50, y=69.00, z=-356.50]
+[08Dec2024 18:00:05.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Krystina'/694, l='ServerLevel[world]', x=604.91, y=64.00, z=748.92] died, message: 'Krystina was slain by fayruzzx'
+[08Dec2024 18:00:05.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Krystina'/694, l='ServerLevel[world]', x=604.91, y=64.00, z=748.92] died: Krystina was slain by fayruzzx
+[08Dec2024 18:00:05.839] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[08Dec2024 18:00:05.852] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[08Dec2024 18:00:11.272] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Viktoria'/768, l='ServerLevel[world]', x=609.70, y=63.94, z=741.62] died, message: 'Viktoria was slain by fayruzzx'
+[08Dec2024 18:00:11.274] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Viktoria'/768, l='ServerLevel[world]', x=609.70, y=63.94, z=741.62] died: Viktoria was slain by fayruzzx
+[08Dec2024 18:00:18.771] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Valeri'/829, l='ServerLevel[world]', x=641.65, y=63.46, z=767.26] died, message: 'Valeri was slain by fayruzzx'
+[08Dec2024 18:00:18.773] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Valeri'/829, l='ServerLevel[world]', x=641.65, y=63.46, z=767.26] died: Valeri was slain by fayruzzx
+[08Dec2024 18:00:23.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=641, y=64, z=765} BlockPos{x=642, y=63, z=766}
+[08Dec2024 18:00:52.374] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anya'/910, l='ServerLevel[world]', x=569.28, y=67.00, z=809.72] died, message: 'Anya was slain by fayruzzx'
+[08Dec2024 18:00:52.375] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Anya'/910, l='ServerLevel[world]', x=569.28, y=67.00, z=809.72] died: Anya was slain by fayruzzx
+[08Dec2024 18:00:56.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JM_a has made the advancement [Acquire Hardware]
+[08Dec2024 18:01:03.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lyubov'/784, l='ServerLevel[world]', x=575.51, y=66.94, z=792.99] died, message: 'Lyubov was slain by fayruzzx'
+[08Dec2024 18:01:03.624] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lyubov'/784, l='ServerLevel[world]', x=575.51, y=66.94, z=792.99] died: Lyubov was slain by fayruzzx
+[08Dec2024 18:01:11.224] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Galja'/782, l='ServerLevel[world]', x=578.30, y=67.00, z=786.41] died, message: 'Galja was slain by fayruzzx'
+[08Dec2024 18:01:11.225] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Galja'/782, l='ServerLevel[world]', x=578.30, y=67.00, z=786.41] died: Galja was slain by fayruzzx
+[08Dec2024 18:01:11.364] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2047, l='ServerLevel[world]', x=-585.50, y=73.00, z=-350.50]
+[08Dec2024 18:01:32.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to JM_a]
+[08Dec2024 18:01:40.415] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2241, l='ServerLevel[world]', x=-564.50, y=71.00, z=-362.50]
+[08Dec2024 18:01:41.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Creative Mode]
+[08Dec2024 18:01:51.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx has made the advancement [Ice Bucket Challenge]
