@@ -1,0 +1,29 @@
+{
+	id: "31ae0029-1ca6-3a2f-a688-c6192b550f10"
+	type: "player"
+	player_name: "Loi_boy"
+	ranks: {
+		31ae0029-1ca6-3a2f-a688-c6192b550f10: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Loi_boy"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59A7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}

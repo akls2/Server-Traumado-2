@@ -143,6 +143,7 @@
       "fir_clearing": "2024-12-02 02:36:33 +0000",
       "pumpkin_patch": "2024-12-02 02:36:31 +0000",
       "prairie": "2024-12-01 03:30:57 +0000",
+      "grassland": "2024-12-08 18:29:58 +0000",
       "snowy_fir_clearing": "2024-12-02 03:03:34 +0000",
       "undergrowth": "2024-12-08 18:12:31 +0000",
       "ominous_woods": "2024-12-02 02:36:05 +0000"
@@ -5332,6 +5333,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-08 18:30:12 +0000"
+    },
+    "done": false
+  },
   "farm_and_charm:recipes/onion_bag": {
     "criteria": {
       "has_onion": "2024-12-02 03:38:38 +0000"
@@ -5390,6 +5397,12 @@
   "aether:recipes/tools/aether_saddle": {
     "criteria": {
       "has_leather": "2024-12-08 18:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-08 18:22:47 +0000"
     },
     "done": true
   },
@@ -5513,6 +5526,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-08 18:22:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2024-12-08 18:00:19 +0000"
@@ -5549,9 +5568,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-08 18:20:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-08 18:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-08 18:20:59 +0000"
     },
     "done": true
   },
@@ -5573,6 +5604,18 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2024-12-08 18:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-08 18:22:47 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blaze": {
     "criteria": {
       "has_blaze_rod": "2024-12-08 18:17:42 +0000"
@@ -5588,6 +5631,12 @@
   "brewery:recipes/rope": {
     "criteria": {
       "has_wheat": "2024-12-08 18:00:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2024-12-08 18:20:59 +0000"
     },
     "done": true
   },
