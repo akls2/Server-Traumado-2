@@ -1979,3 +1979,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 19:13:53.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) successfully connected to voice chat
 [08Dec2024 19:14:01.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Isn't It Iron Pick]
 [08Dec2024 19:14:11.663] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34766, l='ServerLevel[world]', x=1190.50, y=74.00, z=1797.50]
+[08Dec2024 19:15:51.163] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35457, l='ServerLevel[world]', x=1153.50, y=78.00, z=1747.50]
+[08Dec2024 19:16:15.664] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35474, l='ServerLevel[world]', x=1144.50, y=74.00, z=1737.50]
+[08Dec2024 19:16:44.564] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35554, l='ServerLevel[world]', x=1194.50, y=76.00, z=1791.50]
+[08Dec2024 19:17:32.064] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36416, l='ServerLevel[world]', x=1195.50, y=76.00, z=1791.50]
+[08Dec2024 19:17:36.292] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36875, l='ServerLevel[world]', x=1188.50, y=74.00, z=1799.50]
+[08Dec2024 19:19:12.613] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38330, l='ServerLevel[world]', x=1184.50, y=75.00, z=1784.50]
+[08Dec2024 19:19:19.964] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38824, l='ServerLevel[world]', x=1178.50, y=73.00, z=1801.50]
+[08Dec2024 19:19:38.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Reloaded player states.]
+[08Dec2024 19:19:42.064] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38934, l='ServerLevel[world]', x=1152.50, y=78.00, z=1745.50]
+[08Dec2024 19:20:30.663] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39466, l='ServerLevel[world]', x=1176.50, y=73.00, z=1801.50]
+[08Dec2024 19:20:32.815] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39471, l='ServerLevel[world]', x=1190.50, y=74.00, z=1799.50]
+[08Dec2024 19:21:23.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> ale
+[08Dec2024 19:21:26.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <akls> que paso
+[08Dec2024 19:21:27.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> no entraste al vc
+[08Dec2024 19:21:39.666] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40087, l='ServerLevel[world]', x=1143.50, y=74.00, z=1738.50]
+[08Dec2024 19:21:49.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
+[08Dec2024 19:21:53.266] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40132, l='ServerLevel[world]', x=1176.50, y=73.00, z=1799.50]
+[08Dec2024 19:22:47.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Reloaded player states.]
+[08Dec2024 19:23:04.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Set amount of Heart Containers akls has to 10.]
+[08Dec2024 19:23:34.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Set amount of Heart Containers akls has to 8.]
+[08Dec2024 19:23:48.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
+[08Dec2024 19:24:26.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy was slain by akls
+[08Dec2024 19:24:33.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls has made the advancement [Ice Bucket Challenge]

@@ -18195,3 +18195,81 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 19:13:53.627] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of akls: {disabled=false, disconnected=false, uuid=1acc4442-96a9-3f81-88e0-481ccae5e760, name=akls, group=null}
 [08Dec2024 19:14:01.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Isn't It Iron Pick]
 [08Dec2024 19:14:11.663] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34766, l='ServerLevel[world]', x=1190.50, y=74.00, z=1797.50]
+[08Dec2024 19:14:51.476] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[08Dec2024 19:15:17.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:15:17.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:15:51.163] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35457, l='ServerLevel[world]', x=1153.50, y=78.00, z=1747.50]
+[08Dec2024 19:16:15.664] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35474, l='ServerLevel[world]', x=1144.50, y=74.00, z=1737.50]
+[08Dec2024 19:16:44.564] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35554, l='ServerLevel[world]', x=1194.50, y=76.00, z=1791.50]
+[08Dec2024 19:17:32.064] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36416, l='ServerLevel[world]', x=1195.50, y=76.00, z=1791.50]
+[08Dec2024 19:17:36.292] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36875, l='ServerLevel[world]', x=1188.50, y=74.00, z=1799.50]
+[08Dec2024 19:18:24.129] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[08Dec2024 19:18:24.130] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md60e45a$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[08Dec2024 19:19:12.613] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38330, l='ServerLevel[world]', x=1184.50, y=75.00, z=1784.50]
+[08Dec2024 19:19:19.964] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38824, l='ServerLevel[world]', x=1178.50, y=73.00, z=1801.50]
+[08Dec2024 19:19:38.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Reloaded player states.]
+[08Dec2024 19:19:42.064] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38934, l='ServerLevel[world]', x=1152.50, y=78.00, z=1745.50]
+[08Dec2024 19:20:17.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:20:17.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:20:30.663] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39466, l='ServerLevel[world]', x=1176.50, y=73.00, z=1801.50]
+[08Dec2024 19:20:32.815] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39471, l='ServerLevel[world]', x=1190.50, y=74.00, z=1799.50]
+[08Dec2024 19:21:23.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> ale
+[08Dec2024 19:21:26.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <akls> que paso
+[08Dec2024 19:21:27.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> no entraste al vc
+[08Dec2024 19:21:39.666] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40087, l='ServerLevel[world]', x=1143.50, y=74.00, z=1738.50]
+[08Dec2024 19:21:43.718] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[08Dec2024 19:21:43.728] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[08Dec2024 19:21:43.731] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[08Dec2024 19:21:43.734] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[08Dec2024 19:21:47.264] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[08Dec2024 19:21:49.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
+[08Dec2024 19:21:49.301] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[08Dec2024 19:21:49.307] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[08Dec2024 19:21:49.334] [Worker-Main-69/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_turn_0 is being run through DFU (hash e25d526a570fcd152c18558d5226a2f763e58a6bcb4c84a917fa966e79de7140), this will cause launch time delays
+[08Dec2024 19:21:49.631] [Worker-Main-69/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_3 is being run through DFU (hash 3225787c560299130e36fd56fc487917bd0de74f2a263db6663e4b8d171f232f), this will cause launch time delays
+[08Dec2024 19:21:49.902] [Worker-Main-69/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_3 is being run through DFU (hash 05fc48174c7c7da5bf0b2165c82dc0600807b4deb5d7fba6d578cff9c4cba62f), this will cause launch time delays
+[08Dec2024 19:21:49.942] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[08Dec2024 19:21:50.077] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[08Dec2024 19:21:50.198] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[08Dec2024 19:21:50.206] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[08Dec2024 19:21:50.232] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[08Dec2024 19:21:50.238] [Worker-Main-69/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_3 is being run through DFU (hash c76dceff34aaab0a83862f3eabac184fb19827542ff2f267010aa8ef31a1bba2), this will cause launch time delays
+[08Dec2024 19:21:50.256] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[08Dec2024 19:21:50.270] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[08Dec2024 19:21:50.342] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[08Dec2024 19:21:50.376] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[08Dec2024 19:21:50.398] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[08Dec2024 19:21:50.407] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[08Dec2024 19:21:50.517] [Worker-Main-69/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3 is being run through DFU (hash 32bd1ae2d23fa71616e0c378b422d1e9e13fbf31551051d3f771e728a4fb5d6c), this will cause launch time delays
+[08Dec2024 19:21:50.846] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[08Dec2024 19:21:50.908] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[08Dec2024 19:21:50.928] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[08Dec2024 19:21:50.942] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[08Dec2024 19:21:51.135] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[08Dec2024 19:21:51.438] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[08Dec2024 19:21:51.720] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[08Dec2024 19:21:51.798] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_2
+[08Dec2024 19:21:51.812] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[08Dec2024 19:21:51.830] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[08Dec2024 19:21:51.865] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[08Dec2024 19:21:51.904] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[08Dec2024 19:21:53.266] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40132, l='ServerLevel[world]', x=1176.50, y=73.00, z=1799.50]
+[08Dec2024 19:21:56.437] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[08Dec2024 19:22:06.024] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[08Dec2024 19:22:08.139] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[08Dec2024 19:22:08.184] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[08Dec2024 19:22:08.223] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[08Dec2024 19:22:08.246] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[08Dec2024 19:22:08.272] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[08Dec2024 19:22:08.284] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[08Dec2024 19:22:15.160] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[08Dec2024 19:22:15.190] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[08Dec2024 19:22:15.230] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[08Dec2024 19:22:39.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:desert_village_horned_statue
+[08Dec2024 19:22:47.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Reloaded player states.]
+[08Dec2024 19:23:04.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Set amount of Heart Containers akls has to 10.]
+[08Dec2024 19:23:34.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Set amount of Heart Containers akls has to 8.]
+[08Dec2024 19:23:48.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
+[08Dec2024 19:24:26.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy was slain by akls
+[08Dec2024 19:24:28.515] [Server thread/DEBUG] [twilightforest/]: Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) respawned and received items held in storage
+[08Dec2024 19:24:33.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls has made the advancement [Ice Bucket Challenge]
