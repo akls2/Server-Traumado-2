@@ -4665,6 +4665,7 @@
   },
   "brewery:main/crop_collector": {
     "criteria": {
+      "farm_and_charm:barley": "2024-12-08 18:47:48 +0000",
       "farm_and_charm:corn": "2024-12-02 02:58:21 +0000"
     },
     "done": false
@@ -4693,6 +4694,24 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_wood": {
+    "criteria": {
+      "has_log": "2024-12-08 18:03:40 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_planks": {
+    "criteria": {
+      "has_logs": "2024-12-08 18:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-08 18:06:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-08 18:08:53 +0000"
@@ -4717,18 +4736,6 @@
     },
     "done": true
   },
-  "farm_and_charm:recipes/onion_bag": {
-    "criteria": {
-      "has_onion": "2024-12-08 18:28:40 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/coconut_wood": {
-    "criteria": {
-      "has_log": "2024-12-08 18:03:40 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-12-08 18:08:53 +0000"
@@ -4741,18 +4748,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2024-12-08 18:06:07 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/coconut_planks": {
-    "criteria": {
-      "has_logs": "2024-12-08 18:03:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-08 18:08:53 +0000"
@@ -4762,6 +4757,36 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-08 18:08:53 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/onion_bag": {
+    "criteria": {
+      "has_onion": "2024-12-08 18:28:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-08 18:43:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2024-12-08 18:46:34 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "barley": "2024-12-08 18:47:48 +0000"
+    },
+    "done": false
+  },
+  "farm_and_charm:recipes/barley_ball": {
+    "criteria": {
+      "has_barley": "2024-12-08 18:47:48 +0000"
     },
     "done": true
   },
