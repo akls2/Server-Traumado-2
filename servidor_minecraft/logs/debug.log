@@ -18273,3 +18273,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 19:24:26.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy was slain by akls
 [08Dec2024 19:24:28.515] [Server thread/DEBUG] [twilightforest/]: Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) respawned and received items held in storage
 [08Dec2024 19:24:33.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls has made the advancement [Ice Bucket Challenge]
+[08Dec2024 19:25:19.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:25:19.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:26:00.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[08Dec2024 19:28:25.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by Zombie
+[08Dec2024 19:28:30.892] [Server thread/DEBUG] [twilightforest/]: Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) respawned and received items held in storage
+[08Dec2024 19:28:31.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:rito_village_goddess_statue
+[08Dec2024 19:28:31.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:savanna_village_horned_statue
+[08Dec2024 19:28:31.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[08Dec2024 19:28:31.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[08Dec2024 19:30:19.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:30:19.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:32:05.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Full Moon in a Pocket]
