@@ -1713,3 +1713,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 03:27:15.845] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23316, l='ServerLevel[world]', x=675.50, y=69.00, z=549.50]
 [09Dec2024 03:27:35.993] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23337, l='ServerLevel[world]', x=673.50, y=69.00, z=548.50]
 [09Dec2024 03:28:21.785] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[09Dec2024 03:32:16.843] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24634, l='ServerLevel[world]', x=674.50, y=69.00, z=547.50]
+[09Dec2024 03:32:19.367] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KomainuVariant
+[09Dec2024 03:35:04.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Wild Grapes]
+[09Dec2024 03:37:30.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy lost connection: Disconnected
+[09Dec2024 03:37:30.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy left the game
+[09Dec2024 03:37:30.048] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was unloaded
+[09Dec2024 03:37:30.048] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Loi_boy

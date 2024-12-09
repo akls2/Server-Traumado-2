@@ -16105,3 +16105,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 03:27:15.845] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23316, l='ServerLevel[world]', x=675.50, y=69.00, z=549.50]
 [09Dec2024 03:27:35.993] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23337, l='ServerLevel[world]', x=673.50, y=69.00, z=548.50]
 [09Dec2024 03:28:21.785] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[09Dec2024 03:31:30.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 03:31:30.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 03:31:55.356] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[09Dec2024 03:31:55.365] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[09Dec2024 03:31:55.390] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[09Dec2024 03:31:55.401] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:fishing_hut/fishing_hut_spawner_0 is being run through DFU (hash 47995b7d455eb5166033a6276249e6e9868d45362c7e7ea440b61bcfdf002229), this will cause launch time delays
+[09Dec2024 03:32:16.843] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24634, l='ServerLevel[world]', x=674.50, y=69.00, z=547.50]
+[09Dec2024 03:32:19.367] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KomainuVariant
+[09Dec2024 03:32:42.864] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[09Dec2024 03:35:04.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Wild Grapes]
+[09Dec2024 03:36:30.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 03:36:30.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 03:37:30.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy lost connection: Disconnected
+[09Dec2024 03:37:30.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy left the game
+[09Dec2024 03:37:30.048] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was unloaded
+[09Dec2024 03:37:30.048] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Loi_boy
+[09Dec2024 03:37:30.048] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Loi_boy
