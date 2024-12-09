@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-09 01:58:16 +0000"
@@ -41,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-09 02:09:26 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-09 01:58:11 +0000"
@@ -50,6 +62,12 @@
   "smallships:recipes/transportation/spruce_cog": {
     "criteria": {
       "in_water": "2024-12-09 01:47:19 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2024-12-09 02:14:11 +0000"
     },
     "done": true
   },
@@ -113,6 +131,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-12-09 01:45:20 +0000"
@@ -131,15 +155,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-09 02:10:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-09 01:57:56 +0000"
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2024-12-09 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/skeleton_balloon": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_pickaxe_repairing": {
     "criteria": {
       "has_stone_pickaxe": "2024-12-09 02:00:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
     },
     "done": true
   },
@@ -158,6 +206,12 @@
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-09 01:58:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
     },
     "done": true
   },
@@ -226,6 +280,18 @@
       "minecraft:zombie": "2024-12-09 02:02:11 +0000"
     },
     "done": false
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-09 02:09:57 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
@@ -311,6 +377,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2024-12-09 02:08:52 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2024-12-09 01:47:19 +0000"
@@ -359,6 +431,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-09 02:08:52 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_cog": {
     "criteria": {
       "in_water": "2024-12-09 01:47:19 +0000"
@@ -377,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-09 02:10:08 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
       "in_water": "2024-12-09 01:47:19 +0000"
@@ -392,6 +476,12 @@
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2024-12-09 01:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-09 02:09:57 +0000"
     },
     "done": true
   },
@@ -443,6 +533,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-09 01:57:46 +0000"
@@ -489,6 +585,12 @@
   "bakery:main/root": {
     "criteria": {
       "seeds": "2024-12-09 01:45:20 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ghost_balloon": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:09:25 +0000"
     },
     "done": true
   },
@@ -552,6 +654,12 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/spider_balloon": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:10:08 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2024-12-09 01:58:16 +0000"
@@ -576,9 +684,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2024-12-09 02:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-09 02:09:57 +0000"
     },
     "done": true
   },
@@ -594,9 +714,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-09 01:59:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 02:09:25 +0000"
     },
     "done": true
   },
@@ -653,6 +791,12 @@
       "log_spam_fixer": "2024-12-09 01:45:23 +0000"
     },
     "done": false
+  },
+  "mcwholidays:recipes/ghost": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
   },
   "smallships:recipes/transportation/bamboo_brigg": {
     "criteria": {
@@ -801,6 +945,18 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/happy_ghost": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-09 01:59:01 +0000"
@@ -855,9 +1011,51 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2024-12-09 01:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-09 02:08:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2024-12-09 02:08:52 +0000"
     },
     "done": true
   },
@@ -913,7 +1111,9 @@
     "criteria": {
       "overgrown_greens": "2024-12-09 01:48:04 +0000",
       "spider_nest": "2024-12-09 02:04:17 +0000",
-      "redwood_forest": "2024-12-09 01:45:23 +0000"
+      "redwood_forest": "2024-12-09 01:45:23 +0000",
+      "grassland": "2024-12-09 02:13:59 +0000",
+      "prairie": "2024-12-09 02:09:02 +0000"
     },
     "done": false
   },
@@ -932,6 +1132,18 @@
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2024-12-09 01:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-09 02:10:08 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_duck": {
+    "criteria": {
+      "has_duck": "2024-12-09 02:08:45 +0000"
     },
     "done": true
   },
@@ -956,6 +1168,12 @@
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "minecraft:planks": "2024-12-09 01:57:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 02:09:25 +0000"
     },
     "done": true
   },
@@ -989,6 +1207,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-09 02:14:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-09 01:47:19 +0000"
@@ -998,6 +1228,12 @@
   "biomesoplenty:recipes/decorations/redwood_fence": {
     "criteria": {
       "has_planks": "2024-12-09 01:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 02:09:25 +0000"
     },
     "done": true
   },
@@ -1019,9 +1255,21 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/black_balloon": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:10:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-09 01:58:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2024-12-09 02:10:08 +0000"
     },
     "done": true
   },
@@ -1103,6 +1351,18 @@
     },
     "done": false
   },
+  "vinery:recipes/dark_cherry_wood": {
+    "criteria": {
+      "has_cherry_wood": "2024-12-09 02:15:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_slab": {
     "criteria": {
       "has_planks": "2024-12-09 01:57:56 +0000"
@@ -1139,6 +1399,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2024-12-09 01:47:19 +0000"
@@ -1169,6 +1435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-09 02:09:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2024-12-09 01:47:19 +0000"
@@ -1190,6 +1462,12 @@
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2024-12-09 01:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 02:09:25 +0000"
     },
     "done": true
   },
@@ -1307,6 +1585,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-09 02:09:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-09 02:09:26 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2024-12-09 01:47:19 +0000"
@@ -1331,11 +1621,23 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2024-12-09 01:45:23 +0000"
     },
     "done": false
+  },
+  "mcwholidays:recipes/haunting_ghost": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
   },
   "smallships:recipes/transportation/cherry_brigg": {
     "criteria": {
@@ -1367,6 +1669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-09 02:09:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2024-12-09 01:58:16 +0000"
@@ -1387,13 +1695,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2024-12-09 01:47:19 +0000"
+      "minecraft:beach": "2024-12-09 02:14:23 +0000",
+      "minecraft:river": "2024-12-09 01:47:19 +0000",
+      "minecraft:plains": "2024-12-09 02:09:18 +0000"
     },
     "done": false
   },
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
       "has_stone_axe": "2024-12-09 02:04:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
     },
     "done": true
   },
@@ -1421,6 +1737,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-09 02:14:14 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2024-12-09 01:47:19 +0000"
@@ -1445,6 +1767,12 @@
     },
     "done": true
   },
+  "beachparty:beach_towel": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 02:09:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-09 01:58:11 +0000"
@@ -1454,6 +1782,12 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2024-12-09 01:58:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-12-09 02:09:25 +0000"
     },
     "done": true
   },

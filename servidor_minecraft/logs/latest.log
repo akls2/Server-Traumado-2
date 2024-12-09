@@ -1698,3 +1698,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 01:59:01.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thepreica90 has made the advancement [Stone Age]
 [09Dec2024 02:00:40.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thepreica90 has made the advancement [Getting an Upgrade]
 [09Dec2024 02:02:11.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thepreica90 has made the advancement [Monster Hunter]
+[09Dec2024 02:12:09.112] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@693cd7d4[id=<null>,name=akls,properties={},legacy=false] (/127.248.228.106:51971) lost connection: Disconnected
+[09Dec2024 02:12:13.981] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: akls[/127.248.228.106:52577] logged in with entity id 3849 at (-21.88454938969484, 62.0, 11.903853631894318)
+[09Dec2024 02:12:14.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls joined the game
+[09Dec2024 02:12:16.025] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of akls (18)
+[09Dec2024 02:12:16.026] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to akls
+[09Dec2024 02:12:16.027] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was loaded
+[09Dec2024 02:12:18.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by Zombie
+[09Dec2024 02:12:27.245] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1acc4442-96a9-3f81-88e0-481ccae5e760
+[09Dec2024 02:12:28.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1acc4442-96a9-3f81-88e0-481ccae5e760
+[09Dec2024 02:12:28.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) successfully connected to voice chat
+[09Dec2024 02:12:33.838] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[09Dec2024 02:13:31.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to thepreica90]
+[09Dec2024 02:13:59.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported thepreica90 to akls]
+[09Dec2024 02:14:11.706] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5491, l='ServerLevel[world]', x=-448.50, y=72.00, z=-381.50]
+[09Dec2024 02:14:30.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported thepreica90 to akls]
+[09Dec2024 02:14:54.268] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[09Dec2024 02:15:48.266] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[09Dec2024 02:15:48.462] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[09Dec2024 02:17:36.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thepreica90 has made the advancement [Sweet Dreams]
+[09Dec2024 02:17:46.894] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[09Dec2024 02:17:46.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thepreica90> zzz
+[09Dec2024 02:17:47.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thepreica90> zzzz
+[09Dec2024 02:17:48.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thepreica90> zzzz
+[09Dec2024 02:17:49.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thepreica90> zzz
