@@ -16128,3 +16128,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 03:46:30.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Dec2024 03:46:30.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Dec2024 03:47:13.144] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28215, l='ServerLevel[world]', x=673.50, y=69.00, z=547.50]
+[09Dec2024 03:51:10.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls lost connection: Disconnected
+[09Dec2024 03:51:10.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls left the game
+[09Dec2024 03:51:10.896] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was unloaded
+[09Dec2024 03:51:10.897] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of akls
+[09Dec2024 03:51:10.897] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client akls
+[09Dec2024 03:51:30.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 03:51:30.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 03:56:30.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 03:56:30.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
