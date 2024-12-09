@@ -15733,3 +15733,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 01:56:48.820] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client akls
 [09Dec2024 01:56:48.865] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [09Dec2024 01:59:01.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thepreica90 has made the advancement [Stone Age]
+[09Dec2024 02:00:40.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thepreica90 has made the advancement [Getting an Upgrade]
+[09Dec2024 02:01:31.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 02:01:31.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 02:02:11.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thepreica90 has made the advancement [Monster Hunter]
+[09Dec2024 02:02:15.160] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@73520a8e for service interface com.blamejared.clumps.platform.IEventHelper
+[09Dec2024 02:02:15.161] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@8d6666b for service interface com.blamejared.clumps.platform.IPlatformHelper
+[09Dec2024 02:06:31.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 02:06:31.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
