@@ -1705,3 +1705,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 03:08:21.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
 [09Dec2024 03:11:25.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls has made the advancement [False Water]
 [09Dec2024 03:15:22.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
+[09Dec2024 03:20:13.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
+[09Dec2024 03:21:15.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
+[09Dec2024 03:25:49.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
+[09Dec2024 03:25:58.969] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[09Dec2024 03:26:01.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported Loi_boy to akls]
+[09Dec2024 03:27:15.845] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23316, l='ServerLevel[world]', x=675.50, y=69.00, z=549.50]
+[09Dec2024 03:27:35.993] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23337, l='ServerLevel[world]', x=673.50, y=69.00, z=548.50]
+[09Dec2024 03:28:21.785] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
