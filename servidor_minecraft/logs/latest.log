@@ -1698,3 +1698,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 02:57:32.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls has completed the challenge [It Spreads]
 [09Dec2024 02:57:36.969] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/corosus/watut/PlayerStatus$PlayerChatState
 [09Dec2024 02:57:39.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
+[09Dec2024 03:02:24.595] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[09Dec2024 03:06:16.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
+[09Dec2024 03:08:12.097] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[09Dec2024 03:08:12.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[09Dec2024 03:08:21.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
