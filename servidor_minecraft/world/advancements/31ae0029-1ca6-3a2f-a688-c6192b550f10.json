@@ -1741,6 +1741,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-08 19:22:54 +0000",
+      "minecraft:witch": "2024-12-09 02:52:08 +0000",
       "minecraft:zombie": "2024-12-08 18:49:15 +0000"
     },
     "done": false
@@ -4064,6 +4065,36 @@
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2024-12-08 19:49:59 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/single_potion": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:52:09 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/three_potions": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:52:09 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pair_of_potions": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:52:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2024-12-09 02:52:04 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-09 02:52:09 +0000"
     },
     "done": true
   },
