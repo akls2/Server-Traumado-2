@@ -5268,6 +5268,12 @@
     },
     "done": true
   },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2024-12-09 03:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-09 03:17:17 +0000"

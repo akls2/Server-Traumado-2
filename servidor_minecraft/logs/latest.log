@@ -1720,3 +1720,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 03:37:30.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy left the game
 [09Dec2024 03:37:30.048] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was unloaded
 [09Dec2024 03:37:30.048] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Loi_boy
+[09Dec2024 03:44:00.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls has completed the challenge [Breaking the Maze]
+[09Dec2024 03:47:13.144] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28215, l='ServerLevel[world]', x=673.50, y=69.00, z=547.50]
