@@ -15429,3 +15429,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Dec2024 02:32:56.636] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3e8f64c4-2bfb-36d0-8850-056113152757 was unloaded
 [10Dec2024 02:32:56.637] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of fayruzzx
 [10Dec2024 02:32:56.639] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client fayruzzx
+[10Dec2024 02:35:34.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 02:35:34.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 02:40:34.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 02:40:34.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
