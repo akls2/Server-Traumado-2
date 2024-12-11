@@ -1745,6 +1745,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-08 19:22:54 +0000",
+      "minecraft:spider": "2024-12-11 03:11:44 +0000",
       "minecraft:phantom": "2024-12-11 02:38:39 +0000",
       "minecraft:witch": "2024-12-09 02:52:08 +0000",
       "minecraft:zombie": "2024-12-08 18:49:15 +0000"
@@ -4603,13 +4604,44 @@
   },
   "vinery:main/crop_collector": {
     "criteria": {
-      "vinery:white_grape_seeds": "2024-12-09 03:35:04 +0000"
+      "vinery:white_grape_seeds": "2024-12-09 03:35:04 +0000",
+      "vinery:red_grape_seeds": "2024-12-11 03:10:44 +0000"
     },
     "done": false
   },
   "vinery:main/wild_crops": {
     "criteria": {
       "white_grape_seeds": "2024-12-09 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-11 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2024-12-11 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/featherlight": {
+    "criteria": {
+      "has_item": "2024-12-11 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-11 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-11 03:10:44 +0000"
     },
     "done": true
   },
@@ -4625,6 +4657,12 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/onion_bag": {
+    "criteria": {
+      "has_onion": "2024-12-11 03:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-11 02:43:48 +0000"
@@ -4634,6 +4672,12 @@
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2024-12-11 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-11 03:10:44 +0000"
     },
     "done": true
   },
@@ -4655,9 +4699,39 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2024-12-11 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-11 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-11 03:11:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/gravitite_shovel_repairing": {
     "criteria": {
       "has_gravitite_shovel": "2024-12-11 02:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-11 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2024-12-11 03:10:44 +0000"
     },
     "done": true
   },
