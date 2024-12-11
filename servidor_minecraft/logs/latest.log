@@ -163,3 +163,10 @@
 [11Dec2024 02:12:51.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx has completed the challenge [Hero of Hyrule]
 [11Dec2024 02:13:26.848] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
 [11Dec2024 02:14:09.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx has made the advancement [Glorious Eminence]
+[11Dec2024 02:16:01.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fayruzzx lost connection: Disconnected
+[11Dec2024 02:16:01.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx left the game
+[11Dec2024 02:16:01.201] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3e8f64c4-2bfb-36d0-8850-056113152757 was unloaded
+[11Dec2024 02:16:01.201] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client fayruzzx
+[11Dec2024 02:18:00.498] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[11Dec2024 02:23:45.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 has made the advancement [Monster Hunter]
+[11Dec2024 02:23:57.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Successfully filled 534 block(s)]
