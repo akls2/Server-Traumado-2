@@ -535,6 +535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-11 01:52:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-11 00:55:47 +0000"
@@ -550,6 +556,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-11 01:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-11 01:52:27 +0000"
     },
     "done": true
   },
@@ -2125,6 +2137,12 @@
   "mcwlights:recipes/torches": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-11 01:52:27 +0000"
     },
     "done": true
   },
