@@ -110,3 +110,6 @@
 [11Dec2024 01:06:04.661] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [11Dec2024 01:09:45.656] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Veniamin'/77, l='ServerLevel[world]', x=90.01, y=63.23, z=59.83] died, message: 'Veniamin was slain by Zombie'
 [11Dec2024 01:09:45.657] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Veniamin'/77, l='ServerLevel[world]', x=90.01, y=63.23, z=59.83] died: Veniamin was slain by Zombie
+[11Dec2024 01:13:40.703] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[11Dec2024 01:15:55.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 has made the advancement [Stone Age]
+[11Dec2024 01:21:48.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 has made the advancement [Getting an Upgrade]
