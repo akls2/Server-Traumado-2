@@ -1091,6 +1091,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2024-12-11 01:31:28 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2024-12-11 01:08:20 +0000"
@@ -1360,6 +1366,12 @@
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2024-12-11 00:53:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-12-11 01:31:45 +0000"
     },
     "done": true
   },

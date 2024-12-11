@@ -113,3 +113,11 @@
 [11Dec2024 01:13:40.703] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
 [11Dec2024 01:15:55.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 has made the advancement [Stone Age]
 [11Dec2024 01:21:48.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 has made the advancement [Getting an Upgrade]
+[11Dec2024 01:28:33.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=587, y=65, z=564} BlockPos{x=588, y=63, z=563}
+[11Dec2024 01:28:34.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=591, y=65, z=561} BlockPos{x=590, y=63, z=561}
+[11Dec2024 01:28:35.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=65, z=562} BlockPos{x=592, y=63, z=562}
+[11Dec2024 01:28:36.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=587, y=65, z=569} BlockPos{x=587, y=63, z=568}
+[11Dec2024 01:29:21.013] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[11Dec2024 01:29:32.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Creative Mode]
+[11Dec2024 01:29:44.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Survival Mode]
+[11Dec2024 01:32:11.612] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type

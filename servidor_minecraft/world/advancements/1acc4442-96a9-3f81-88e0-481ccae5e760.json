@@ -5677,9 +5677,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-11 01:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-11 01:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-11 00:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-11 01:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-11 01:27:22 +0000"
     },
     "done": true
   },
@@ -5743,6 +5767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-11 01:33:12 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/wine_box": {
     "criteria": {
       "has_glass": "2024-12-11 00:11:31 +0000"
@@ -5776,6 +5806,12 @@
   "supplementaries:recipes/jar": {
     "criteria": {
       "has_glass": "2024-12-11 00:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-11 01:27:22 +0000"
     },
     "done": true
   },

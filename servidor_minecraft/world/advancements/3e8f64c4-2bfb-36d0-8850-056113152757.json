@@ -5918,79 +5918,91 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 01:23:20 +0000"
+      "log_spam_fixer": "2024-12-11 01:33:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 01:23:20 +0000"
+      "log_spam_fixer": "2024-12-11 01:33:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 01:23:20 +0000"
+      "log_spam_fixer": "2024-12-11 01:33:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 01:23:20 +0000"
+      "log_spam_fixer": "2024-12-11 01:33:20 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 01:23:20 +0000"
+      "log_spam_fixer": "2024-12-11 01:33:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 01:23:20 +0000"
+      "log_spam_fixer": "2024-12-11 01:33:20 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 01:23:20 +0000"
+      "log_spam_fixer": "2024-12-11 01:33:20 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 01:23:20 +0000"
+      "log_spam_fixer": "2024-12-11 01:33:20 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 01:23:20 +0000"
+      "log_spam_fixer": "2024-12-11 01:33:20 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 01:23:20 +0000"
+      "log_spam_fixer": "2024-12-11 01:33:20 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 01:23:20 +0000"
+      "log_spam_fixer": "2024-12-11 01:33:20 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 01:23:20 +0000"
+      "log_spam_fixer": "2024-12-11 01:33:20 +0000"
     },
     "done": false
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 01:17:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
     },
     "done": true
   },
@@ -6012,15 +6024,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-11 01:19:03 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-11 01:19:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
     },
     "done": true
   },
@@ -6048,9 +6090,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-11 01:17:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
     },
     "done": true
   },
@@ -6102,9 +6156,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-11 01:17:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
     },
     "done": true
   },
@@ -6123,6 +6195,24 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-11 01:17:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
     },
     "done": true
   },
@@ -6186,6 +6276,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-11 01:17:30 +0000"
@@ -6201,6 +6303,18 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-11 01:19:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-11 01:24:54 +0000"
     },
     "done": true
   },
