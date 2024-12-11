@@ -77,3 +77,28 @@
 [11Dec2024 00:51:48.571] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
 [11Dec2024 00:51:48.573] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
 [11Dec2024 00:51:52.755] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[11Dec2024 00:53:36.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 has made the advancement [Minecraft Comes Alive]
+[11Dec2024 00:53:50.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thepreica90 has made the advancement [A Seedy Place]
+[11Dec2024 00:54:35.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 has made the advancement [Crops of the Wild]
+[11Dec2024 00:58:43.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 was slain by Zombie
+[11Dec2024 01:00:20.999] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Ilja}[style={}] has been infected
+[11Dec2024 01:00:21.700] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ilya'/102, l='ServerLevel[world]', x=87.93, y=63.00, z=138.65] died, message: 'Ilya was slain by Zombie'
+[11Dec2024 01:00:21.703] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ilya'/102, l='ServerLevel[world]', x=87.93, y=63.00, z=138.65] died: Ilya was slain by Zombie
+[11Dec2024 01:00:21.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[11Dec2024 01:00:21.721] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[11Dec2024 01:00:37.899] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ilja'/112, l='ServerLevel[world]', x=87.51, y=62.94, z=108.49] died, message: 'Ilja was slain by Zombie'
+[11Dec2024 01:00:37.900] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ilja'/112, l='ServerLevel[world]', x=87.51, y=62.94, z=108.49] died: Ilja was slain by Zombie
+[11Dec2024 01:00:52.604] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Nadia}[style={}] has been infected
+[11Dec2024 01:00:52.605] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nadia'/73, l='ServerLevel[world]', x=95.10, y=64.00, z=89.75] died, message: 'Nadia was slain by Zombie'
+[11Dec2024 01:00:52.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Nadia'/73, l='ServerLevel[world]', x=95.10, y=64.00, z=89.75] died: Nadia was slain by Zombie
+[11Dec2024 01:00:56.648] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Natalya'/75, l='ServerLevel[world]', x=89.91, y=63.00, z=91.46] died, message: 'Natalya was slain by Zombie'
+[11Dec2024 01:00:56.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Natalya'/75, l='ServerLevel[world]', x=89.91, y=63.00, z=91.46] died: Natalya was slain by Zombie
+[11Dec2024 01:02:04.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fayruzzx[/127.112.74.191:36325] logged in with entity id 8667 at (72.83959969195031, 71.25220334025373, -874.2930683592475)
+[11Dec2024 01:02:04.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fayruzzx joined the game
+[11Dec2024 01:02:06.331] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of fayruzzx (18)
+[11Dec2024 01:02:06.332] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to fayruzzx
+[11Dec2024 01:02:06.333] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3e8f64c4-2bfb-36d0-8850-056113152757 was loaded
+[11Dec2024 01:02:14.576] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3e8f64c4-2bfb-36d0-8850-056113152757
+[11Dec2024 01:02:15.576] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3e8f64c4-2bfb-36d0-8850-056113152757
+[11Dec2024 01:02:15.576] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fayruzzx (3e8f64c4-2bfb-36d0-8850-056113152757) successfully connected to voice chat
+[11Dec2024 01:02:41.474] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/skill/guard/GuardSkill$BlockType

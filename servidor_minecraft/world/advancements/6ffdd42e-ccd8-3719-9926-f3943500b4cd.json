@@ -1820,6 +1820,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-11 00:51:06 +0000",
       "cooked_beef": "2024-12-09 02:14:14 +0000",
       "golden_apple": "2024-12-09 02:29:47 +0000"
     },
@@ -4232,6 +4233,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 00:53:29 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/warped": {
     "criteria": {
       "has_the_recipe": "2024-12-11 00:21:16 +0000"
@@ -4244,15 +4251,33 @@
     },
     "done": true
   },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2024-12-11 00:53:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-11 00:00:48 +0000"
     },
     "done": true
   },
+  "farm_and_charm:recipes/carrot_bag": {
+    "criteria": {
+      "has_carrot": "2024-12-11 00:53:29 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_oak": {
     "criteria": {
       "has_the_recipe": "2024-12-11 00:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-11 00:53:30 +0000"
     },
     "done": true
   },
@@ -4263,15 +4288,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 00:53:29 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/cabinet": {
     "criteria": {
       "has_oak_planks": "2024-12-11 00:08:32 +0000"
     },
     "done": true
   },
+  "farm_and_charm:recipes/beetroot_bag": {
+    "criteria": {
+      "has_beetroots": "2024-12-11 00:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-11 00:51:37 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_prismarine": {
     "criteria": {
       "has_the_recipe": "2024-12-11 00:21:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-11 00:53:26 +0000"
     },
     "done": true
   },
@@ -4287,9 +4336,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 00:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-11 00:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-11 00:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-11 00:53:26 +0000"
     },
     "done": true
   },
@@ -4305,6 +4372,12 @@
       "has_shield": "2024-12-11 00:22:00 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2024-12-11 00:53:50 +0000"
+    },
+    "done": false
   },
   "mcwwindows:recipes/birch": {
     "criteria": {
@@ -4336,6 +4409,12 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/potato_bag": {
+    "criteria": {
+      "has_potato": "2024-12-11 00:53:46 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:verglas": {
     "criteria": {
       "item": "2024-12-11 00:03:18 +0000"
@@ -4345,6 +4424,12 @@
   "mcwwindows:recipes/quartz": {
     "criteria": {
       "has_the_recipe": "2024-12-11 00:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-11 00:53:30 +0000"
     },
     "done": true
   },
@@ -4378,6 +4463,12 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2024-12-11 00:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-11 00:21:16 +0000"
@@ -4387,6 +4478,12 @@
   "mcwfurnitures:recipes/oak": {
     "criteria": {
       "has_wood": "2024-12-11 00:21:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-11 00:53:30 +0000"
     },
     "done": true
   },
@@ -4405,6 +4502,12 @@
   "mcwwindows:recipes/crimson": {
     "criteria": {
       "has_the_recipe": "2024-12-11 00:21:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-11 00:53:26 +0000"
     },
     "done": true
   },
@@ -4444,9 +4547,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2024-12-11 00:53:26 +0000"
+    },
+    "done": true
+  },
   "beachparty:bikini": {
     "criteria": {
       "has_string": "2024-12-11 00:26:09 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2024-12-11 00:53:26 +0000"
     },
     "done": true
   },
@@ -4459,6 +4574,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-11 00:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-11 00:53:46 +0000"
     },
     "done": true
   },
@@ -4475,9 +4596,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-11 00:53:26 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
+    "criteria": {
+      "has_beetroot": "2024-12-11 00:53:30 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_wheat": "2024-12-11 00:53:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-11 00:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-11 00:53:46 +0000"
     },
     "done": true
   },
@@ -4493,6 +4638,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 00:53:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-11 00:26:09 +0000"
@@ -4502,6 +4653,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-11 00:08:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-11 00:53:26 +0000"
     },
     "done": true
   },
@@ -4532,6 +4689,18 @@
   "bakery:recipes/drawer": {
     "criteria": {
       "has_oak_planks": "2024-12-11 00:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-11 00:51:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 00:53:29 +0000"
     },
     "done": true
   },
@@ -4577,9 +4746,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 00:53:29 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2024-12-11 00:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-11 00:51:41 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_chest": "2024-12-11 00:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-11 00:53:46 +0000"
     },
     "done": true
   },
@@ -4595,6 +4788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-11 00:53:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/gravitite_shovel_repairing": {
     "criteria": {
       "has_gravitite_shovel": "2024-12-11 00:13:43 +0000"
@@ -4604,6 +4803,12 @@
   "vinery:recipes/oak_wine_rack_big": {
     "criteria": {
       "has_oak_planks": "2024-12-11 00:08:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 00:53:30 +0000"
     },
     "done": true
   },
@@ -4643,6 +4848,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-11 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2024-12-11 00:53:26 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2024-12-11 00:21:16 +0000"
@@ -4655,15 +4872,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2024-12-11 00:53:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-11 00:00:48 +0000"
     },
     "done": true
   },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2024-12-11 00:53:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-11 00:26:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 00:53:29 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2024-12-11 00:53:26 +0000"
     },
     "done": true
   },
