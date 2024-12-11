@@ -576,6 +576,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2024-12-11 03:33:44 +0000",
       "minecraft:sunflower_plains": "2024-12-11 02:44:04 +0000",
+      "minecraft:birch_forest": "2024-12-11 03:44:20 +0000",
       "minecraft:wooded_badlands": "2024-12-08 19:03:21 +0000",
       "minecraft:beach": "2024-12-08 18:28:13 +0000",
       "minecraft:dark_forest": "2024-12-11 03:37:48 +0000",
@@ -4624,6 +4625,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 03:52:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 03:52:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 03:52:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 03:52:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 03:52:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 03:52:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 03:52:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 03:52:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 03:52:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 03:52:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 03:52:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 03:52:23 +0000"
+    },
+    "done": false
+  },
   "mcwwindows:recipes/diorite": {
     "criteria": {
       "has_wood": "2024-12-11 03:25:07 +0000"
@@ -4666,6 +4739,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2024-12-11 03:46:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 03:25:07 +0000"
@@ -4687,6 +4766,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-11 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-11 03:46:34 +0000"
     },
     "done": true
   },
@@ -4810,6 +4895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-11 03:46:34 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-11 03:29:22 +0000"
@@ -4825,6 +4916,12 @@
   "travelersbackpack:recipes/misc/iron_smithing": {
     "criteria": {
       "has_iron": "2024-12-11 02:47:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 03:46:14 +0000"
     },
     "done": true
   },
@@ -4864,6 +4961,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-12-11 03:46:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2024-12-11 03:13:30 +0000"
@@ -4879,6 +4982,12 @@
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 03:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-11 03:46:34 +0000"
     },
     "done": true
   },
@@ -4927,6 +5036,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2024-12-11 03:34:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 03:46:14 +0000"
     },
     "done": true
   },
@@ -5044,6 +5159,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-11 03:46:14 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-11 03:29:22 +0000"
@@ -5083,6 +5204,18 @@
   "paraglider:recipes/misc/cosmetic/deku_leaf": {
     "criteria": {
       "has_paragliders": "2024-12-11 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 03:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-11 03:46:13 +0000"
     },
     "done": true
   },
@@ -5164,6 +5297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-11 03:46:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-11 03:25:07 +0000"
@@ -5203,6 +5342,12 @@
   "aether:recipes/transportation/skyroot_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-11 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-11 03:46:14 +0000"
     },
     "done": true
   },

@@ -273,3 +273,16 @@
 [11Dec2024 03:45:21.765] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
 [11Dec2024 03:45:22.594] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #aquamirae:ship (aquamirae:ship) took 1207 ms
 [11Dec2024 03:46:14.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Crops of the Wild]
+[11Dec2024 03:48:34.395] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/53036, l='ServerLevel[world]', x=-1908.50, y=79.00, z=704.50]
+[11Dec2024 03:48:54.846] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/53049, l='ServerLevel[world]', x=-1910.50, y=79.00, z=704.50]
+[11Dec2024 03:49:51.785] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1acc4442-96a9-3f81-88e0-481ccae5e760 timed out
+[11Dec2024 03:49:51.785] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player akls
+[11Dec2024 03:49:51.786] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to akls
+[11Dec2024 03:49:52.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls lost connection: Disconnected
+[11Dec2024 03:49:52.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls left the game
+[11Dec2024 03:49:52.550] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was unloaded
+[11Dec2024 03:49:52.551] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client akls
+[11Dec2024 03:52:47.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy lost connection: Disconnected
+[11Dec2024 03:52:47.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy left the game
+[11Dec2024 03:52:47.198] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was unloaded
+[11Dec2024 03:52:47.199] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Loi_boy
