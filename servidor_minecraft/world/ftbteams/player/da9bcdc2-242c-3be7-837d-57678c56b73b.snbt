@@ -1,0 +1,29 @@
+{
+	id: "da9bcdc2-242c-3be7-837d-57678c56b73b"
+	type: "player"
+	player_name: "TPTM12"
+	ranks: {
+		da9bcdc2-242c-3be7-837d-57678c56b73b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TPTM12"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59B5"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}

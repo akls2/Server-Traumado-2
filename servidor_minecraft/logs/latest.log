@@ -47,3 +47,13 @@
 [11Dec2024 00:11:54.914] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [11Dec2024 00:24:20.897] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
 [11Dec2024 00:25:22.648] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[11Dec2024 00:34:36.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TPTM12[/127.155.29.244:54329] logged in with entity id 4160 at (5.5, 113.0, 39.5)
+[11Dec2024 00:34:36.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 joined the game
+[11Dec2024 00:34:37.770] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TPTM12 (18)
+[11Dec2024 00:34:37.772] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TPTM12
+[11Dec2024 00:34:37.774] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of da9bcdc2-242c-3be7-837d-57678c56b73b was loaded
+[11Dec2024 00:34:43.070] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da9bcdc2-242c-3be7-837d-57678c56b73b
+[11Dec2024 00:34:44.073] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da9bcdc2-242c-3be7-837d-57678c56b73b
+[11Dec2024 00:34:44.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TPTM12 (da9bcdc2-242c-3be7-837d-57678c56b73b) successfully connected to voice chat
+[11Dec2024 00:40:08.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to thepreica90]
+[11Dec2024 00:41:52.803] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
