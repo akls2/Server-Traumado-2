@@ -1593,7 +1593,8 @@
     "criteria": {
       "cooked_mutton": "2024-12-08 19:22:21 +0000",
       "cooked_beef": "2024-11-30 04:29:52 +0000",
-      "beef": "2024-11-30 04:25:43 +0000"
+      "beef": "2024-11-30 04:25:43 +0000",
+      "golden_carrot": "2024-12-11 03:30:47 +0000"
     },
     "done": false
   },
@@ -6073,6 +6074,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-11 03:30:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-11 01:35:44 +0000"
@@ -6178,6 +6185,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-11 01:44:49 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2024-12-11 03:30:43 +0000"
     },
     "done": true
   },

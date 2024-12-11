@@ -228,3 +228,13 @@
 [11Dec2024 03:19:36.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> habla ahora
 [11Dec2024 03:19:54.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> si te escucho
 [11Dec2024 03:25:01.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> si
+[11Dec2024 03:25:45.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> ntp
+[11Dec2024 03:25:47.083] [Worker-Main-63/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[11Dec2024 03:27:17.546] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39826, l='ServerLevel[world]', x=-448.50, y=72.00, z=-380.50]
+[11Dec2024 03:27:55.297] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39977, l='ServerLevel[world]', x=-443.50, y=76.00, z=-381.50]
+[11Dec2024 03:28:04.302] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40024, l='ServerLevel[world]', x=-427.50, y=73.00, z=-489.50]
+[11Dec2024 03:29:46.997] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40445, l='ServerLevel[world]', x=-445.50, y=76.00, z=-382.50]
+[11Dec2024 03:30:30.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Set own game mode to Survival Mode]
+[11Dec2024 03:30:33.444] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40874, l='ServerLevel[world]', x=-428.50, y=73.00, z=-490.50]
+[11Dec2024 03:30:35.596] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40893, l='ServerLevel[world]', x=-450.50, y=72.00, z=-379.50]
+[11Dec2024 03:33:02.663] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
