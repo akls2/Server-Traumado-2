@@ -57,3 +57,23 @@
 [11Dec2024 00:34:44.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TPTM12 (da9bcdc2-242c-3be7-837d-57678c56b73b) successfully connected to voice chat
 [11Dec2024 00:40:08.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to thepreica90]
 [11Dec2024 00:41:52.803] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[11Dec2024 00:42:45.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=108, z=42} BlockPos{x=-1, y=96, z=50}
+[11Dec2024 00:42:48.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=108, z=42} BlockPos{x=-1, y=97, z=50}
+[11Dec2024 00:42:55.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=108, z=42} BlockPos{x=6, y=102, z=42}
+[11Dec2024 00:42:55.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=108, z=42} BlockPos{x=6, y=102, z=41}
+[11Dec2024 00:42:59.852] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[11Dec2024 00:43:06.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 was slain by Zombie
+[11Dec2024 00:43:10.595] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[11Dec2024 00:43:25.748] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
+[11Dec2024 00:44:51.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 fell from a high place
+[11Dec2024 00:45:21.797] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KitsuneVariant
+[11Dec2024 00:45:31.788] [Worker-Main-66/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[11Dec2024 00:45:32.932] [Worker-Main-66/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KomainuVariant
+[11Dec2024 00:49:55.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 was slain by Zombie
+[11Dec2024 00:50:07.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=88, z=42}
+[11Dec2024 00:50:15.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=88, z=42}
+[11Dec2024 00:50:15.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=87, z=41}
+[11Dec2024 00:51:32.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thepreica90 has made the advancement [Minecraft Comes Alive]
+[11Dec2024 00:51:48.571] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[11Dec2024 00:51:48.573] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[11Dec2024 00:51:52.755] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
