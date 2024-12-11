@@ -130,6 +130,7 @@
       "dryland": "2024-12-08 18:56:15 +0000",
       "lush_desert": "2024-12-08 19:02:06 +0000",
       "redwood_forest": "2024-12-08 18:25:27 +0000",
+      "pasture": "2024-12-11 02:44:22 +0000",
       "grassland": "2024-12-08 18:29:36 +0000",
       "prairie": "2024-12-08 18:30:35 +0000",
       "glowing_grotto": "2024-12-08 19:06:28 +0000"
@@ -570,6 +571,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2024-12-11 02:44:04 +0000",
       "minecraft:wooded_badlands": "2024-12-08 19:03:21 +0000",
       "minecraft:beach": "2024-12-08 18:28:13 +0000",
       "minecraft:sparse_jungle": "2024-12-08 18:40:44 +0000",
@@ -579,6 +581,7 @@
       "minecraft:forest": "2024-12-08 18:30:59 +0000",
       "minecraft:jungle": "2024-12-08 18:40:18 +0000",
       "minecraft:warm_ocean": "2024-12-08 18:56:16 +0000",
+      "minecraft:flower_forest": "2024-12-11 02:44:19 +0000",
       "minecraft:deep_dark": "2024-12-08 19:49:59 +0000",
       "minecraft:savanna": "2024-12-08 18:34:41 +0000",
       "minecraft:plains": "2024-12-08 18:30:56 +0000"
@@ -4607,6 +4610,54 @@
   "vinery:main/wild_crops": {
     "criteria": {
       "white_grape_seeds": "2024-12-09 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-11 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2024-12-11 02:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-11 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2024-12-11 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-11 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/gravitite_shovel_repairing": {
+    "criteria": {
+      "has_gravitite_shovel": "2024-12-11 02:47:28 +0000"
     },
     "done": true
   },

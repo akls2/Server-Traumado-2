@@ -16746,3 +16746,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 02:43:17.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 has made the advancement [Not Today, Thank You]
 [11Dec2024 02:43:20.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Dec2024 02:43:20.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 02:45:14.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Set own game mode to Spectator Mode]
+[11Dec2024 02:48:20.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 02:48:20.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 02:51:04.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 was doomed to fall by Zombie
+[11Dec2024 02:51:13.179] [Server thread/DEBUG] [twilightforest/]: Player TPTM12 (da9bcdc2-242c-3be7-837d-57678c56b73b) respawned and received items held in storage
+[11Dec2024 02:53:20.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 02:53:20.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 02:53:33.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 has reached the goal [Taste the Red]
+[11Dec2024 02:54:49.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TPTM12 lost connection: Disconnected
+[11Dec2024 02:54:49.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 left the game
+[11Dec2024 02:54:49.602] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of da9bcdc2-242c-3be7-837d-57678c56b73b was unloaded
+[11Dec2024 02:54:49.602] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of TPTM12
+[11Dec2024 02:54:49.602] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TPTM12
