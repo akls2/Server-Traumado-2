@@ -144,3 +144,7 @@
 [11Dec2024 01:51:35.767] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
 [11Dec2024 01:51:35.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Successfully filled 948 block(s)]
 [11Dec2024 01:53:45.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Successfully filled 919 block(s)]
+[11Dec2024 01:55:04.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Successfully filled 351 block(s)]
+[11Dec2024 01:55:19.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Successfully filled 352 block(s)]
+[11Dec2024 01:55:51.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Spectator Mode]
+[11Dec2024 01:56:31.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Creative Mode]
