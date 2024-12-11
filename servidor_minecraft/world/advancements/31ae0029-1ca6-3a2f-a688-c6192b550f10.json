@@ -574,9 +574,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-11 03:33:44 +0000",
       "minecraft:sunflower_plains": "2024-12-11 02:44:04 +0000",
       "minecraft:wooded_badlands": "2024-12-08 19:03:21 +0000",
       "minecraft:beach": "2024-12-08 18:28:13 +0000",
+      "minecraft:dark_forest": "2024-12-11 03:37:48 +0000",
       "minecraft:sparse_jungle": "2024-12-08 18:40:44 +0000",
       "minecraft:lukewarm_ocean": "2024-12-08 18:45:01 +0000",
       "minecraft:river": "2024-12-08 18:30:25 +0000",
@@ -586,6 +588,7 @@
       "minecraft:ocean": "2024-12-11 03:29:56 +0000",
       "minecraft:warm_ocean": "2024-12-08 18:56:16 +0000",
       "minecraft:flower_forest": "2024-12-11 02:44:19 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-11 03:36:10 +0000",
       "minecraft:deep_dark": "2024-12-08 19:49:59 +0000",
       "minecraft:savanna": "2024-12-08 18:34:41 +0000",
       "minecraft:plains": "2024-12-08 18:30:56 +0000"
@@ -4741,6 +4744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-11 03:34:06 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-11 03:29:22 +0000"
@@ -4915,6 +4924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-11 03:34:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 03:25:07 +0000"
@@ -4948,6 +4963,12 @@
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-11 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-11 03:34:06 +0000"
     },
     "done": true
   },
