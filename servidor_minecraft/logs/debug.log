@@ -16379,3 +16379,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 01:32:11.612] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
 [11Dec2024 01:33:20.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Dec2024 01:33:20.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 01:33:39.599] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14191, l='ServerLevel[world]', x=675.50, y=69.00, z=548.50]
+[11Dec2024 01:34:16.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Creative Mode]
+[11Dec2024 01:34:27.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Survival Mode]
+[11Dec2024 01:34:38.307] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[11Dec2024 01:34:38.307] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md544f51$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[11Dec2024 01:35:13.318] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[11Dec2024 01:35:13.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fayruzzx> 477 686
+[11Dec2024 01:37:47.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Gave 1962 [Stripped Dark Oak Log] to akls]
+[11Dec2024 01:38:20.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 01:38:20.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 01:38:28.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to TPTM12]
+[11Dec2024 01:38:34.551] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zoja'/113, l='ServerLevel[world]', x=94.27, y=64.56, z=152.06] died, message: 'Zoja was slain by Zombie'
+[11Dec2024 01:38:34.552] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Zoja'/113, l='ServerLevel[world]', x=94.27, y=64.56, z=152.06] died: Zoja was slain by Zombie
+[11Dec2024 01:38:50.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Creative Mode]
+[11Dec2024 01:39:16.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to thepreica90]
+[11Dec2024 01:41:49.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fayruzzx: Set own game mode to Survival Mode]
+[11Dec2024 01:42:40.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Gave 1 [Longsword] to TPTM12]
+[11Dec2024 01:42:52.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <akls> de regalito
+[11Dec2024 01:43:00.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thepreica90 lost connection: Disconnected
+[11Dec2024 01:43:00.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thepreica90 left the game
+[11Dec2024 01:43:00.857] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6ffdd42e-ccd8-3719-9926-f3943500b4cd was unloaded
+[11Dec2024 01:43:00.859] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of thepreica90
+[11Dec2024 01:43:00.861] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client thepreica90
+[11Dec2024 01:43:20.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 01:43:20.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 01:43:40.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Gave 4201 [Spruce Planks] to akls]
