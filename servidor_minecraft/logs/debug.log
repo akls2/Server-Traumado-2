@@ -16802,3 +16802,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 03:14:07.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> creo que deje cosas en esa back
 [11Dec2024 03:14:49.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> que haces?
 [11Dec2024 03:15:19.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> te escucho mal
+[11Dec2024 03:18:20.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 03:18:20.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 03:18:54.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[11Dec2024 03:18:54.885] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[11Dec2024 03:18:54.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_spawner_0
+[11Dec2024 03:18:55.134] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[11Dec2024 03:18:55.145] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[11Dec2024 03:18:55.152] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[11Dec2024 03:19:25.371] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[11Dec2024 03:19:36.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> habla ahora
+[11Dec2024 03:19:54.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> si te escucho
+[11Dec2024 03:23:20.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 03:23:20.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 03:25:01.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loi_boy> si

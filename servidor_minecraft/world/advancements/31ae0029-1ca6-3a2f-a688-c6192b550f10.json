@@ -764,6 +764,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-11 03:13:44 +0000",
       "cooked_beef": "2024-12-09 03:28:57 +0000",
       "bread": "2024-12-08 18:34:32 +0000"
     },
@@ -4651,6 +4652,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-11 03:13:30 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron_smithing": {
     "criteria": {
       "has_iron": "2024-12-11 02:47:03 +0000"
@@ -4660,6 +4667,12 @@
   "farm_and_charm:recipes/onion_bag": {
     "criteria": {
       "has_onion": "2024-12-11 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-11 03:13:30 +0000"
     },
     "done": true
   },
@@ -4678,6 +4691,12 @@
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-11 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2024-12-11 03:22:14 +0000"
     },
     "done": true
   },
@@ -4726,6 +4745,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-11 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-11 03:13:30 +0000"
     },
     "done": true
   },
