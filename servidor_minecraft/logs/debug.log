@@ -15542,3 +15542,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 20:10:38.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy was slain by Spider
 [13Dec2024 20:10:40.314] [Server thread/DEBUG] [twilightforest/]: Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) respawned and received items held in storage
 [13Dec2024 20:12:04.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:13:36.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 20:13:36.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 20:14:26.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/28663, l='ServerLevel[world]', x=-1007.70, y=129.01, z=4830.65] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 20:15:45.418] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/29531, l='ServerLevel[world]', x=-982.95, y=129.01, z=4846.77] died: Dinnerbone was slain by Dinnerbone
+[13Dec2024 20:15:47.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/28728, l='ServerLevel[world]', x=-980.30, y=129.01, z=4847.81] died: Dinnerbone was slain by Dinnerbone
+[13Dec2024 20:16:08.418] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/28287, l='ServerLevel[world]', x=-979.75, y=129.01, z=4842.75] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 20:16:12.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/28852, l='ServerLevel[world]', x=-1000.30, y=129.01, z=4833.54] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 20:16:13.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:16:16.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:16:17.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:16:24.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:16:27.180] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/28345, l='ServerLevel[world]', x=-995.93, y=127.01, z=4834.70] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 20:16:29.969] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/28344, l='ServerLevel[world]', x=-996.05, y=126.00, z=4834.70] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 20:16:31.019] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/28533, l='ServerLevel[world]', x=-1002.18, y=129.01, z=4829.30] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 20:16:33.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:16:34.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:16:35.369] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/28283, l='ServerLevel[world]', x=-1000.35, y=129.01, z=4833.63] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 20:16:35.719] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/28603, l='ServerLevel[world]', x=-1001.15, y=129.01, z=4833.87] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 20:18:36.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 20:18:36.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
