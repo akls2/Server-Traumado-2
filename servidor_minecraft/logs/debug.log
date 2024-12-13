@@ -16039,3 +16039,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 16:58:26.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client shermy731
 [13Dec2024 16:58:58.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
 [13Dec2024 16:59:59.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Gave 1 [Standard Traveler's Backpack] to TPTM12]
+[13Dec2024 17:02:40.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 17:02:40.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 17:07:40.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 17:07:40.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
