@@ -1649,3 +1649,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 18:39:08.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1022, y=67, z=4521} BlockPos{x=-1022, y=65, z=4521}
 [13Dec2024 18:39:08.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1022, y=67, z=4521} BlockPos{x=-1022, y=65, z=4521}
 [13Dec2024 18:42:39.831] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[13Dec2024 18:47:36.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Created new server team 'hola'!]
+[13Dec2024 18:48:28.853] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from Loi_boy#31ae0029 to PIOLACRAFT#3cfa8825
+[13Dec2024 18:48:28.854] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 31ae0029-1ca6-3a2f-a688-c6192b550f10 (Loi_boy#31ae0029) to 3cfa8825-8d88-4908-ab19-34424c453028 (PIOLACRAFT#3cfa8825)
+[13Dec2024 18:48:28.854] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 31ae0029-1ca6-3a2f-a688-c6192b550f10 (Loi_boy#31ae0029) due to claim limits
+[13Dec2024 18:48:28.854] [Server thread/INFO] [FTB Chunks/]: Team PIOLACRAFT#3cfa8825 had 0 claimed chunks, now has 0
+[13Dec2024 18:51:14.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls moved wrongly!
+[13Dec2024 18:51:17.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls moved wrongly!
+[13Dec2024 18:58:21.283] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[13Dec2024 18:58:36.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Applied effect Regeneration to akls]
+[13Dec2024 18:59:50.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/6775, l='ServerLevel[world]', x=-1007.45, y=81.01, z=4817.80] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 19:00:39.240] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[13Dec2024 19:00:39.241] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[13Dec2024 19:00:41.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
+[13Dec2024 19:01:41.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/7800, l='ServerLevel[world]', x=-983.30, y=81.01, z=4826.70] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 19:01:52.249] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/6776, l='ServerLevel[world]', x=-986.76, y=81.01, z=4826.62] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 19:02:08.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
+[13Dec2024 19:02:19.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/7979, l='ServerLevel[world]', x=-986.95, y=81.01, z=4818.79] died: Dinnerbone was slain by Dinnerbone

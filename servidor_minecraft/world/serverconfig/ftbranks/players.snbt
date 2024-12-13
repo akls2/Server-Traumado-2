@@ -1,1 +1,14 @@
-{ }
+{
+	31ae0029-1ca6-3a2f-a688-c6192b550f10: {
+		name: "Loi_boy"
+		ranks: {
+			vip: "2024-12-13T18:46:49.529129949Z"
+		}
+	}
+	11242c44-14d5-1f22-3d27-13d2c45ca355: {
+		name: "[CANNON_TESTER]"
+	}
+	1acc4442-96a9-3f81-88e0-481ccae5e760: {
+		name: "akls"
+	}
+}

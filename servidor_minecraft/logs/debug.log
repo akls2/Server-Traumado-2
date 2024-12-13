@@ -15736,3 +15736,44 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 18:42:12.183] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
 [13Dec2024 18:42:12.183] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [13Dec2024 18:42:39.831] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[13Dec2024 18:45:10.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 18:45:10.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 18:47:36.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Created new server team 'hola'!]
+[13Dec2024 18:48:28.853] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from Loi_boy#31ae0029 to PIOLACRAFT#3cfa8825
+[13Dec2024 18:48:28.854] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 31ae0029-1ca6-3a2f-a688-c6192b550f10 (Loi_boy#31ae0029) to 3cfa8825-8d88-4908-ab19-34424c453028 (PIOLACRAFT#3cfa8825)
+[13Dec2024 18:48:28.854] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 31ae0029-1ca6-3a2f-a688-c6192b550f10 (Loi_boy#31ae0029) due to claim limits
+[13Dec2024 18:48:28.854] [Server thread/INFO] [FTB Chunks/]: Team PIOLACRAFT#3cfa8825 had 0 claimed chunks, now has 0
+[13Dec2024 18:50:10.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 18:50:10.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 18:51:14.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls moved wrongly!
+[13Dec2024 18:51:17.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls moved wrongly!
+[13Dec2024 18:55:10.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 18:55:10.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 18:56:26.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:kakariko_village_goddess_statue
+[13Dec2024 18:56:36.907] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[13Dec2024 18:56:36.930] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[13Dec2024 18:56:36.953] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[13Dec2024 18:56:36.983] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[13Dec2024 18:56:37.006] [Worker-Main-1/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[13Dec2024 18:56:37.007] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[13Dec2024 18:56:37.016] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[13Dec2024 18:56:37.017] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[13Dec2024 18:56:37.017] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[13Dec2024 18:56:37.058] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[13Dec2024 18:57:54.005] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@7dd19fe0 for service interface com.blamejared.clumps.platform.IEventHelper
+[13Dec2024 18:57:54.005] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@7bceef91 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[13Dec2024 18:58:21.283] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[13Dec2024 18:58:36.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Applied effect Regeneration to akls]
+[13Dec2024 18:59:50.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/6775, l='ServerLevel[world]', x=-1007.45, y=81.01, z=4817.80] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 19:00:10.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 19:00:10.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 19:00:34.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[13Dec2024 19:00:39.240] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[13Dec2024 19:00:39.241] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[13Dec2024 19:00:41.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
+[13Dec2024 19:01:09.334] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_R_IK in LongHitAnimation wom:animmodels/animations/biped/living/biped_blackout.json
+[13Dec2024 19:01:09.334] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_L_IK in LongHitAnimation wom:animmodels/animations/biped/living/biped_blackout.json
+[13Dec2024 19:01:41.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/7800, l='ServerLevel[world]', x=-983.30, y=81.01, z=4826.70] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 19:01:52.249] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/6776, l='ServerLevel[world]', x=-986.76, y=81.01, z=4826.62] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 19:02:08.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
+[13Dec2024 19:02:19.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/7979, l='ServerLevel[world]', x=-986.95, y=81.01, z=4818.79] died: Dinnerbone was slain by Dinnerbone

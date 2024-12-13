@@ -4,6 +4,7 @@
 	owner: "1acc4442-96a9-3f81-88e0-481ccae5e760"
 	ranks: {
 		3e8f64c4-2bfb-36d0-8850-056113152757: "member"
+		31ae0029-1ca6-3a2f-a688-c6192b550f10: "member"
 		1acc4442-96a9-3f81-88e0-481ccae5e760: "owner"
 	}
 	properties: {
@@ -29,6 +30,8 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1733109665158L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"akls\"}]}" }
 		{ from: "1acc4442-96a9-3f81-88e0-481ccae5e760", date: 1733109770284L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"fayruzzx\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1733109773721L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"fayruzzx\"}]}" }
+		{ from: "1acc4442-96a9-3f81-88e0-481ccae5e760", date: 1734115704029L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Loi_boy\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734115708852L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Loi_boy\"}]}" }
 	]
 	extra: { }
 }

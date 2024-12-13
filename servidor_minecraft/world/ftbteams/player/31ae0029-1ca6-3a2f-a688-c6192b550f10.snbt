@@ -2,9 +2,7 @@
 	id: "31ae0029-1ca6-3a2f-a688-c6192b550f10"
 	type: "player"
 	player_name: "Loi_boy"
-	ranks: {
-		31ae0029-1ca6-3a2f-a688-c6192b550f10: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Loi_boy"
 		"ftbteams:description": ""

@@ -15,4 +15,8 @@
 		condition: "op"
 		ftbranks.name_format: "&2{name}"
 	}
+	mod: {
+		name: "MOD"
+		power: 12
+	}
 }
