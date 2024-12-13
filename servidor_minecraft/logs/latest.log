@@ -1700,3 +1700,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 16:58:26.840] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 23977449-6652-3b82-a07d-de51b78117a8 was unloaded
 [13Dec2024 16:58:26.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client shermy731
 [13Dec2024 16:59:59.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Gave 1 [Standard Traveler's Backpack] to TPTM12]
+[13Dec2024 17:12:55.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TPTM12 lost connection: Disconnected
+[13Dec2024 17:12:55.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 left the game
+[13Dec2024 17:12:55.374] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of da9bcdc2-242c-3be7-837d-57678c56b73b was unloaded
+[13Dec2024 17:12:55.375] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TPTM12

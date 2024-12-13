@@ -16043,3 +16043,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 17:02:40.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Dec2024 17:07:40.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 17:07:40.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 17:12:40.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 17:12:40.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 17:12:55.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TPTM12 lost connection: Disconnected
+[13Dec2024 17:12:55.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 left the game
+[13Dec2024 17:12:55.374] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of da9bcdc2-242c-3be7-837d-57678c56b73b was unloaded
+[13Dec2024 17:12:55.374] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of TPTM12
+[13Dec2024 17:12:55.375] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TPTM12
+[13Dec2024 17:17:40.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 17:17:40.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
