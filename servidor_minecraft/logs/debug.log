@@ -15753,3 +15753,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 03:25:06.796] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15895, l='ServerLevel[world]', x=-1645.50, y=75.00, z=2408.50]
 [13Dec2024 03:25:52.142] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15932, l='ServerLevel[world]', x=-1492.50, y=79.00, z=2372.50]
 [13Dec2024 03:26:00.393] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15942, l='ServerLevel[world]', x=-1665.50, y=74.00, z=2451.50]
+[13Dec2024 03:26:37.292] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16056, l='ServerLevel[world]', x=-1492.50, y=79.00, z=2371.50]
+[13Dec2024 03:26:51.941] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16098, l='ServerLevel[world]', x=-1561.50, y=87.00, z=2391.50]
+[13Dec2024 03:27:08.392] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16122, l='ServerLevel[world]', x=-1527.50, y=84.00, z=2401.50]
+[13Dec2024 03:27:14.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy was slain by Drowned
+[13Dec2024 03:27:17.168] [Server thread/DEBUG] [twilightforest/]: Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) respawned and received items held in storage
+[13Dec2024 03:28:17.341] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16653, l='ServerLevel[world]', x=-1494.50, y=79.00, z=2373.50]
+[13Dec2024 03:28:19.042] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16656, l='ServerLevel[world]', x=-1512.50, y=89.00, z=2388.50]
+[13Dec2024 03:28:22.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls lost connection: Disconnected
+[13Dec2024 03:28:22.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls left the game
+[13Dec2024 03:28:22.501] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was unloaded
+[13Dec2024 03:28:22.502] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of akls
+[13Dec2024 03:28:22.503] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client akls
+[13Dec2024 03:28:40.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16672, l='ServerLevel[world]', x=-1626.50, y=74.00, z=2398.50]
+[13Dec2024 03:28:56.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy lost connection: Disconnected
+[13Dec2024 03:28:56.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy left the game
+[13Dec2024 03:28:56.894] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was unloaded
+[13Dec2024 03:28:56.895] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Loi_boy
+[13Dec2024 03:28:56.895] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Loi_boy
+[13Dec2024 03:29:04.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 03:29:04.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 03:34:04.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 03:34:04.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
