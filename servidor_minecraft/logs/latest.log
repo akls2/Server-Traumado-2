@@ -1661,3 +1661,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 03:14:45.875] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1836 Y: 66 Z: 947
 [13Dec2024 03:14:47.281] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
 [13Dec2024 03:15:06.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported Loi_boy to akls]
+[13Dec2024 03:18:35.956] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[13Dec2024 03:22:38.750] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KitsuneVariant
+[13Dec2024 03:23:30.536] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KomainuVariant
+[13Dec2024 03:24:33.927] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[13Dec2024 03:25:06.796] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15895, l='ServerLevel[world]', x=-1645.50, y=75.00, z=2408.50]
+[13Dec2024 03:25:52.142] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15932, l='ServerLevel[world]', x=-1492.50, y=79.00, z=2372.50]
+[13Dec2024 03:26:00.393] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15942, l='ServerLevel[world]', x=-1665.50, y=74.00, z=2451.50]

@@ -190,6 +190,7 @@
       "minecraft:ocean": "2024-12-01 05:32:45 +0000",
       "minecraft:snowy_beach": "2024-12-02 03:02:01 +0000",
       "minecraft:warm_ocean": "2024-12-08 18:56:16 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-13 03:14:08 +0000",
       "minecraft:deep_dark": "2024-12-02 03:15:41 +0000",
       "minecraft:savanna": "2024-12-01 03:36:44 +0000",
       "minecraft:plains": "2024-12-01 03:35:22 +0000"
@@ -1696,7 +1697,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-13 03:14:31 +0000",
       "minecraft:skeleton": "2024-12-01 03:42:56 +0000",
+      "minecraft:vindicator": "2024-12-13 03:14:48 +0000",
       "minecraft:spider": "2024-12-01 04:08:10 +0000",
       "minecraft:creeper": "2024-12-01 05:29:38 +0000",
       "minecraft:husk": "2024-12-01 04:37:18 +0000",
@@ -6413,6 +6416,78 @@
   "aether:recipes/tools/diamond_axe_repairing": {
     "criteria": {
       "has_diamond_axe": "2024-12-11 03:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-13 03:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-13 03:15:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2024-12-13 03:15:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2024-12-13 03:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 03:15:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 03:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-13 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 03:15:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 03:15:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2024-12-13 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 03:15:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 03:15:55 +0000"
     },
     "done": true
   },
