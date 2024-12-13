@@ -1735,3 +1735,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 04:15:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls left the game
 [13Dec2024 04:15:58.397] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was unloaded
 [13Dec2024 04:15:58.397] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client akls
+[13Dec2024 04:19:16.894] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
+[13Dec2024 04:19:17.501] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[13Dec2024 04:19:20.954] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[13Dec2024 04:19:25.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nedelcho'/31803, l='ServerLevel[world]', x=-1031.63, y=67.00, z=4497.07] died, message: 'Nedelcho suffocated in a wall'
+[13Dec2024 04:19:25.615] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[13Dec2024 04:19:25.640] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[13Dec2024 04:19:25.674] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ganka'/31685, l='ServerLevel[world]', x=-1019.63, y=68.00, z=4495.72] died, message: 'Ganka suffocated in a wall'
+[13Dec2024 04:19:36.673] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[13Dec2024 04:19:58.092] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
