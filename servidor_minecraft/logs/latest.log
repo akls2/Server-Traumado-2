@@ -1730,3 +1730,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 20:29:04.769] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [13Dec2024 20:31:46.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
 [13Dec2024 20:31:46.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:32:47.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/35056, l='ServerLevel[world]', x=-975.35, y=145.01, z=4829.63] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 20:36:06.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[13Dec2024 20:37:59.324] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/34373, l='ServerLevel[world]', x=-978.89, y=145.01, z=4833.14] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 20:38:06.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:38:06.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:38:06.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:38:12.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:38:16.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:38:21.217] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/35055, l='ServerLevel[world]', x=-977.08, y=142.47, z=4836.37] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 20:38:21.467] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/35763, l='ServerLevel[world]', x=-976.37, y=142.00, z=4835.28] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 20:40:12.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy lost connection: Disconnected
+[13Dec2024 20:40:12.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy left the game
+[13Dec2024 20:40:12.275] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was unloaded
+[13Dec2024 20:40:12.278] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Loi_boy
