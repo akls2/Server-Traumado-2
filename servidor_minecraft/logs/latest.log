@@ -1686,3 +1686,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 19:58:29.881] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14239, l='ServerLevel[world]', x=-976.20, y=117.50, z=4840.93] died: Dinnerbone was slain by Loi_boy
 [13Dec2024 20:01:30.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
 [13Dec2024 20:01:31.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:02:10.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:02:15.446] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14292, l='ServerLevel[world]', x=-1002.57, y=119.01, z=4827.36] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 20:02:17.729] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16827, l='ServerLevel[world]', x=-1001.30, y=119.01, z=4827.78] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 20:02:22.622] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14305, l='ServerLevel[world]', x=-1004.08, y=119.01, z=4826.81] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 20:02:26.779] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14288, l='ServerLevel[world]', x=-1005.74, y=121.01, z=4823.56] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 20:02:26.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:02:27.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14296, l='ServerLevel[world]', x=-1006.95, y=121.01, z=4823.67] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 20:02:27.536] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16618, l='ServerLevel[world]', x=-1006.33, y=121.01, z=4823.90] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 20:02:31.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:02:31.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:02:31.873] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14306, l='ServerLevel[world]', x=-998.87, y=121.01, z=4825.69] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 20:02:51.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14289, l='ServerLevel[world]', x=-1007.16, y=121.01, z=4826.70] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 20:03:04.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:03:06.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:08:25.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy was slain by Wither Skeleton
+[13Dec2024 20:08:25.784] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Loi_boy with unique ID travelersbackpack.iron_13.12.2024-20.08.25.dat
+[13Dec2024 20:08:25.786] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -984 Y: 125 Z: 4831
+[13Dec2024 20:08:39.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy was slain by Cave Spider
+[13Dec2024 20:08:54.915] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[13Dec2024 20:09:44.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy was slain by Spider
+[13Dec2024 20:10:38.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy was slain by Spider
+[13Dec2024 20:12:04.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
