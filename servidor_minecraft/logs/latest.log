@@ -1726,3 +1726,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 03:58:59.853] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [13Dec2024 03:58:59.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <akls> bro que opinas de bad buny
 [13Dec2024 04:02:21.128] [Worker-Main-80/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[13Dec2024 04:09:41.040] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24142, l='ServerLevel[world]', x=-1339.50, y=76.00, z=2914.50]
+[13Dec2024 04:11:46.177] [pool-5-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[13Dec2024 04:11:47.163] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[13Dec2024 04:14:51.335] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1173, y=36, z=3876} but found not block entity block Block{minecraft:water}[level=0] at location
+[13Dec2024 04:14:51.336] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1173, y=36, z=3876}
+[13Dec2024 04:15:58.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls lost connection: Disconnected
+[13Dec2024 04:15:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls left the game
+[13Dec2024 04:15:58.397] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was unloaded
+[13Dec2024 04:15:58.397] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client akls
