@@ -15964,3 +15964,56 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 23:08:19.970] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
 [13Dec2024 23:08:43.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 23:08:43.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 23:13:43.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 23:13:43.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 23:15:20.381] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[13Dec2024 23:15:20.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_0_top
+[13Dec2024 23:15:20.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_0
+[13Dec2024 23:15:20.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_1
+[13Dec2024 23:15:20.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_7
+[13Dec2024 23:15:20.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_2_middle
+[13Dec2024 23:15:20.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_7
+[13Dec2024 23:15:20.423] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_1
+[13Dec2024 23:15:20.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_0
+[13Dec2024 23:15:20.437] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_2
+[13Dec2024 23:15:20.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_inner_part_0
+[13Dec2024 23:15:20.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_6
+[13Dec2024 23:15:20.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_3_base
+[13Dec2024 23:15:20.475] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_6
+[13Dec2024 23:15:20.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_inner_top_0
+[13Dec2024 23:15:20.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_2
+[13Dec2024 23:15:20.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_3
+[13Dec2024 23:15:20.526] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_2
+[13Dec2024 23:15:20.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_0
+[13Dec2024 23:15:20.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_1
+[13Dec2024 23:15:20.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_5
+[13Dec2024 23:15:20.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_7
+[13Dec2024 23:15:20.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_1
+[13Dec2024 23:15:20.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_0
+[13Dec2024 23:15:20.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_5
+[13Dec2024 23:15:20.563] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_wither_skeleton_0
+[13Dec2024 23:15:20.572] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_3
+[13Dec2024 23:15:20.574] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_4
+[13Dec2024 23:15:20.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_6
+[13Dec2024 23:15:20.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_cave_spider_1
+[13Dec2024 23:15:20.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_skeleton_0
+[13Dec2024 23:15:20.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_cave_spider_0
+[13Dec2024 23:15:20.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_7
+[13Dec2024 23:15:20.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_3
+[13Dec2024 23:15:20.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_4
+[13Dec2024 23:15:20.580] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_1
+[13Dec2024 23:15:20.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_5
+[13Dec2024 23:15:20.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_2
+[13Dec2024 23:15:20.583] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_0
+[13Dec2024 23:15:20.584] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_6
+[13Dec2024 23:15:20.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_2
+[13Dec2024 23:15:20.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_4
+[13Dec2024 23:15:20.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_5
+[13Dec2024 23:15:20.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_3
+[13Dec2024 23:15:20.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_8
+[13Dec2024 23:15:20.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_4
+[13Dec2024 23:15:24.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[13Dec2024 23:15:32.932] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:kakariko_village_goddess_statue
+[13Dec2024 23:16:18.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[13Dec2024 23:18:43.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 23:18:43.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -140,6 +140,7 @@
       "fir_clearing": "2024-12-13 04:15:56 +0000",
       "grassland": "2024-12-08 18:29:36 +0000",
       "prairie": "2024-12-08 18:30:35 +0000",
+      "snowy_coniferous_forest": "2024-12-13 23:17:55 +0000",
       "glowing_grotto": "2024-12-08 19:06:28 +0000",
       "gravel_beach": "2024-12-13 04:15:33 +0000",
       "rainforest": "2024-12-13 03:22:13 +0000"
@@ -594,6 +595,7 @@
       "minecraft:lukewarm_ocean": "2024-12-08 18:45:01 +0000",
       "minecraft:river": "2024-12-08 18:30:25 +0000",
       "minecraft:stony_shore": "2024-12-08 18:56:38 +0000",
+      "minecraft:snowy_taiga": "2024-12-13 23:17:48 +0000",
       "minecraft:cold_ocean": "2024-12-13 04:15:34 +0000",
       "minecraft:forest": "2024-12-08 18:30:59 +0000",
       "minecraft:jungle": "2024-12-08 18:40:18 +0000",
@@ -2032,7 +2034,8 @@
   },
   "quark:get_all_blossom_saplings": {
     "criteria": {
-      "red": "2024-12-08 19:04:53 +0000"
+      "red": "2024-12-08 19:04:53 +0000",
+      "blue": "2024-12-13 23:18:34 +0000"
     },
     "done": false
   },
@@ -6946,6 +6949,12 @@
       "has_diamond_gloves": "2024-12-13 20:35:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-13 23:18:43 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
