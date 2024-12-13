@@ -785,7 +785,8 @@
       "cooked_mutton": "2024-12-11 03:13:44 +0000",
       "cooked_beef": "2024-12-09 03:28:57 +0000",
       "porkchop": "2024-12-13 04:02:27 +0000",
-      "bread": "2024-12-08 18:34:32 +0000"
+      "bread": "2024-12-08 18:34:32 +0000",
+      "cooked_salmon": "2024-12-13 04:24:59 +0000"
     },
     "done": false
   },
@@ -5941,6 +5942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-13 04:32:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap/map": {
     "criteria": {
       "has_filled_map": "2024-12-13 04:11:47 +0000"
@@ -5953,6 +5960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-12-13 04:32:02 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2024-12-13 03:56:13 +0000"
@@ -5962,6 +5975,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-13 03:56:15 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/stove": {
+    "criteria": {
+      "has_bricks": "2024-12-13 04:32:02 +0000"
     },
     "done": true
   },
@@ -6001,6 +6020,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-13 04:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-13 04:32:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-13 03:53:08 +0000"
@@ -6019,6 +6050,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-13 04:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-13 04:32:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-12-13 03:50:35 +0000"
@@ -6028,6 +6071,12 @@
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2024-12-13 04:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-12-13 04:32:02 +0000"
     },
     "done": true
   },
@@ -6073,6 +6122,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-13 04:30:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-13 03:50:35 +0000"
@@ -6088,6 +6143,12 @@
   "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
       "has_leather_helmet": "2024-12-13 04:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-13 04:32:48 +0000"
     },
     "done": true
   },
@@ -6151,6 +6212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-13 04:32:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2024-12-13 03:56:16 +0000"
@@ -6160,6 +6227,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-13 04:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 04:30:28 +0000"
     },
     "done": true
   },
@@ -6217,9 +6290,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-13 04:32:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-13 03:53:08 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-13 04:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-13 04:32:02 +0000"
     },
     "done": true
   },
@@ -6244,6 +6335,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-12-13 03:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-13 04:32:48 +0000"
     },
     "done": true
   },

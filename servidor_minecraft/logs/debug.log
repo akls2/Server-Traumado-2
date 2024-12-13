@@ -16562,3 +16562,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 04:20:06.885] [Worker-Main-93/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_room_8 is being run through DFU (hash 53f045410686822cd37e5a852e5d058358949ac78b50e03b32464b98d855cf42), this will cause launch time delays
 [13Dec2024 04:24:04.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 04:24:04.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 04:29:04.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 04:29:04.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 04:34:04.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 04:34:04.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 04:35:43.575] [Server thread/DEBUG] [FTB Chunks/]: Loi_boy tried to claim @ minecraft:overworld:-65:280 but got result ALREADY_CLAIMED
+[13Dec2024 04:35:45.682] [Server thread/DEBUG] [FTB Chunks/]: Loi_boy tried to claim @ minecraft:overworld:-65:281 but got result ALREADY_CLAIMED
+[13Dec2024 04:35:46.952] [Server thread/DEBUG] [FTB Chunks/]: Loi_boy tried to claim @ minecraft:overworld:-64:281 but got result ALREADY_CLAIMED
+[13Dec2024 04:35:58.945] [Server thread/DEBUG] [FTB Chunks/]: Loi_boy tried to claim @ minecraft:overworld:-71:276 but got result ALREADY_CLAIMED
+[13Dec2024 04:35:59.580] [Server thread/DEBUG] [FTB Chunks/]: Loi_boy tried to claim @ minecraft:overworld:-71:277 but got result ALREADY_CLAIMED
+[13Dec2024 04:36:00.132] [Server thread/DEBUG] [FTB Chunks/]: Loi_boy tried to claim @ minecraft:overworld:-71:278 but got result ALREADY_CLAIMED
+[13Dec2024 04:36:00.885] [Server thread/DEBUG] [FTB Chunks/]: Loi_boy tried to claim @ minecraft:overworld:-72:279 but got result ALREADY_CLAIMED
+[13Dec2024 04:37:19.998] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[13Dec2024 04:37:37.848] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:taiga_village_horned_statue
+[13Dec2024 04:37:37.851] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:kakariko_village_goddess_statue
+[13Dec2024 04:37:37.860] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[13Dec2024 04:37:38.231] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[13Dec2024 04:37:38.430] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
