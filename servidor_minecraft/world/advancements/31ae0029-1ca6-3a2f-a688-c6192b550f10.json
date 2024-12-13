@@ -580,8 +580,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-13 04:37:31 +0000",
       "minecraft:taiga": "2024-12-13 04:19:06 +0000",
       "minecraft:deep_ocean": "2024-12-11 03:33:44 +0000",
+      "minecraft:frozen_river": "2024-12-13 04:37:42 +0000",
       "minecraft:sunflower_plains": "2024-12-11 02:44:04 +0000",
       "minecraft:birch_forest": "2024-12-11 03:44:20 +0000",
       "minecraft:wooded_badlands": "2024-12-08 19:03:21 +0000",
@@ -785,6 +787,7 @@
       "cooked_mutton": "2024-12-11 03:13:44 +0000",
       "cooked_beef": "2024-12-09 03:28:57 +0000",
       "porkchop": "2024-12-13 04:02:27 +0000",
+      "cooked_cod": "2024-12-13 04:35:11 +0000",
       "bread": "2024-12-08 18:34:32 +0000",
       "cooked_salmon": "2024-12-13 04:24:59 +0000"
     },
@@ -6278,6 +6281,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2024-12-13 04:34:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-12-13 04:38:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-12-13 03:56:16 +0000"
@@ -6287,6 +6302,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-13 04:21:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2024-12-13 04:34:35 +0000"
     },
     "done": true
   },
