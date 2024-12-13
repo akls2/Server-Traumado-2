@@ -1666,3 +1666,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 16:09:08.743] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
 [13Dec2024 16:09:08.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Successfully filled 83 block(s)]
 [13Dec2024 16:09:48.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Successfully filled 67 block(s)]
+[13Dec2024 16:09:59.441] [pool-3-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[13Dec2024 16:11:56.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TPTM12[/127.155.29.244:39579] logged in with entity id 7908 at (93.13843996403773, 64.0, 152.51093760769854)
+[13Dec2024 16:11:56.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 joined the game
+[13Dec2024 16:11:58.007] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TPTM12 (18)
+[13Dec2024 16:11:58.008] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TPTM12
+[13Dec2024 16:11:58.010] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of da9bcdc2-242c-3be7-837d-57678c56b73b was loaded
+[13Dec2024 16:12:02.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da9bcdc2-242c-3be7-837d-57678c56b73b
+[13Dec2024 16:12:03.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da9bcdc2-242c-3be7-837d-57678c56b73b
+[13Dec2024 16:12:03.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TPTM12 (da9bcdc2-242c-3be7-837d-57678c56b73b) successfully connected to voice chat
+[13Dec2024 16:13:46.130] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[13Dec2024 16:14:03.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 has made the advancement [Sweet Dreams]
+[13Dec2024 16:14:19.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[13Dec2024 16:16:29.236] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Oleksander'/2450, l='ServerLevel[world]', x=728.30, y=72.00, z=-2050.50] died, message: 'Oleksander was shot by Ruslana'
+[13Dec2024 16:16:29.238] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Oleksander'/2450, l='ServerLevel[world]', x=728.30, y=72.00, z=-2050.50] died: Oleksander was shot by Ruslana
+[13Dec2024 16:16:29.243] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[13Dec2024 16:16:29.260] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[13Dec2024 16:18:17.479] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[13Dec2024 16:18:25.226] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[13Dec2024 16:18:52.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 was slain by Skeleton
+[13Dec2024 16:18:57.535] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[13Dec2024 16:19:11.694] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType

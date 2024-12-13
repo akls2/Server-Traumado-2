@@ -1108,6 +1108,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 16:15:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_crafting_table": "2024-12-13 15:53:49 +0000"
@@ -1153,6 +1159,12 @@
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2024-12-13 15:53:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 16:10:15 +0000"
     },
     "done": true
   },
@@ -1210,6 +1222,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_planks": "2024-12-13 16:15:38 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:root": {
     "criteria": {
       "crafting_table": "2024-12-13 15:53:49 +0000"
@@ -1228,6 +1246,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_planks": "2024-12-13 16:15:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-13 15:53:52 +0000"
@@ -1243,6 +1267,12 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-13 15:53:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-13 16:15:38 +0000"
     },
     "done": true
   },
@@ -1288,6 +1318,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 16:15:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_frame": {
     "criteria": {
       "forge:rods/wooden": "2024-12-13 15:53:53 +0000"
@@ -1309,6 +1345,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-13 15:54:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 16:15:38 +0000"
     },
     "done": true
   },
@@ -1505,6 +1547,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 16:15:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/coal": {
     "criteria": {
       "has_coal": "2024-12-13 15:57:55 +0000"
@@ -1589,6 +1637,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 16:15:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-13 15:58:16 +0000"
@@ -1646,6 +1700,12 @@
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_torch": "2024-12-13 15:57:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 16:15:38 +0000"
     },
     "done": true
   },
@@ -1766,6 +1826,12 @@
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2024-12-13 15:53:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 16:10:15 +0000"
     },
     "done": true
   },
@@ -1928,6 +1994,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-13 15:57:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_maple": {
+    "criteria": {
+      "has_planks": "2024-12-13 16:15:38 +0000"
     },
     "done": true
   },
