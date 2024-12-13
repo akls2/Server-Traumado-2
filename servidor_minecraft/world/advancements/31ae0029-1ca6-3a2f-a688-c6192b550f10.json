@@ -1775,6 +1775,7 @@
       "minecraft:creeper": "2024-12-11 03:26:13 +0000",
       "minecraft:phantom": "2024-12-11 02:38:39 +0000",
       "minecraft:witch": "2024-12-09 02:52:08 +0000",
+      "minecraft:wither_skeleton": "2024-12-13 17:57:04 +0000",
       "minecraft:cave_spider": "2024-12-13 17:37:24 +0000",
       "minecraft:zombie": "2024-12-08 18:49:15 +0000",
       "minecraft:drowned": "2024-12-13 04:10:48 +0000"
@@ -6399,6 +6400,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2024-12-13 17:37:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-13 17:52:04 +0000"
     },
     "done": true
   },

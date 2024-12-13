@@ -1736,3 +1736,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 17:48:36.485] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/29583, l='ServerLevel[world]', x=-982.34, y=65.01, z=4850.58] died: Dinnerbone was slain by Loi_boy
 [13Dec2024 17:50:16.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
 [13Dec2024 17:50:17.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls has made the advancement [Super Creeps]
+[13Dec2024 17:56:04.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls withered away whilst fighting Wither Skeleton
+[13Dec2024 17:56:07.581] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[13Dec2024 17:56:31.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by Cave Spider
+[13Dec2024 17:56:42.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by Wither Skeleton
+[13Dec2024 17:58:49.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls moved wrongly!
+[13Dec2024 18:01:08.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls withered away whilst fighting Wither Skeleton
+[13Dec2024 18:01:34.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy was slain by Wither Skeleton
+[13Dec2024 18:01:34.993] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Loi_boy with unique ID travelersbackpack.iron_13.12.2024-18.01.34.dat
+[13Dec2024 18:01:34.996] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1002 Y: 69 Z: 4831
+[13Dec2024 18:01:45.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls has made the advancement [A... Fake?]
+[13Dec2024 18:02:14.102] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/35082, l='ServerLevel[world]', x=-997.09, y=81.01, z=4845.22] died: Dinnerbone was shot by Dinnerbone
