@@ -16364,3 +16364,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 03:56:04.940] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18303, l='ServerLevel[world]', x=-1562.50, y=87.00, z=2393.50]
 [13Dec2024 03:56:19.991] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18381, l='ServerLevel[world]', x=-1528.50, y=84.00, z=2401.50]
 [13Dec2024 03:56:40.241] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18423, l='ServerLevel[world]', x=-1511.50, y=89.00, z=2386.50]
+[13Dec2024 03:56:58.391] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18507, l='ServerLevel[world]', x=-1643.50, y=75.00, z=2409.50]
+[13Dec2024 03:57:37.839] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18653, l='ServerLevel[world]', x=-1665.50, y=74.00, z=2449.50]
+[13Dec2024 03:58:31.940] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18816, l='ServerLevel[world]', x=-1511.50, y=89.00, z=2388.50]
+[13Dec2024 03:58:59.853] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[13Dec2024 03:58:59.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <akls> bro que opinas de bad buny
+[13Dec2024 03:59:04.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 03:59:04.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 03:59:12.981] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[13Dec2024 03:59:17.146] [Server thread/DEBUG] [mixin/]: Mixing VibrationListenerMixin from mixins.deeperdarker.json into net.minecraft.world.level.gameevent.vibrations.VibrationSystem$Listener
+[13Dec2024 04:00:42.632] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[13Dec2024 04:00:42.667] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[13Dec2024 04:00:42.682] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[13Dec2024 04:00:42.696] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[13Dec2024 04:00:42.709] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[13Dec2024 04:00:56.854] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[13Dec2024 04:00:56.877] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[13Dec2024 04:02:19.779] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:cathedral_of_resurrection
+[13Dec2024 04:02:19.819] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:champions_graves_main
+[13Dec2024 04:02:21.128] [Worker-Main-80/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[13Dec2024 04:02:33.159] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[13Dec2024 04:03:44.137] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[13Dec2024 04:04:04.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 04:04:04.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
