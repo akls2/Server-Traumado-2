@@ -15849,3 +15849,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 19:19:44.431] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/12704, l='ServerLevel[world]', x=-973.48, y=105.01, z=4832.76] died: Dinnerbone was slain by Dinnerbone
 [13Dec2024 19:20:10.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 19:20:10.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 19:25:10.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 19:25:10.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 19:26:29.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:27:21.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by Wither Skeleton
+[13Dec2024 19:27:24.107] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[13Dec2024 19:27:24.141] [Server thread/DEBUG] [twilightforest/]: Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) respawned and received items held in storage
+[13Dec2024 19:28:42.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
+[13Dec2024 19:29:12.382] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15219, l='ServerLevel[world]', x=-1003.58, y=113.01, z=4830.80] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 19:29:18.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:29:18.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16223, l='ServerLevel[world]', x=-1000.74, y=112.73, z=4832.36] died: Dinnerbone was slain by Dinnerbone
+[13Dec2024 19:29:23.734] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16670, l='ServerLevel[world]', x=-1000.15, y=113.01, z=4829.67] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 19:29:25.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:29:26.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:29:26.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:29:26.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14591, l='ServerLevel[world]', x=-1003.19, y=113.01, z=4831.53] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 19:29:27.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/10851, l='ServerLevel[world]', x=-1004.85, y=113.01, z=4830.71] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 19:29:46.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by Wither Skeleton
+[13Dec2024 19:29:48.038] [Server thread/DEBUG] [twilightforest/]: Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) respawned and received items held in storage
+[13Dec2024 19:30:10.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 19:30:10.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 19:31:04.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls lost connection: Disconnected
+[13Dec2024 19:31:04.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls left the game
+[13Dec2024 19:31:04.245] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was unloaded
+[13Dec2024 19:31:04.246] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of akls
+[13Dec2024 19:31:04.247] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client akls
+[13Dec2024 19:31:04.375] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 1acc4442-96a9-3f81-88e0-481ccae5e760 does not have a secret
+[13Dec2024 19:31:27.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:31:47.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:32:27.033] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14825, l='ServerLevel[world]', x=-1001.13, y=113.01, z=4836.83] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 19:32:46.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:33:16.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:33:17.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:33:17.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:33:17.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:33:17.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:33:19.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:33:20.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
