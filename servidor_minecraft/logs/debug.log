@@ -16006,3 +16006,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 16:24:58.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shermy731 has made the advancement [Friendship Found]
 [13Dec2024 16:27:40.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 16:27:40.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 16:30:51.932] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[13Dec2024 16:30:51.932] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[13Dec2024 16:31:12.940] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:rito_village_goddess_statue
+[13Dec2024 16:31:12.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:savanna_village_horned_statue
+[13Dec2024 16:31:12.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[13Dec2024 16:31:12.957] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[13Dec2024 16:32:40.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 16:32:40.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 16:36:17.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 has made the advancement [Suit Up]
+[13Dec2024 16:37:40.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 16:37:40.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 16:40:05.182] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler

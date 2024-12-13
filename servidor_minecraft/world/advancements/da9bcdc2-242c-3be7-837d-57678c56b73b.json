@@ -3370,6 +3370,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-11 02:43:30 +0000",
       "minecraft:spider": "2024-12-13 16:18:39 +0000",
+      "minecraft:cave_spider": "2024-12-13 16:30:15 +0000",
       "minecraft:zombie": "2024-12-11 02:23:45 +0000"
     },
     "done": false
@@ -3710,9 +3711,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2024-12-13 16:31:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-13 16:14:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2024-12-13 16:31:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-13 16:36:17 +0000"
     },
     "done": true
   },
@@ -3734,15 +3753,39 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-13 16:36:24 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/sting": {
     "criteria": {
       "has_item": "2024-12-13 16:22:05 +0000"
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-13 16:36:17 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/misc/verglas": {
     "criteria": {
       "has_item": "2024-12-13 16:22:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-13 16:36:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2024-12-13 16:36:28 +0000"
     },
     "done": true
   },
