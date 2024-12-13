@@ -1753,3 +1753,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 18:05:36.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by Cave Spider
 [13Dec2024 18:06:13.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by Cave Spider
 [13Dec2024 18:07:54.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 18:20:21.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy withered away whilst fighting Wither Skeleton
+[13Dec2024 18:20:21.886] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Loi_boy with unique ID travelersbackpack.iron_13.12.2024-18.20.21.dat
+[13Dec2024 18:20:21.887] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -974 Y: 53 Z: 4845
