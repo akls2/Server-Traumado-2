@@ -1747,3 +1747,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 18:01:34.996] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1002 Y: 69 Z: 4831
 [13Dec2024 18:01:45.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls has made the advancement [A... Fake?]
 [13Dec2024 18:02:14.102] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/35082, l='ServerLevel[world]', x=-997.09, y=81.01, z=4845.22] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 18:02:33.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by Spider
+[13Dec2024 18:02:48.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Cover Me with Diamonds]
+[13Dec2024 18:03:03.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
+[13Dec2024 18:05:36.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by Cave Spider
+[13Dec2024 18:06:13.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by Cave Spider
+[13Dec2024 18:07:54.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!

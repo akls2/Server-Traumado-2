@@ -16465,3 +16465,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 18:01:36.943] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
 [13Dec2024 18:01:45.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls has made the advancement [A... Fake?]
 [13Dec2024 18:02:14.102] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/35082, l='ServerLevel[world]', x=-997.09, y=81.01, z=4845.22] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 18:02:33.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by Spider
+[13Dec2024 18:02:35.405] [Server thread/DEBUG] [twilightforest/]: Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) respawned and received items held in storage
+[13Dec2024 18:02:48.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Cover Me with Diamonds]
+[13Dec2024 18:02:49.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 18:02:49.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 18:03:03.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Loi_boy]
+[13Dec2024 18:05:36.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by Cave Spider
+[13Dec2024 18:05:37.719] [Server thread/DEBUG] [twilightforest/]: Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) respawned and received items held in storage
+[13Dec2024 18:06:13.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was slain by Cave Spider
+[13Dec2024 18:06:15.769] [Server thread/DEBUG] [twilightforest/]: Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) respawned and received items held in storage
+[13Dec2024 18:07:49.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 18:07:49.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 18:07:54.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
