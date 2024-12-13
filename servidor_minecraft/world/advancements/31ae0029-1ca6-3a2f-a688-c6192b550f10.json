@@ -128,7 +128,9 @@
       "scrubland": "2024-12-08 18:36:19 +0000",
       "floodplain": "2024-12-13 03:22:05 +0000",
       "lush_savanna": "2024-12-08 19:02:48 +0000",
+      "cold_desert": "2024-12-13 23:47:57 +0000",
       "overgrown_greens": "2024-12-11 03:23:20 +0000",
+      "coniferous_forest": "2024-12-13 23:50:23 +0000",
       "spider_nest": "2024-12-11 03:23:54 +0000",
       "dryland": "2024-12-08 18:56:15 +0000",
       "lush_desert": "2024-12-08 19:02:06 +0000",
@@ -141,6 +143,7 @@
       "grassland": "2024-12-08 18:29:36 +0000",
       "prairie": "2024-12-08 18:30:35 +0000",
       "snowy_coniferous_forest": "2024-12-13 23:17:55 +0000",
+      "snowy_fir_clearing": "2024-12-13 23:47:29 +0000",
       "glowing_grotto": "2024-12-08 19:06:28 +0000",
       "gravel_beach": "2024-12-13 04:15:33 +0000",
       "rainforest": "2024-12-13 03:22:13 +0000"
@@ -6950,9 +6953,45 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:52:55 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_wood": {
     "criteria": {
       "has_log": "2024-12-13 23:19:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-13 23:40:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:52:55 +0000"
     },
     "done": true
   },
@@ -6974,9 +7013,45 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:52:55 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_hanging_sign": {
     "criteria": {
       "has_planks": "2024-12-13 23:19:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_apple": {
+    "criteria": {
+      "apple": "2024-12-13 23:40:06 +0000"
     },
     "done": true
   },
