@@ -6627,6 +6627,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 19:40:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-13 19:10:09 +0000"
@@ -6644,6 +6650,12 @@
       "has_planks": "2024-12-13 19:10:09 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 19:40:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
@@ -6687,11 +6699,29 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 19:40:11 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-13 19:30:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-12-13 19:10:04 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 19:40:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
@@ -6699,11 +6729,29 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 19:40:11 +0000"
+    },
+    "done": false
+  },
   "soulsweapons:recipes/combat/withered_wabbajack": {
     "criteria": {
       "has_item": "2024-12-13 19:14:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 19:40:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 19:40:11 +0000"
+    },
+    "done": false
   },
   "vinery:recipes/birch_wine_rack_big": {
     "criteria": {
@@ -6711,17 +6759,47 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 19:40:11 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_the_recipe": "2024-12-13 19:10:09 +0000"
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 19:40:11 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/wither": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-12-13 19:14:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 19:40:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 19:40:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 19:40:11 +0000"
+    },
+    "done": false
   },
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
