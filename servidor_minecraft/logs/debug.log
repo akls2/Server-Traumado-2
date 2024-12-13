@@ -15468,3 +15468,47 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 19:50:44.901] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/5288, l='ServerLevel[world]', x=-983.37, y=121.01, z=4830.53] died: Dinnerbone was shot by Dinnerbone
 [13Dec2024 19:50:55.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/7473, l='ServerLevel[world]', x=-980.64, y=121.01, z=4836.38] died: Dinnerbone was shot by Dinnerbone
 [13Dec2024 19:51:08.073] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/7829, l='ServerLevel[world]', x=-977.31, y=121.01, z=4836.82] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 19:51:51.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/7556, l='ServerLevel[world]', x=-978.77, y=121.01, z=4832.01] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 19:52:15.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy was shot by Dinnerbone
+[13Dec2024 19:52:15.805] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Loi_boy with unique ID travelersbackpack.iron_13.12.2024-19.52.15.dat
+[13Dec2024 19:52:15.806] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -984 Y: 117 Z: 4837
+[13Dec2024 19:52:17.179] [Server thread/DEBUG] [twilightforest/]: Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) respawned and received items held in storage
+[13Dec2024 19:52:48.430] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_R_IK in MovementAnimation wom:animmodels/animations/biped/living/agony_walk.json
+[13Dec2024 19:52:48.430] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_L_IK in MovementAnimation wom:animmodels/animations/biped/living/agony_walk.json
+[13Dec2024 19:52:58.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy was slain by Wither Skeleton
+[13Dec2024 19:52:59.303] [Server thread/DEBUG] [twilightforest/]: Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) respawned and received items held in storage
+[13Dec2024 19:53:36.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 19:53:36.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 19:53:50.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy was slain by Wither Skeleton
+[13Dec2024 19:53:51.471] [Server thread/DEBUG] [twilightforest/]: Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) respawned and received items held in storage
+[13Dec2024 19:53:55.631] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[13Dec2024 19:53:55.631] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[13Dec2024 19:54:14.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:54:23.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:54:24.882] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14109, l='ServerLevel[world]', x=-979.42, y=121.01, z=4834.91] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 19:54:25.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14115, l='ServerLevel[world]', x=-980.11, y=121.01, z=4833.83] died: Dinnerbone was slain by Dinnerbone
+[13Dec2024 19:54:25.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14079, l='ServerLevel[world]', x=-979.50, y=121.01, z=4834.86] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 19:54:29.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:54:29.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:54:29.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:54:30.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:54:31.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14106, l='ServerLevel[world]', x=-979.39, y=121.01, z=4832.86] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 19:54:32.224] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14108, l='ServerLevel[world]', x=-980.34, y=118.97, z=4832.51] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 19:56:04.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:56:09.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14161, l='ServerLevel[world]', x=-992.40, y=121.01, z=4832.38] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 19:57:24.271] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16828, l='ServerLevel[world]', x=-1007.63, y=121.01, z=4826.58] died: Dinnerbone was slain by Dinnerbone
+[13Dec2024 19:57:33.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14295, l='ServerLevel[world]', x=-1006.13, y=121.01, z=4826.70] died: Dinnerbone was slain by Dinnerbone
+[13Dec2024 19:57:37.421] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14287, l='ServerLevel[world]', x=-997.30, y=121.01, z=4825.29] died: Dinnerbone was slain by Dinnerbone
+[13Dec2024 19:57:37.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14291, l='ServerLevel[world]', x=-1007.19, y=121.01, z=4822.13] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 19:57:40.624] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16617, l='ServerLevel[world]', x=-998.88, y=121.01, z=4822.68] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 19:57:40.923] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16851, l='ServerLevel[world]', x=-1005.48, y=121.01, z=4824.80] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 19:57:42.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14290, l='ServerLevel[world]', x=-1003.63, y=121.01, z=4824.82] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 19:57:43.589] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16306, l='ServerLevel[world]', x=-1002.91, y=121.01, z=4825.53] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 19:57:49.072] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16305, l='ServerLevel[world]', x=-1005.58, y=121.01, z=4826.68] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 19:58:19.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 19:58:25.731] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14076, l='ServerLevel[world]', x=-976.81, y=117.50, z=4840.93] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 19:58:29.881] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14239, l='ServerLevel[world]', x=-976.20, y=117.50, z=4840.93] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 19:58:36.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 19:58:36.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 20:01:30.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 20:01:31.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
