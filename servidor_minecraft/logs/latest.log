@@ -1692,3 +1692,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 16:36:17.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 has made the advancement [Suit Up]
 [13Dec2024 16:40:05.182] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
 [13Dec2024 16:41:16.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Successfully filled 113 block(s)]
+[13Dec2024 16:52:21.429] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/skill/guard/GuardSkill$BlockType
+[13Dec2024 16:54:42.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <akls> duerman mrd
+[13Dec2024 16:55:04.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Gave 1 [Orange Bed] to TPTM12]
+[13Dec2024 16:58:26.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shermy731 lost connection: Disconnected
+[13Dec2024 16:58:26.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shermy731 left the game
+[13Dec2024 16:58:26.840] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 23977449-6652-3b82-a07d-de51b78117a8 was unloaded
+[13Dec2024 16:58:26.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client shermy731
+[13Dec2024 16:59:59.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Gave 1 [Standard Traveler's Backpack] to TPTM12]

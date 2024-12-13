@@ -16025,3 +16025,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 16:42:40.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Dec2024 16:47:40.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 16:47:40.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 16:52:21.429] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/skill/guard/GuardSkill$BlockType
+[13Dec2024 16:52:40.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 16:52:40.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 16:54:42.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <akls> duerman mrd
+[13Dec2024 16:55:04.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Gave 1 [Orange Bed] to TPTM12]
+[13Dec2024 16:57:40.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 16:57:40.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 16:58:26.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shermy731 lost connection: Disconnected
+[13Dec2024 16:58:26.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shermy731 left the game
+[13Dec2024 16:58:26.840] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 23977449-6652-3b82-a07d-de51b78117a8 was unloaded
+[13Dec2024 16:58:26.842] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of shermy731
+[13Dec2024 16:58:26.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client shermy731
+[13Dec2024 16:58:58.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[13Dec2024 16:59:59.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Gave 1 [Standard Traveler's Backpack] to TPTM12]
