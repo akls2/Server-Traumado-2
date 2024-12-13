@@ -1744,3 +1744,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 20:40:12.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy left the game
 [13Dec2024 20:40:12.275] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was unloaded
 [13Dec2024 20:40:12.278] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Loi_boy
+[13Dec2024 22:55:37.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loi_boy[/127.221.123.211:51107] logged in with entity id 40457 at (-1024.5, 69.0, 4499.5)
+[13Dec2024 22:55:37.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy joined the game
+[13Dec2024 22:55:38.676] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Loi_boy (18)
+[13Dec2024 22:55:38.677] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Loi_boy
+[13Dec2024 22:55:39.156] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was loaded
+[13Dec2024 22:55:44.210] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31ae0029-1ca6-3a2f-a688-c6192b550f10
+[13Dec2024 22:55:45.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31ae0029-1ca6-3a2f-a688-c6192b550f10
+[13Dec2024 22:55:45.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) successfully connected to voice chat
+[13Dec2024 22:57:07.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 22:57:29.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 22:57:30.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved wrongly!
+[13Dec2024 22:59:35.663] [Worker-Main-238/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[13Dec2024 22:59:42.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6723ms or 134 ticks behind
+[13Dec2024 22:59:55.146] [Worker-Main-249/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KomainuVariant

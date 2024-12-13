@@ -1778,6 +1778,7 @@
       "minecraft:witch": "2024-12-09 02:52:08 +0000",
       "minecraft:wither_skeleton": "2024-12-13 17:57:04 +0000",
       "minecraft:cave_spider": "2024-12-13 17:37:24 +0000",
+      "minecraft:stray": "2024-12-13 22:56:36 +0000",
       "minecraft:zombie": "2024-12-08 18:49:15 +0000",
       "minecraft:drowned": "2024-12-13 04:10:48 +0000"
     },
@@ -6765,77 +6766,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 20:39:36 +0000"
+      "has_enchanted_golden_apple": "2024-12-13 19:58:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 20:39:36 +0000"
+      "has_chainmail_chestplate": "2024-12-13 20:10:51 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 20:39:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 20:39:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 20:39:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 20:39:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 20:39:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 20:39:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 20:39:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 20:39:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 20:39:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 20:39:36 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
@@ -6859,12 +6800,6 @@
   "mcwwindows:recipes/parapets": {
     "criteria": {
       "has_wood": "2024-12-13 20:20:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2024-12-13 20:31:14 +0000"
     },
     "done": true
   },
@@ -6910,18 +6845,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2024-12-13 20:34:04 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_leggings_repairing": {
-    "criteria": {
-      "has_diamond_leggings": "2024-12-13 20:35:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-13 20:20:40 +0000"
@@ -6946,12 +6869,6 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_gloves_repairing": {
-    "criteria": {
-      "has_diamond_gloves": "2024-12-13 20:35:16 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/shutters": {
     "criteria": {
       "has_wood": "2024-12-13 20:20:40 +0000"
@@ -6967,18 +6884,6 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-13 20:20:40 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_chestplate_repairing": {
-    "criteria": {
-      "has_chainmail_chestplate": "2024-12-13 20:10:51 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/pork_knuckle": {
-    "criteria": {
-      "has_cooked_porkchop": "2024-12-13 20:35:01 +0000"
     },
     "done": true
   },
@@ -7012,9 +6917,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
-      "has_enchanted_golden_apple": "2024-12-13 19:58:54 +0000"
+      "has_blue_orchid": "2024-12-13 20:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-13 20:34:04 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-12-13 20:35:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-12-13 20:35:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2024-12-13 20:35:16 +0000"
     },
     "done": true
   },
