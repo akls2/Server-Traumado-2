@@ -1687,3 +1687,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 16:18:52.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 was slain by Skeleton
 [13Dec2024 16:18:57.535] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
 [13Dec2024 16:19:11.694] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[13Dec2024 16:22:05.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 has made the advancement [False Water]
+[13Dec2024 16:24:58.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shermy731 has made the advancement [Friendship Found]

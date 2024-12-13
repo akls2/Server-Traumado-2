@@ -118,6 +118,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "overgrown_greens": "2024-12-13 16:17:41 +0000",
       "spider_nest": "2024-12-11 02:05:03 +0000",
       "redwood_forest": "2024-12-11 00:34:37 +0000",
       "prairie": "2024-12-11 01:07:37 +0000"
@@ -3368,6 +3369,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-11 02:43:30 +0000",
+      "minecraft:spider": "2024-12-13 16:18:39 +0000",
       "minecraft:zombie": "2024-12-11 02:23:45 +0000"
     },
     "done": false
@@ -3711,6 +3713,36 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-13 16:14:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2024-12-13 16:22:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2024-12-13 16:22:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2024-12-13 16:22:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2024-12-13 16:22:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2024-12-13 16:22:05 +0000"
     },
     "done": true
   },
