@@ -6950,11 +6950,35 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "ecologics:recipes/ecologics/flowering_azalea_wood": {
     "criteria": {
-      "requirement": "2024-12-13 23:18:43 +0000"
+      "has_log": "2024-12-13 23:19:07 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 23:19:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 23:19:33 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 23:19:07 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_hanging_sign": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:19:07 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
