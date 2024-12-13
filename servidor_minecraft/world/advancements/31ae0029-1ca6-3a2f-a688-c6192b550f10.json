@@ -6645,6 +6645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-13 19:14:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2024-12-13 19:10:09 +0000"
@@ -6693,6 +6699,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2024-12-13 19:14:56 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/birch_wine_rack_big": {
     "criteria": {
       "has_birch_planks": "2024-12-13 19:10:09 +0000"
@@ -6705,9 +6717,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-13 19:14:56 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
       "has_diamond_boots": "2024-12-13 18:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-13 19:14:56 +0000"
     },
     "done": true
   },
@@ -6726,6 +6750,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-13 19:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-13 19:14:56 +0000"
     },
     "done": true
   },

@@ -15830,3 +15830,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 19:12:55.030] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/9643, l='ServerLevel[world]', x=-977.66, y=97.01, z=4836.45] died: Dinnerbone was slain by Dinnerbone
 [13Dec2024 19:13:00.035] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/11093, l='ServerLevel[world]', x=-979.50, y=97.01, z=4835.40] died: Dinnerbone was shot by Dinnerbone
 [13Dec2024 19:13:14.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls moved wrongly!
+[13Dec2024 19:13:22.293] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/8285, l='ServerLevel[world]', x=-981.62, y=97.01, z=4835.77] died: Dinnerbone was shot by Dinnerbone
+[13Dec2024 19:13:35.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls moved wrongly!
+[13Dec2024 19:13:45.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/8904, l='ServerLevel[world]', x=-988.46, y=93.06, z=4832.44] died: Dinnerbone was slain by akls
+[13Dec2024 19:13:58.533] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/10773, l='ServerLevel[world]', x=-982.18, y=97.01, z=4831.58] died: Dinnerbone was slain by Dinnerbone
+[13Dec2024 19:14:05.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls moved wrongly!
+[13Dec2024 19:14:56.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has made the advancement [Spooky Scary Skeleton]
+[13Dec2024 19:15:00.932] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/8255, l='ServerLevel[world]', x=-983.55, y=93.85, z=4834.88] died: Dinnerbone was slain by akls
+[13Dec2024 19:15:07.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/9855, l='ServerLevel[world]', x=-983.70, y=94.00, z=4837.70] died: Dinnerbone was slain by akls
+[13Dec2024 19:15:08.730] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/9496, l='ServerLevel[world]', x=-982.68, y=94.00, z=4836.74] died: Dinnerbone was slain by akls
+[13Dec2024 19:15:10.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 19:15:10.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 19:16:00.133] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/9586, l='ServerLevel[world]', x=-982.84, y=97.01, z=4834.27] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 19:16:04.084] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/9856, l='ServerLevel[world]', x=-983.70, y=97.01, z=4837.70] died: Dinnerbone was slain by Loi_boy
+[13Dec2024 19:16:05.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls moved wrongly!
+[13Dec2024 19:16:39.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls moved wrongly!
+[13Dec2024 19:16:39.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls moved wrongly!
+[13Dec2024 19:19:44.431] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/12704, l='ServerLevel[world]', x=-973.48, y=105.01, z=4832.76] died: Dinnerbone was slain by Dinnerbone
+[13Dec2024 19:20:10.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 19:20:10.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
