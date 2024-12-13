@@ -6493,99 +6493,81 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 18:22:49 +0000"
+      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "supplementaries:recipes/pedestal": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 18:22:49 +0000"
+      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 18:22:49 +0000"
+      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 18:22:49 +0000"
+      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "supplementaries:recipes/stone_tile": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 18:22:49 +0000"
+      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 18:22:49 +0000"
+      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 18:22:49 +0000"
+      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 18:22:49 +0000"
+      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 18:22:49 +0000"
+      "has_tag": "2024-12-13 16:05:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 18:22:49 +0000"
+      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 18:22:49 +0000"
+      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 18:22:49 +0000"
+      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-13 16:05:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2024-12-13 18:00:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_barrel": {
-    "criteria": {
-      "has_slabs": "2024-12-13 18:01:46 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/dark_oak_window": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 18:01:46 +0000"
     },
     "done": true
   },
@@ -6595,15 +6577,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
-      "has_cod": "2024-12-13 18:01:45 +0000"
+      "has_deepslate_tiles": "2024-12-13 16:05:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
-      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
+      "has_deepslate_tiles": "2024-12-13 16:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-13 16:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-13 16:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-13 16:05:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2024-12-13 17:00:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-12-13 17:50:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2024-12-13 18:00:52 +0000"
     },
     "done": true
   },
@@ -6613,27 +6631,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/sign_post_dark_oak": {
-    "criteria": {
-      "has_planks": "2024-12-13 18:01:46 +0000"
-    },
-    "done": true
-  },
   "mcwholidays:recipes/pumpkin_wheelbarrow": {
     "criteria": {
       "has_planks": "2024-12-13 18:00:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-13 16:05:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-13 18:01:46 +0000"
     },
     "done": true
   },
@@ -6661,18 +6661,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2024-12-13 18:01:46 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pedestal": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
-    },
-    "done": true
-  },
   "mcwholidays:recipes/small_pumpkin": {
     "criteria": {
       "has_planks": "2024-12-13 18:00:52 +0000"
@@ -6691,21 +6679,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
-    },
-    "done": true
-  },
   "mcwholidays:recipes/carved_friendly_pumpkin": {
     "criteria": {
       "has_planks": "2024-12-13 18:00:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
     },
     "done": true
   },
@@ -6715,15 +6691,141 @@
     },
     "done": true
   },
-  "supplementaries:recipes/item_shelf": {
+  "mcwholidays:recipes/pair_of_pumpkins": {
     "criteria": {
-      "minecraft:wooden_slabs": "2024-12-13 18:01:46 +0000"
+      "has_planks": "2024-12-13 18:00:52 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/stone_tile": {
+  "mcwholidays:recipes/carved_evil_pumpkin": {
     "criteria": {
-      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
+      "has_planks": "2024-12-13 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_screaming_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-13 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-13 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/large_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-13 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/scarecrow": {
+    "criteria": {
+      "has_planks": "2024-12-13 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/lit_evil_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-13 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_shocked_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-13 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/lit_friendly_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-13 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-13 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-13 18:01:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 18:01:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "bluemoon_short": "2024-12-13 18:01:45 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:bluemoon_tools": {
+    "criteria": {
+      "soulsweapons:bluemoon_shortsword": "2024-12-13 18:01:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2024-12-13 18:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-13 18:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-13 18:01:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2024-12-13 18:01:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 18:01:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2024-12-13 18:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 18:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 18:01:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-13 18:01:46 +0000"
     },
     "done": true
   },
@@ -6736,18 +6838,6 @@
   "vinery:recipes/dark_oak_wine_rack_big": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-13 18:01:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-13 18:01:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
     },
     "done": true
   },
@@ -6769,51 +6859,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/pair_of_pumpkins": {
-    "criteria": {
-      "has_planks": "2024-12-13 18:00:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:all_weapons": {
-    "criteria": {
-      "bluemoon_short": "2024-12-13 18:01:45 +0000"
-    },
-    "done": false
-  },
   "vinery:recipes/dark_oak_wine_rack_small": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-13 18:01:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2024-12-13 17:00:43 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/carved_evil_pumpkin": {
-    "criteria": {
-      "has_planks": "2024-12-13 18:00:52 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/carved_screaming_pumpkin": {
-    "criteria": {
-      "has_planks": "2024-12-13 18:00:52 +0000"
     },
     "done": true
   },
@@ -6829,18 +6877,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2024-12-13 16:05:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2024-12-13 18:00:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-13 18:01:46 +0000"
@@ -6850,18 +6886,6 @@
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-13 18:01:46 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/large_pumpkin": {
-    "criteria": {
-      "has_planks": "2024-12-13 18:00:52 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:bluemoon_tools": {
-    "criteria": {
-      "soulsweapons:bluemoon_shortsword": "2024-12-13 18:01:45 +0000"
     },
     "done": true
   },
@@ -6877,27 +6901,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2024-12-13 18:01:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-13 18:01:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-13 16:05:40 +0000"
     },
     "done": true
   },
@@ -6913,87 +6919,21 @@
     },
     "done": true
   },
-  "dungeons_arise:find_infested_temple": {
-    "criteria": {
-      "location0": "2024-12-13 17:50:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-13 16:05:40 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/scarecrow": {
-    "criteria": {
-      "has_planks": "2024-12-13 18:00:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-13 16:05:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/lit_evil_pumpkin": {
-    "criteria": {
-      "has_planks": "2024-12-13 18:00:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2024-12-13 18:01:45 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/carved_shocked_pumpkin": {
-    "criteria": {
-      "has_planks": "2024-12-13 18:00:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-13 16:05:40 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/lit_friendly_pumpkin": {
-    "criteria": {
-      "has_planks": "2024-12-13 18:00:52 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stonecutting/stone_tile": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-13 16:05:23 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/food/moa_egg_pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2024-12-13 18:00:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2024-12-13 18:01:45 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2024-12-13 18:01:46 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-13 18:38:22 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_whiskey_cristelwalker": {
+    "criteria": {
+      "whiskey_cristelwalker": "2024-12-13 18:38:08 +0000"
     },
     "done": true
   },
