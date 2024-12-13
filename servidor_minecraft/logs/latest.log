@@ -1683,3 +1683,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 03:28:56.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy left the game
 [13Dec2024 03:28:56.894] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was unloaded
 [13Dec2024 03:28:56.895] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Loi_boy
+[13Dec2024 03:49:15.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loi_boy[/127.49.9.195:54317] logged in with entity id 16674 at (-1592.1165055880253, 70.0, 2394.162931543421)
+[13Dec2024 03:49:15.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy joined the game
+[13Dec2024 03:49:17.126] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Loi_boy (18)
+[13Dec2024 03:49:17.127] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Loi_boy
+[13Dec2024 03:49:17.139] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was loaded
+[13Dec2024 03:49:22.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31ae0029-1ca6-3a2f-a688-c6192b550f10
+[13Dec2024 03:49:23.269] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31ae0029-1ca6-3a2f-a688-c6192b550f10
+[13Dec2024 03:49:23.269] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) successfully connected to voice chat
+[13Dec2024 03:49:32.890] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17041, l='ServerLevel[world]', x=-1527.50, y=84.00, z=2403.50]
+[13Dec2024 03:49:58.341] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17042, l='ServerLevel[world]', x=-1519.50, y=90.00, z=2397.50]
+[13Dec2024 03:49:58.840] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17043, l='ServerLevel[world]', x=-1643.50, y=75.00, z=2408.50]
+[13Dec2024 03:50:28.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1589, y=71, z=2394} BlockPos{x=-1588, y=70, z=2394}
+[13Dec2024 03:50:28.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1589, y=71, z=2394} BlockPos{x=-1588, y=70, z=2394}
+[13Dec2024 03:50:28.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1589, y=71, z=2394} BlockPos{x=-1588, y=70, z=2394}
+[13Dec2024 03:50:36.542] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17066, l='ServerLevel[world]', x=-1493.50, y=79.00, z=2371.50]
+[13Dec2024 03:51:08.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: akls[/127.248.228.106:44215] logged in with entity id 17100 at (544.2090748247034, 73.0, 532.618860789097)
+[13Dec2024 03:51:08.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls joined the game
+[13Dec2024 03:51:11.848] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of akls (18)
+[13Dec2024 03:51:11.850] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to akls
+[13Dec2024 03:51:11.853] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was loaded
+[13Dec2024 03:51:25.641] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17465, l='ServerLevel[world]', x=-1521.50, y=90.00, z=2398.50]
+[13Dec2024 03:51:27.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1acc4442-96a9-3f81-88e0-481ccae5e760
+[13Dec2024 03:51:28.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1acc4442-96a9-3f81-88e0-481ccae5e760
+[13Dec2024 03:51:28.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) successfully connected to voice chat
+[13Dec2024 03:51:39.690] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17477, l='ServerLevel[world]', x=-1624.50, y=74.00, z=2398.50]
+[13Dec2024 03:52:07.900] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17506, l='ServerLevel[world]', x=-1493.50, y=79.00, z=2373.50]
+[13Dec2024 03:52:54.940] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17574, l='ServerLevel[world]', x=-1494.50, y=79.00, z=2371.50]
+[13Dec2024 03:52:59.241] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17577, l='ServerLevel[world]', x=-1626.50, y=74.00, z=2400.50]
+[13Dec2024 03:53:00.543] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17579, l='ServerLevel[world]', x=-1529.50, y=84.00, z=2403.50]
+[13Dec2024 03:53:08.591] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17605, l='ServerLevel[world]', x=-1630.50, y=79.00, z=2440.50]
+[13Dec2024 03:53:58.342] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17834, l='ServerLevel[world]', x=-1645.50, y=75.00, z=2409.50]
+[13Dec2024 03:54:02.940] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17849, l='ServerLevel[world]', x=-1626.50, y=74.00, z=2399.50]
+[13Dec2024 03:54:44.241] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18101, l='ServerLevel[world]', x=-1521.50, y=90.00, z=2399.50]
+[13Dec2024 03:55:45.840] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18295, l='ServerLevel[world]', x=-1519.50, y=90.00, z=2399.50]
+[13Dec2024 03:56:04.940] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18303, l='ServerLevel[world]', x=-1562.50, y=87.00, z=2393.50]
+[13Dec2024 03:56:19.991] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18381, l='ServerLevel[world]', x=-1528.50, y=84.00, z=2401.50]
+[13Dec2024 03:56:40.241] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18423, l='ServerLevel[world]', x=-1511.50, y=89.00, z=2386.50]
