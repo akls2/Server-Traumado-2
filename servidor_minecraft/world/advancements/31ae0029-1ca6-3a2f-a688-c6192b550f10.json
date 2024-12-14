@@ -6954,27 +6954,57 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
-    "criteria": {
-      "has_planks": "2024-12-13 23:52:55 +0000"
-    },
-    "done": true
-  },
   "ecologics:recipes/ecologics/flowering_azalea_wood": {
     "criteria": {
       "has_log": "2024-12-13 23:19:07 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/fir_fence": {
+  "ecologics:recipes/ecologics/flowering_azalea_planks": {
     "criteria": {
-      "has_planks": "2024-12-13 23:52:55 +0000"
+      "has_logs": "2024-12-13 23:19:07 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_hanging_sign": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:19:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 23:19:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 23:19:33 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2024-12-13 23:40:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_apple": {
+    "criteria": {
+      "apple": "2024-12-13 23:40:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:52:55 +0000"
     },
     "done": true
   },
@@ -6996,24 +7026,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/fir_wood": {
-    "criteria": {
-      "has_log": "2024-12-13 23:19:33 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_planks": {
-    "criteria": {
-      "has_logs": "2024-12-13 23:19:33 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/flowering_azalea_planks": {
-    "criteria": {
-      "has_logs": "2024-12-13 23:19:07 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/fir_slab": {
     "criteria": {
       "has_planks": "2024-12-13 23:52:55 +0000"
@@ -7032,18 +7044,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2024-12-13 23:54:18 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/flowering_azalea_hanging_sign": {
-    "criteria": {
-      "has_planks": "2024-12-13 23:19:07 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-13 23:52:55 +0000"
@@ -7056,11 +7056,77 @@
     },
     "done": true
   },
-  "vinery:main/get_apple": {
+  "dungeons_arise:find_bathhouse": {
     "criteria": {
-      "apple": "2024-12-13 23:40:06 +0000"
+      "location0": "2024-12-13 23:54:18 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 00:45:43 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2024-12-14 00:45:43 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/carrot_bag": {
+    "criteria": {
+      "has_carrot": "2024-12-14 00:45:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 00:45:43 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_everything": {
+    "criteria": {
+      "minecraft:cake": "2024-12-14 00:48:01 +0000"
+    },
+    "done": false
+  },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "hops": "2024-12-14 01:00:02 +0000"
+    },
+    "done": false
+  },
+  "brewery:main/crop_collector": {
+    "criteria": {
+      "brewery:hops": "2024-12-14 01:00:02 +0000"
+    },
+    "done": false
+  },
+  "bakery:main/get_all_cakes": {
+    "criteria": {
+      "minecraft:cake": "2024-12-14 00:48:01 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 00:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-14 00:45:43 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_all_caked_goods": {
+    "criteria": {
+      "minecraft:cake": "2024-12-14 00:48:01 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
