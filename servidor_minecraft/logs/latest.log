@@ -1736,3 +1736,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 01:32:59.864] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31ae0029-1ca6-3a2f-a688-c6192b550f10
 [14Dec2024 01:33:00.866] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31ae0029-1ca6-3a2f-a688-c6192b550f10
 [14Dec2024 01:33:00.866] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) successfully connected to voice chat
+[14Dec2024 01:34:57.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[14Dec2024 01:34:57.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has reached the goal [Pray to the Goddess]

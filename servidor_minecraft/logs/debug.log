@@ -16221,3 +16221,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 01:33:00.866] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Loi_boy to connected: {disabled=false, disconnected=false, uuid=31ae0029-1ca6-3a2f-a688-c6192b550f10, name=Loi_boy, group=null}
 [14Dec2024 01:33:00.866] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) successfully connected to voice chat
 [14Dec2024 01:33:00.949] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Loi_boy: {disabled=true, disconnected=false, uuid=31ae0029-1ca6-3a2f-a688-c6192b550f10, name=Loi_boy, group=null}
+[14Dec2024 01:34:48.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:kakariko_village_goddess_statue
+[14Dec2024 01:34:57.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[14Dec2024 01:34:57.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has reached the goal [Pray to the Goddess]
+[14Dec2024 01:36:04.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 01:36:04.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 01:41:04.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 01:41:04.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 01:43:23.464] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_R_IK in CancelableDodgeAnimation wom:animmodels/animations/biped/skill/agony_rising_eagle.json
+[14Dec2024 01:43:23.464] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_L_IK in CancelableDodgeAnimation wom:animmodels/animations/biped/skill/agony_rising_eagle.json
+[14Dec2024 01:43:25.911] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_R_IK in MovementAnimation wom:animmodels/animations/biped/living/agony_walk.json
+[14Dec2024 01:43:25.911] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_L_IK in MovementAnimation wom:animmodels/animations/biped/living/agony_walk.json
