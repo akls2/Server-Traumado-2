@@ -1738,3 +1738,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 01:33:00.866] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) successfully connected to voice chat
 [14Dec2024 01:34:57.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
 [14Dec2024 01:34:57.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has reached the goal [Pray to the Goddess]
+[14Dec2024 01:45:25.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy was kicked for floating too long!
+[14Dec2024 01:45:25.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy lost connection: Flying is not enabled on this server
+[14Dec2024 01:45:25.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy left the game
+[14Dec2024 01:45:25.846] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was unloaded
+[14Dec2024 01:45:25.846] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Loi_boy
+[14Dec2024 01:45:32.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loi_boy[/127.221.123.211:44223] logged in with entity id 15179 at (567.4247089240837, 78.39183714135335, 529.4944716335491)
+[14Dec2024 01:45:32.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy joined the game
+[14Dec2024 01:45:33.320] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Loi_boy (18)
+[14Dec2024 01:45:33.321] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Loi_boy
+[14Dec2024 01:45:33.323] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was loaded
+[14Dec2024 01:45:38.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31ae0029-1ca6-3a2f-a688-c6192b550f10
+[14Dec2024 01:45:39.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31ae0029-1ca6-3a2f-a688-c6192b550f10
+[14Dec2024 01:45:39.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) successfully connected to voice chat
+[14Dec2024 01:46:27.232] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 31ae0029-1ca6-3a2f-a688-c6192b550f10 timed out
+[14Dec2024 01:46:27.232] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Loi_boy
+[14Dec2024 01:46:27.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Loi_boy
+[14Dec2024 01:47:32.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy lost connection: Timed out
+[14Dec2024 01:47:32.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy left the game
+[14Dec2024 01:47:32.998] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was unloaded
+[14Dec2024 01:47:32.998] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Loi_boy
