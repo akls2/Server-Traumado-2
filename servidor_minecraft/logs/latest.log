@@ -1702,3 +1702,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 01:06:06.127] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1195, y=67, z=5802}
 [14Dec2024 01:16:24.373] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [14Dec2024 01:19:56.247] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[14Dec2024 01:27:33.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved too quickly! -9.06529758546867,-0.29181966527913517,4.536256922109715
+[14Dec2024 01:28:55.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved too quickly! -6.893307332331915,-3.15233518685055,-6.599283539279895
+[14Dec2024 01:29:05.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy was kicked for floating too long!
+[14Dec2024 01:29:05.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy lost connection: Flying is not enabled on this server
+[14Dec2024 01:29:05.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy left the game
+[14Dec2024 01:29:05.955] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was unloaded
+[14Dec2024 01:29:05.957] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Loi_boy
+[14Dec2024 01:29:06.030] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Dec2024 01:29:24.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loi_boy[/127.221.123.211:48047] logged in with entity id 9660 at (-1628.3389412033487, 73.02442408821369, 5888.610374665872)
+[14Dec2024 01:29:24.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy joined the game
+[14Dec2024 01:29:25.045] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Loi_boy (18)
+[14Dec2024 01:29:25.045] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Loi_boy
+[14Dec2024 01:29:25.058] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was loaded
+[14Dec2024 01:29:33.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31ae0029-1ca6-3a2f-a688-c6192b550f10
+[14Dec2024 01:29:34.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31ae0029-1ca6-3a2f-a688-c6192b550f10
+[14Dec2024 01:29:34.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) successfully connected to voice chat
+[14Dec2024 01:30:25.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved too quickly! -6.134802475822653,7.419999986886978,-3.6624537594807407
+[14Dec2024 01:31:47.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy moved too quickly! -1.5591527419921931,0.23897087614427903,-10.169478500258265
+[14Dec2024 01:32:23.206] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[14Dec2024 01:32:38.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 31ae0029-1ca6-3a2f-a688-c6192b550f10 timed out
+[14Dec2024 01:32:38.950] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Loi_boy
+[14Dec2024 01:32:38.950] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Loi_boy
+[14Dec2024 01:32:54.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy lost connection: You logged in from another location
+[14Dec2024 01:32:54.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy left the game
+[14Dec2024 01:32:54.903] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was unloaded
+[14Dec2024 01:32:54.904] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Loi_boy
+[14Dec2024 01:32:54.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loi_boy[/127.221.123.211:48841] logged in with entity id 11347 at (-1033.699999988079, 69.5, 4486.053380821248)
+[14Dec2024 01:32:55.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy joined the game
+[14Dec2024 01:32:55.338] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Loi_boy (18)
+[14Dec2024 01:32:55.341] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Loi_boy
+[14Dec2024 01:32:55.347] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was loaded
+[14Dec2024 01:32:59.864] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31ae0029-1ca6-3a2f-a688-c6192b550f10
+[14Dec2024 01:33:00.866] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31ae0029-1ca6-3a2f-a688-c6192b550f10
+[14Dec2024 01:33:00.866] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) successfully connected to voice chat
