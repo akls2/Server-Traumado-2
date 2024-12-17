@@ -1,0 +1,156 @@
+{
+  "butcher:firstjoinadvancement": {
+    "criteria": {
+      "firstjoinadvancement_0": "2024-12-17 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-17 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-17 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2024-12-17 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-12-17 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-17 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "weaponmaster:parts/root": {
+    "criteria": {
+      "crafting_table": "2024-12-17 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "redwood_forest": "2024-12-17 22:15:53 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2024-12-17 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-12-17 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 22:15:53 +0000"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2024-12-17 22:15:52 +0000",
+      "wild_strawberry": "2024-12-17 22:15:52 +0000",
+      "corn": "2024-12-17 22:15:52 +0000",
+      "onion": "2024-12-17 22:15:52 +0000",
+      "wild_corn": "2024-12-17 22:15:52 +0000",
+      "wild_ribwort": "2024-12-17 22:15:52 +0000",
+      "strawberry": "2024-12-17 22:15:52 +0000",
+      "wild_nettle": "2024-12-17 22:15:52 +0000",
+      "barley": "2024-12-17 22:15:52 +0000",
+      "tomato": "2024-12-17 22:15:52 +0000",
+      "lettuce": "2024-12-17 22:15:52 +0000",
+      "wild_lettuce": "2024-12-17 22:15:52 +0000",
+      "wild_tomatoes": "2024-12-17 22:15:52 +0000",
+      "oat_seeds": "2024-12-17 22:15:52 +0000",
+      "tomato_seeds": "2024-12-17 22:15:52 +0000",
+      "barley_seeds": "2024-12-17 22:15:52 +0000",
+      "strawberry_seeds": "2024-12-17 22:15:52 +0000",
+      "lettuce_seeds": "2024-12-17 22:15:52 +0000",
+      "kernels": "2024-12-17 22:15:52 +0000",
+      "wild_barley": "2024-12-17 22:15:52 +0000",
+      "wild_onion": "2024-12-17 22:15:52 +0000",
+      "wild_oat": "2024-12-17 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2024-12-17 22:15:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "redwood_forest": "2024-12-17 22:15:53 +0000"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2024-12-17 22:15:53 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-17 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2024-12-17 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 22:15:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 22:15:53 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-17 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2024-12-17 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 22:15:53 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

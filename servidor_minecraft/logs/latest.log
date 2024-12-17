@@ -1658,3 +1658,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Dec2024 22:08:14.754] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [butcher:butcher] rejected their client side version number
 [17Dec2024 22:08:14.755] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [17Dec2024 22:08:14.792] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@559e97b3[id=<null>,name=Emacraftung,properties={},legacy=false] (/127.252.248.47:57143) lost connection: Connection closed - mismatched mod channel list
+[17Dec2024 22:15:05.241] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[17Dec2024 22:15:52.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Emacraftung[/127.252.248.47:48037] logged in with entity id 4620 at (3.5, 97.0, 46.5)
+[17Dec2024 22:15:52.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emacraftung joined the game
+[17Dec2024 22:15:57.230] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a74af33-531c-333f-9196-c69723422934 was loaded
+[17Dec2024 22:19:07.182] [pool-3-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[17Dec2024 22:19:10.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3428ms or 68 ticks behind
+[17Dec2024 22:19:23.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emacraftung suffocated in a wall
+[17Dec2024 22:19:25.108] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[17Dec2024 22:19:32.298] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[17Dec2024 22:19:40.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emacraftung has made the advancement [Minecraft Comes Alive]
+[17Dec2024 22:19:53.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported Emacraftung to akls]
+[17Dec2024 22:20:31.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emacraftung has made the advancement [Suit Up]
+[17Dec2024 22:20:35.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emacraftung has made the advancement [Isn't It Iron Pick]
+[17Dec2024 22:20:36.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emacraftung has made the advancement [Acquire Hardware]
+[17Dec2024 22:20:38.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emacraftung has made the advancement [Wild Grapes]
