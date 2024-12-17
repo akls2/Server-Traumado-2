@@ -1679,3 +1679,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Dec2024 22:26:10.157] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KitsuneVariant
 [17Dec2024 22:26:16.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to Emacraftung]
 [17Dec2024 22:30:27.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emacraftung has made the advancement [Monster Hunter]
+[17Dec2024 22:33:39.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=539, y=70, z=523} BlockPos{x=539, y=70, z=524}
+[17Dec2024 22:34:40.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=538, y=71, z=510} BlockPos{x=538, y=72, z=510}
+[17Dec2024 22:34:40.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=538, y=71, z=510} BlockPos{x=538, y=72, z=510}
+[17Dec2024 22:34:44.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=70, z=514} BlockPos{x=543, y=70, z=513}
+[17Dec2024 22:34:44.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=70, z=514} BlockPos{x=543, y=70, z=513}
+[17Dec2024 22:35:12.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=543, y=72, z=525} BlockPos{x=543, y=73, z=525}
+[17Dec2024 22:35:12.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=543, y=72, z=525} BlockPos{x=543, y=73, z=525}
+[17Dec2024 22:35:12.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=543, y=72, z=525} BlockPos{x=543, y=73, z=525}
+[17Dec2024 22:35:20.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=543, y=74, z=528} BlockPos{x=543, y=75, z=528}
+[17Dec2024 22:35:24.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=548, y=70, z=529} BlockPos{x=548, y=70, z=528}
+[17Dec2024 22:35:24.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=548, y=70, z=529} BlockPos{x=548, y=70, z=528}
+[17Dec2024 22:39:11.102] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[17Dec2024 22:39:11.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Successfully filled 7 block(s)]
+[17Dec2024 22:40:53.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Successfully filled 31 block(s)]
