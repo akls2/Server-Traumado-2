@@ -1693,3 +1693,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Dec2024 22:39:11.102] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
 [17Dec2024 22:39:11.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Successfully filled 7 block(s)]
 [17Dec2024 22:40:53.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Successfully filled 31 block(s)]
+[17Dec2024 22:50:07.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=546, y=72, z=524} BlockPos{x=546, y=73, z=524}
+[17Dec2024 22:51:27.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=559, y=79, z=524} BlockPos{x=560, y=79, z=525}
+[17Dec2024 22:51:28.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=557, y=79, z=524} BlockPos{x=558, y=79, z=524}
