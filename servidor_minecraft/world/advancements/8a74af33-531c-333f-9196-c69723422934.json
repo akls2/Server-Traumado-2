@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-17 22:58:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 22:20:36 +0000"
@@ -128,6 +134,18 @@
   "travelersbackpack:recipes/misc/backpack_tank": {
     "criteria": {
       "has_iron": "2024-12-17 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2024-12-17 22:58:18 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/carrot_bag": {
+    "criteria": {
+      "has_carrot": "2024-12-17 22:58:18 +0000"
     },
     "done": true
   },
@@ -188,6 +206,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-17 23:02:23 +0000"
     },
     "done": true
   },
@@ -308,6 +332,12 @@
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2024-12-17 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/beetroot_bag": {
+    "criteria": {
+      "has_beetroots": "2024-12-17 23:02:23 +0000"
     },
     "done": true
   },
@@ -821,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-17 23:02:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-17 22:21:14 +0000"
@@ -1014,6 +1050,12 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/onion_bag": {
+    "criteria": {
+      "has_onion": "2024-12-17 22:58:16 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/sandstone_stove": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 22:20:36 +0000"
@@ -1035,6 +1077,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-17 23:02:23 +0000"
     },
     "done": true
   },
@@ -1425,6 +1473,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
+    "criteria": {
+      "has_beetroot": "2024-12-17 23:02:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 22:20:36 +0000"
@@ -1518,6 +1572,12 @@
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-17 22:29:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-17 22:58:18 +0000"
     },
     "done": true
   },
@@ -1742,6 +1802,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-17 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-17 22:58:18 +0000"
     },
     "done": true
   },
@@ -1979,6 +2045,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-17 22:58:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 22:20:36 +0000"
@@ -1994,6 +2066,12 @@
   "smallships:recipes/transportation/jungle_drakkar": {
     "criteria": {
       "in_water": "2024-12-17 22:29:19 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/lettuce_bag": {
+    "criteria": {
+      "has_lettuce": "2024-12-17 22:58:16 +0000"
     },
     "done": true
   },
@@ -2135,6 +2213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-17 22:58:18 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/water_sprinkler": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 22:20:36 +0000"
@@ -2150,6 +2234,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-17 22:26:18 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/oat_ball": {
+    "criteria": {
+      "has_oat": "2024-12-17 22:58:18 +0000"
     },
     "done": true
   },
@@ -2194,6 +2284,12 @@
       "log_spam_fixer": "2024-12-17 22:15:53 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-17 23:02:23 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
@@ -2301,7 +2397,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2024-12-17 22:23:16 +0000",
-      "cooked_chicken": "2024-12-17 22:29:19 +0000"
+      "cooked_chicken": "2024-12-17 22:29:19 +0000",
+      "carrot": "2024-12-17 22:58:23 +0000"
     },
     "done": false
   },
@@ -2338,6 +2435,12 @@
   "aether:recipes/combat/golden_pendant": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-17 22:58:18 +0000"
     },
     "done": true
   },
