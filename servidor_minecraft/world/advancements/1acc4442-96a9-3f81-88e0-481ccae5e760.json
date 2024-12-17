@@ -4467,7 +4467,8 @@
     "criteria": {
       "vinery:white_grape_seeds": "2024-12-11 00:12:07 +0000",
       "vinery:red_grape_seeds": "2024-12-09 03:28:45 +0000",
-      "vinery:savanna_grape_seeds_red": "2024-12-02 02:24:41 +0000"
+      "vinery:savanna_grape_seeds_red": "2024-12-02 02:24:41 +0000",
+      "vinery:taiga_grape_seeds_red": "2024-12-17 21:56:39 +0000"
     },
     "done": false
   },
@@ -4798,7 +4799,8 @@
   },
   "brewery:main/wild_crops": {
     "criteria": {
-      "barley": "2024-12-08 18:47:48 +0000"
+      "barley": "2024-12-08 18:47:48 +0000",
+      "hops_seeds": "2024-12-17 21:55:24 +0000"
     },
     "done": false
   },
@@ -6927,88 +6929,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "brewery:main/get_whiskey_cristelwalker": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 19:30:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-13 19:30:49 +0000",
-      "log_spam_fixer": "2024-12-13 19:30:11 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 19:30:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 19:30:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 19:30:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 19:30:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 19:30:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 19:30:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 19:30:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 19:30:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 19:30:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-13 19:30:11 +0000"
-    },
-    "done": false
-  },
-  "farm_and_charm:recipes/window_sill": {
-    "criteria": {
-      "has_flower_pot": "2024-12-13 19:07:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
-    "criteria": {
-      "has_smooth_quartz": "2024-12-13 19:01:23 +0000"
+      "whiskey_cristelwalker": "2024-12-13 18:38:08 +0000"
     },
     "done": true
   },
@@ -7021,6 +6944,18 @@
   "aether:recipes/combat/diamond_sword_repairing": {
     "criteria": {
       "has_diamond_sword": "2024-12-13 18:41:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2024-12-13 18:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-13 19:01:23 +0000"
     },
     "done": true
   },
@@ -7042,15 +6977,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_boots_repairing": {
+  "farm_and_charm:recipes/window_sill": {
     "criteria": {
-      "has_diamond_boots": "2024-12-13 18:49:22 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/get_whiskey_cristelwalker": {
-    "criteria": {
-      "whiskey_cristelwalker": "2024-12-13 18:38:08 +0000"
+      "has_flower_pot": "2024-12-13 19:07:06 +0000"
     },
     "done": true
   },
