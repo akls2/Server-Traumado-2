@@ -1811,3 +1811,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Dec2024 23:28:03.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emacraftung left the game
 [17Dec2024 23:28:03.352] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8a74af33-531c-333f-9196-c69723422934 was unloaded
 [17Dec2024 23:28:03.357] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Emacraftung
+[17Dec2024 23:33:01.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ani_Shizen[/127.62.34.35:44513] logged in with entity id 13557 at (584.4796923567645, 68.0, 662.8051764094066)
+[17Dec2024 23:33:01.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ani_Shizen joined the game
+[17Dec2024 23:33:03.671] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ani_Shizen (18)
+[17Dec2024 23:33:03.672] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ani_Shizen
+[17Dec2024 23:33:03.750] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f2e05d06-5bad-37ea-b336-eb21d0b74123 was loaded
+[17Dec2024 23:33:09.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2e05d06-5bad-37ea-b336-eb21d0b74123
+[17Dec2024 23:33:10.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2e05d06-5bad-37ea-b336-eb21d0b74123
+[17Dec2024 23:33:10.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ani_Shizen (f2e05d06-5bad-37ea-b336-eb21d0b74123) successfully connected to voice chat
+[17Dec2024 23:38:33.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ani_Shizen lost connection: Disconnected
+[17Dec2024 23:38:33.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ani_Shizen left the game
+[17Dec2024 23:38:33.994] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f2e05d06-5bad-37ea-b336-eb21d0b74123 was unloaded
+[17Dec2024 23:38:33.995] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ani_Shizen
