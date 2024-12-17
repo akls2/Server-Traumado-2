@@ -7021,5 +7021,17 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/lettuce_bag": {
+    "criteria": {
+      "has_lettuce": "2024-12-17 22:56:49 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/oat_ball": {
+    "criteria": {
+      "has_oat": "2024-12-17 22:57:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
