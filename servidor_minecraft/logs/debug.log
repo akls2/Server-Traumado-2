@@ -16224,3 +16224,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Dec2024 23:09:29.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=554, y=63, z=518} BlockPos{x=553, y=63, z=518}
 [17Dec2024 23:09:29.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=554, y=63, z=518} BlockPos{x=553, y=63, z=518}
 [17Dec2024 23:11:06.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=567, y=73, z=528} BlockPos{x=567, y=72, z=528}
+[17Dec2024 23:12:34.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 23:12:34.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 23:14:10.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=537, y=77, z=528} BlockPos{x=537, y=78, z=528}
+[17Dec2024 23:16:27.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Successfully filled 29 block(s)]
+[17Dec2024 23:17:34.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 23:17:34.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 23:18:43.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Successfully filled 31 block(s)]
+[17Dec2024 23:20:31.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=548, y=77, z=524} BlockPos{x=548, y=78, z=524}
+[17Dec2024 23:20:31.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=548, y=77, z=524} BlockPos{x=548, y=78, z=524}
