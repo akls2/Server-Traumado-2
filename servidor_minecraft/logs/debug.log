@@ -15402,3 +15402,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Dec2024 19:32:23.213] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/world/entity/eventlistener/ComboCounterHandleEvent$Causal
 [18Dec2024 19:33:26.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 19:33:26.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 19:38:26.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 19:38:26.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 19:41:07.956] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[18Dec2024 19:42:25.311] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[18Dec2024 19:43:26.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 19:43:26.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 19:43:44.618] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[18Dec2024 19:46:05.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TPTM12 lost connection: Disconnected
+[18Dec2024 19:46:05.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 left the game
+[18Dec2024 19:46:05.311] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of da9bcdc2-242c-3be7-837d-57678c56b73b was unloaded
+[18Dec2024 19:46:05.312] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of TPTM12
+[18Dec2024 19:46:05.313] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TPTM12
