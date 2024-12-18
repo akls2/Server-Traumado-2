@@ -1641,3 +1641,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Dec2024 19:46:05.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPTM12 left the game
 [18Dec2024 19:46:05.311] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of da9bcdc2-242c-3be7-837d-57678c56b73b was unloaded
 [18Dec2024 19:46:05.313] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TPTM12
+[18Dec2024 19:52:45.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JM_a[/127.81.7.81:52451] logged in with entity id 2180 at (-559.5413643037672, 64.0, -363.9134894861834)
+[18Dec2024 19:52:45.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JM_a joined the game
+[18Dec2024 19:52:46.244] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JM_a (18)
+[18Dec2024 19:52:46.245] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JM_a
+[18Dec2024 19:52:46.309] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5bec9369-e061-32ac-bea0-35076a868634 was loaded
+[18Dec2024 19:52:51.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5bec9369-e061-32ac-bea0-35076a868634
+[18Dec2024 19:52:52.845] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5bec9369-e061-32ac-bea0-35076a868634
+[18Dec2024 19:52:52.846] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JM_a (5bec9369-e061-32ac-bea0-35076a868634) successfully connected to voice chat
+[18Dec2024 19:53:11.705] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[18Dec2024 19:53:44.382] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[18Dec2024 19:54:13.803] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2722, l='ServerLevel[world]', x=-445.50, y=76.00, z=-380.50]
+[18Dec2024 19:54:28.510] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[18Dec2024 19:54:28.513] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[18Dec2024 19:55:12.653] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3054, l='ServerLevel[world]', x=-445.50, y=76.00, z=-381.50]
+[18Dec2024 19:56:10.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=67, z=-343} BlockPos{x=-533, y=65, z=-341}
+[18Dec2024 19:56:10.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=65, z=-338} BlockPos{x=-533, y=65, z=-339}
+[18Dec2024 19:56:15.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-531, y=66, z=-335} BlockPos{x=-530, y=64, z=-337}
+[18Dec2024 19:56:15.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-531, y=66, z=-335} BlockPos{x=-530, y=64, z=-337}
+[18Dec2024 19:56:15.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-531, y=66, z=-335} BlockPos{x=-530, y=64, z=-337}
+[18Dec2024 19:56:31.102] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3261, l='ServerLevel[world]', x=-450.50, y=72.00, z=-381.50]
+[18Dec2024 19:56:34.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-548, y=69, z=-341} BlockPos{x=-548, y=67, z=-339}
+[18Dec2024 19:56:34.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-548, y=69, z=-341} BlockPos{x=-548, y=67, z=-339}
