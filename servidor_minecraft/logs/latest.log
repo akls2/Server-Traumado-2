@@ -1623,3 +1623,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Dec2024 18:52:08.321] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/phys/HitResult$Type
 [18Dec2024 18:52:08.323] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
 [18Dec2024 18:52:26.650] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[18Dec2024 18:58:58.144] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/profiling/metrics/MetricCategory
+[18Dec2024 18:59:29.556] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/alrex/parcool/common/network/SyncActionStateMessage$DataType
+[18Dec2024 19:02:16.811] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[18Dec2024 19:02:16.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola lalo mira si esta jesus en el server
+[18Dec2024 19:02:16.910] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Block
+[18Dec2024 19:02:26.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPTM12> solo toy yo
+[18Dec2024 19:02:27.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
