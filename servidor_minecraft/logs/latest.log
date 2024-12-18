@@ -1683,3 +1683,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Dec2024 20:14:42.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1acc4442-96a9-3f81-88e0-481ccae5e760
 [18Dec2024 20:14:43.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1acc4442-96a9-3f81-88e0-481ccae5e760
 [18Dec2024 20:14:43.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) successfully connected to voice chat
+[18Dec2024 20:18:36.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls lost connection: Disconnected
+[18Dec2024 20:18:36.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls left the game
+[18Dec2024 20:18:36.256] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was unloaded
+[18Dec2024 20:18:36.257] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client akls
