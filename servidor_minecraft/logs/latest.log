@@ -1666,3 +1666,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Dec2024 19:57:59.302] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3500, l='ServerLevel[world]', x=-587.50, y=73.00, z=-348.50]
 [18Dec2024 19:58:20.003] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3508, l='ServerLevel[world]', x=-450.50, y=72.00, z=-380.50]
 [18Dec2024 20:04:36.506] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4236, l='ServerLevel[world]', x=-443.50, y=76.00, z=-382.50]
+[18Dec2024 20:08:18.600] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4681, l='ServerLevel[world]', x=-586.50, y=73.00, z=-348.50]
+[18Dec2024 20:09:15.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JM_a has made the advancement [Sweet Dreams]
+[18Dec2024 20:09:15.428] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[18Dec2024 20:09:35.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] jesus sabes si esta lal en el server
+[18Dec2024 20:14:07.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JM_a lost connection: Disconnected
+[18Dec2024 20:14:07.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JM_a left the game
+[18Dec2024 20:14:07.306] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5bec9369-e061-32ac-bea0-35076a868634 was unloaded
+[18Dec2024 20:14:07.307] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JM_a
+[18Dec2024 20:14:32.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: akls[/127.186.130.90:41973] logged in with entity id 5387 at (538.3000000119209, 71.0, 523.8126353581615)
+[18Dec2024 20:14:33.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls joined the game
+[18Dec2024 20:14:34.068] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[18Dec2024 20:14:34.380] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of akls (18)
+[18Dec2024 20:14:34.382] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to akls
+[18Dec2024 20:14:34.390] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was loaded
+[18Dec2024 20:14:42.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1acc4442-96a9-3f81-88e0-481ccae5e760
+[18Dec2024 20:14:43.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1acc4442-96a9-3f81-88e0-481ccae5e760
+[18Dec2024 20:14:43.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) successfully connected to voice chat
