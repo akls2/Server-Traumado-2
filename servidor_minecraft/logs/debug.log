@@ -15396,3 +15396,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Dec2024 19:25:44.516] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [18Dec2024 19:25:44.517] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [18Dec2024 19:25:44.519] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[18Dec2024 19:28:26.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 19:28:26.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 19:32:08.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TPTM12 moved wrongly!
+[18Dec2024 19:32:23.213] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/world/entity/eventlistener/ComboCounterHandleEvent$Causal
+[18Dec2024 19:33:26.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 19:33:26.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

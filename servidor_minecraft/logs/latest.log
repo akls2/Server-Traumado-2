@@ -1632,3 +1632,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Dec2024 19:02:27.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
 [18Dec2024 19:24:04.807] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/skill/guard/GuardSkill$BlockType
 [18Dec2024 19:25:04.853] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KitsuneVariant
+[18Dec2024 19:32:08.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TPTM12 moved wrongly!
+[18Dec2024 19:32:23.213] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/world/entity/eventlistener/ComboCounterHandleEvent$Causal
