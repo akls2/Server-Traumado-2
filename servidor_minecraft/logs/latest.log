@@ -1630,3 +1630,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Dec2024 19:02:16.910] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Block
 [18Dec2024 19:02:26.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPTM12> solo toy yo
 [18Dec2024 19:02:27.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[18Dec2024 19:24:04.807] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/skill/guard/GuardSkill$BlockType
+[18Dec2024 19:25:04.853] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KitsuneVariant
