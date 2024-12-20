@@ -1685,3 +1685,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 07:53:35.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JM_a left the game
 [20Dec2024 07:53:35.110] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5bec9369-e061-32ac-bea0-35076a868634 was unloaded
 [20Dec2024 07:53:35.112] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JM_a
+[20Dec2024 08:45:55.150] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
