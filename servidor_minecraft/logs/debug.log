@@ -15991,3 +15991,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 08:43:35.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Dec2024 08:43:35.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Dec2024 08:45:55.150] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[20Dec2024 08:48:35.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 08:48:35.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 08:53:02.229] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1acc4442-96a9-3f81-88e0-481ccae5e760 timed out
+[20Dec2024 08:53:02.230] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player akls
+[20Dec2024 08:53:02.230] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to akls
+[20Dec2024 08:53:02.230] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with akls
+[20Dec2024 08:53:02.230] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with akls
+[20Dec2024 08:53:02.230] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to akls
+[20Dec2024 08:53:02.231] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 1acc4442-96a9-3f81-88e0-481ccae5e760 to disconnected: {disabled=true, disconnected=true, uuid=1acc4442-96a9-3f81-88e0-481ccae5e760, name=akls, group=null}
+[20Dec2024 08:53:35.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 08:53:35.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 08:54:38.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: akls lost connection: Disconnected
+[20Dec2024 08:54:38.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls left the game
+[20Dec2024 08:54:38.154] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1acc4442-96a9-3f81-88e0-481ccae5e760 was unloaded
+[20Dec2024 08:54:38.155] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of akls
+[20Dec2024 08:54:38.155] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client akls
+[20Dec2024 08:54:38.222] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
