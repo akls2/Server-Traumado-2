@@ -15922,3 +15922,33 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 07:23:35.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Dec2024 07:23:35.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Dec2024 07:23:37.263] [Server thread/DEBUG] [mixin/]: Mixing VibrationListenerMixin from mixins.deeperdarker.json into net.minecraft.world.level.gameevent.vibrations.VibrationSystem$Listener
+[20Dec2024 07:26:34.155] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KitsuneVariant
+[20Dec2024 07:26:56.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [akls: Teleported akls to JM_a]
+[20Dec2024 07:28:35.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 07:28:35.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 07:28:45.526] [Worker-Main-23/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[20Dec2024 07:28:45.553] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[20Dec2024 07:28:45.733] [Worker-Main-23/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[20Dec2024 07:28:45.785] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[20Dec2024 07:28:45.938] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[20Dec2024 07:28:46.223] [Worker-Main-23/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[20Dec2024 07:28:46.225] [Worker-Main-23/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[20Dec2024 07:29:03.854] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType
+[20Dec2024 07:29:04.063] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[20Dec2024 07:29:27.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: akls was blown up by Red Merchant
+[20Dec2024 07:29:29.065] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[20Dec2024 07:29:29.066] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[20Dec2024 07:29:29.103] [Server thread/DEBUG] [twilightforest/]: Player akls (1acc4442-96a9-3f81-88e0-481ccae5e760) respawned and received items held in storage
+[20Dec2024 07:29:31.507] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[20Dec2024 07:30:19.349] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6914, l='ServerLevel[world]', x=-563.50, y=70.00, z=-351.50]
+[20Dec2024 07:31:38.300] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7647, l='ServerLevel[world]', x=-583.50, y=71.00, z=-350.50]
+[20Dec2024 07:31:42.749] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7649, l='ServerLevel[world]', x=-563.50, y=70.00, z=-353.50]
+[20Dec2024 07:31:43.599] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7663, l='ServerLevel[world]', x=-565.50, y=70.00, z=-352.50]
+[20Dec2024 07:31:54.252] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[20Dec2024 07:32:21.792] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[20Dec2024 07:32:49.750] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7933, l='ServerLevel[world]', x=-583.50, y=71.00, z=-348.50]
+[20Dec2024 07:33:24.154] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[20Dec2024 07:33:35.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 07:33:35.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 07:33:43.799] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9104, l='ServerLevel[world]', x=-582.50, y=71.00, z=-350.50]
+[20Dec2024 07:34:25.298] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9474, l='ServerLevel[world]', x=-582.50, y=71.00, z=-348.50]
