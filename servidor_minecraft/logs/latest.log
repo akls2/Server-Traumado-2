@@ -1662,3 +1662,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Dec2024 16:38:15.277] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client akls
 [21Dec2024 16:39:04.717] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
 [21Dec2024 16:40:39.266] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[21Dec2024 16:50:19.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
