@@ -15706,3 +15706,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Dec2024 16:50:19.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [21Dec2024 16:51:34.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 16:51:35.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 16:56:34.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 16:56:34.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 17:00:40.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thepreica90 lost connection: Disconnected
+[21Dec2024 17:00:40.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thepreica90 left the game
+[21Dec2024 17:00:40.915] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6ffdd42e-ccd8-3719-9926-f3943500b4cd was unloaded
+[21Dec2024 17:00:40.916] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of thepreica90
+[21Dec2024 17:00:40.916] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client thepreica90
+[21Dec2024 17:00:40.919] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6ffdd42e-ccd8-3719-9926-f3943500b4cd does not have a secret
+[21Dec2024 17:01:34.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 17:01:35.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
