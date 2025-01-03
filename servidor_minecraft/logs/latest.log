@@ -1657,3 +1657,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 21:19:01.518] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
 [03Jan2025 21:20:47.989] [Worker-Main-30/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
 [03Jan2025 21:26:44.120] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[03Jan2025 21:33:57.450] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[03Jan2025 21:34:04.071] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KitsuneVariant
+[03Jan2025 21:34:15.957] [Worker-Main-37/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KomainuVariant
