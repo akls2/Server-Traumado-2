@@ -1781,6 +1781,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-13 03:08:18 +0000",
       "minecraft:skeleton": "2024-12-08 19:22:54 +0000",
+      "minecraft:ravager": "2025-01-03 21:57:08 +0000",
       "minecraft:vindicator": "2024-12-13 03:12:22 +0000",
       "minecraft:spider": "2024-12-11 03:11:44 +0000",
       "minecraft:creeper": "2024-12-11 03:26:13 +0000",
@@ -7194,9 +7195,21 @@
     },
     "done": true
   },
+  "paraglider:statues_bargain": {
+    "criteria": {
+      "bargain": "2025-01-03 22:00:20 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-01-03 21:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-03 21:58:31 +0000"
     },
     "done": true
   },

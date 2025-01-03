@@ -1682,3 +1682,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 21:54:21.022] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaidStatus
 [03Jan2025 21:55:49.166] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [03Jan2025 21:58:31.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has completed the challenge [Hero of the Village]
+[03Jan2025 22:00:20.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[03Jan2025 22:00:20.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy has reached the goal [Statue's Bargain]
+[03Jan2025 22:02:13.028] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[03Jan2025 22:05:19.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy suffocated in a wall
+[03Jan2025 22:05:19.049] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Loi_boy with unique ID travelersbackpack.iron_03.01.2025-22.05.19.dat
+[03Jan2025 22:05:19.056] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -795 Y: 64.0 Z: 5518
+[03Jan2025 22:05:20.702] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[03Jan2025 22:05:55.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[03Jan2025 22:05:55.419] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
