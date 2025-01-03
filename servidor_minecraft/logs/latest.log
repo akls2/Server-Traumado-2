@@ -1691,3 +1691,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 22:05:20.702] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
 [03Jan2025 22:05:55.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [03Jan2025 22:05:55.419] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[03Jan2025 22:19:42.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 31ae0029-1ca6-3a2f-a688-c6192b550f10 timed out
+[03Jan2025 22:19:42.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Loi_boy
+[03Jan2025 22:19:42.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Loi_boy
+[03Jan2025 22:19:57.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loi_boy lost connection: Disconnected
+[03Jan2025 22:19:57.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy left the game
+[03Jan2025 22:19:57.769] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was unloaded
+[03Jan2025 22:19:57.769] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Loi_boy
+[03Jan2025 22:19:57.864] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 22:19:57.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loi_boy[/127.100.101.208:50677] logged in with entity id 22232 at (-1025.3630557816055, 88.0, 4493.550644586593)
+[03Jan2025 22:19:57.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loi_boy joined the game
+[03Jan2025 22:19:58.119] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Loi_boy (18)
+[03Jan2025 22:19:58.120] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Loi_boy
+[03Jan2025 22:19:58.127] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 31ae0029-1ca6-3a2f-a688-c6192b550f10 was loaded
+[03Jan2025 22:20:01.880] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31ae0029-1ca6-3a2f-a688-c6192b550f10
+[03Jan2025 22:20:02.885] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31ae0029-1ca6-3a2f-a688-c6192b550f10
+[03Jan2025 22:20:02.885] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Loi_boy (31ae0029-1ca6-3a2f-a688-c6192b550f10) successfully connected to voice chat
