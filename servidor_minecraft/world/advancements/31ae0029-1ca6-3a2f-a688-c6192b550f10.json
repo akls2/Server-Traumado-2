@@ -7128,7 +7128,8 @@
   },
   "brewery:main/crop_collector": {
     "criteria": {
-      "brewery:hops": "2024-12-14 01:00:02 +0000"
+      "brewery:hops": "2024-12-14 01:00:02 +0000",
+      "farm_and_charm:corn": "2025-01-03 21:37:11 +0000"
     },
     "done": false
   },
@@ -7177,6 +7178,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-01-03 21:28:45 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/corn_bag": {
+    "criteria": {
+      "has_corn": "2025-01-03 21:37:11 +0000"
     },
     "done": true
   },
