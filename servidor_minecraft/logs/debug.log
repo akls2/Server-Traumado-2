@@ -15392,3 +15392,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Jan2025 02:31:04.940] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5bec9369-e061-32ac-bea0-35076a868634 was unloaded
 [04Jan2025 02:31:04.941] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of JM_a
 [04Jan2025 02:31:04.942] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JM_a
+[04Jan2025 02:36:03.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:36:03.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:41:03.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:41:03.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
